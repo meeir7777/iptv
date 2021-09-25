@@ -44,6 +44,10 @@
     <display-name lang="he">halatv</display-name>
     <url>http://www.yes.co.il</url>
   </channel>
+  <channel id="ALJAZEERA ENGLISH">
+    <display-name lang="he">ALJAZEERA ENGLISH</display-name>
+    <url>http://www.yes.co.il</url>
+  </channel>
   <channel id="5 Sport">
     <display-name lang="he">5 Sport</display-name>
     <url>http://www.yes.co.il</url>
@@ -4583,6 +4587,564 @@
   </programme>
   <programme start="20210929220000 +0300" stop="20210929230000 +0300" channel="halatv">
     <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210925063000 +0300" stop="20210925070000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מזרח 101</title>
+  </programme>
+  <programme start="20210925070000 +0300" stop="20210925073000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210925073000 +0300" stop="20210925080000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מדברים עם אל ג'זירה</title>
+  </programme>
+  <programme start="20210925080000 +0300" stop="20210925083000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210925083000 +0300" stop="20210925090000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הסליל האסור</title>
+  </programme>
+  <programme start="20210925090000 +0300" stop="20210925100000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
+  </programme>
+  <programme start="20210925100000 +0300" stop="20210925103000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210925103000 +0300" stop="20210925110000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210925110000 +0300" stop="20210925113000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210925113000 +0300" stop="20210925120000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מבוך התקשורת העולמית</title>
+  </programme>
+  <programme start="20210925120000 +0300" stop="20210925123000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210925123000 +0300" stop="20210925130000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חשבון הוצאות</title>
+  </programme>
+  <programme start="20210925130000 +0300" stop="20210925140000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210925140000 +0300" stop="20210925143000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210925143000 +0300" stop="20210925150000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210925150000 +0300" stop="20210925153000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">שורה תחתונה</title>
+  </programme>
+  <programme start="20210925153000 +0300" stop="20210925160000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">זוהי אירופה</title>
+  </programme>
+  <programme start="20210925160000 +0300" stop="20210925170000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210925170000 +0300" stop="20210925173000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210925173000 +0300" stop="20210925180000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210925180000 +0300" stop="20210925190000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210925190000 +0300" stop="20210925193000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210925193000 +0300" stop="20210925200000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">אנשים ועוצמה</title>
+  </programme>
+  <programme start="20210925200000 +0300" stop="20210925203000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210925203000 +0300" stop="20210925210000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210925210000 +0300" stop="20210925220000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210925220000 +0300" stop="20210925223000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210925223000 +0300" stop="20210925230000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מבוך התקשורת העולמית</title>
+  </programme>
+  <programme start="20210925230000 +0300" stop="20210926000000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">העולם שלנו</title>
+  </programme>
+  <programme start="20210926000000 +0300" stop="20210926010000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210926010000 +0300" stop="20210926013000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926013000 +0300" stop="20210926020000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">זריחה</title>
+  </programme>
+  <programme start="20210926020000 +0300" stop="20210926023000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926023000 +0300" stop="20210926030000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
+  </programme>
+  <programme start="20210926030000 +0300" stop="20210926033000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926033000 +0300" stop="20210926040000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210926040000 +0300" stop="20210926043000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">שורה תחתונה</title>
+  </programme>
+  <programme start="20210926043000 +0300" stop="20210926050000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">זוהי אירופה</title>
+  </programme>
+  <programme start="20210926050000 +0300" stop="20210926053000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926053000 +0300" stop="20210926060000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מבוך התקשורת העולמית</title>
+  </programme>
+  <programme start="20210926060000 +0300" stop="20210926063000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926063000 +0300" stop="20210926070000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חשבון הוצאות</title>
+  </programme>
+  <programme start="20210926070000 +0300" stop="20210926073000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926073000 +0300" stop="20210926080000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210926080000 +0300" stop="20210926083000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926083000 +0300" stop="20210926090000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">אנשים ועוצמה</title>
+  </programme>
+  <programme start="20210926090000 +0300" stop="20210926100000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">סיפורו של פולקה ברנדוט</title>
+  </programme>
+  <programme start="20210926100000 +0300" stop="20210926103000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926103000 +0300" stop="20210926110000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210926110000 +0300" stop="20210926113000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926113000 +0300" stop="20210926120000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מדברים עם אל ג'זירה</title>
+  </programme>
+  <programme start="20210926120000 +0300" stop="20210926123000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926123000 +0300" stop="20210926130000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">זריחה</title>
+  </programme>
+  <programme start="20210926130000 +0300" stop="20210926140000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210926140000 +0300" stop="20210926143000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926143000 +0300" stop="20210926150000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210926150000 +0300" stop="20210926160000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">העולם שלנו</title>
+  </programme>
+  <programme start="20210926160000 +0300" stop="20210926170000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210926170000 +0300" stop="20210926173000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926173000 +0300" stop="20210926180000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מבוך התקשורת העולמית</title>
+  </programme>
+  <programme start="20210926180000 +0300" stop="20210926190000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210926190000 +0300" stop="20210926193000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926193000 +0300" stop="20210926200000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מזרח 101</title>
+  </programme>
+  <programme start="20210926200000 +0300" stop="20210926203000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926203000 +0300" stop="20210926210000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210926210000 +0300" stop="20210926220000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210926220000 +0300" stop="20210926223000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210926223000 +0300" stop="20210926230000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מדברים עם אל ג'זירה</title>
+  </programme>
+  <programme start="20210926230000 +0300" stop="20210927000000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
+  </programme>
+  <programme start="20210927000000 +0300" stop="20210927010000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210927010000 +0300" stop="20210927013000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927013000 +0300" stop="20210927020000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מסכנים את הכל</title>
+  </programme>
+  <programme start="20210927020000 +0300" stop="20210927023000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927023000 +0300" stop="20210927030000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210927030000 +0300" stop="20210927033000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927033000 +0300" stop="20210927040000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210927040000 +0300" stop="20210927050000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">העולם שלנו</title>
+  </programme>
+  <programme start="20210927050000 +0300" stop="20210927053000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927053000 +0300" stop="20210927060000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מדברים עם אל ג'זירה</title>
+  </programme>
+  <programme start="20210927060000 +0300" stop="20210927063000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927063000 +0300" stop="20210927070000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">זריחה</title>
+  </programme>
+  <programme start="20210927070000 +0300" stop="20210927073000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927073000 +0300" stop="20210927080000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מבוך התקשורת העולמית</title>
+  </programme>
+  <programme start="20210927080000 +0300" stop="20210927083000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927083000 +0300" stop="20210927090000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מזרח 101</title>
+  </programme>
+  <programme start="20210927090000 +0300" stop="20210927093000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">שורה תחתונה</title>
+  </programme>
+  <programme start="20210927093000 +0300" stop="20210927100000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">זוהי אירופה</title>
+  </programme>
+  <programme start="20210927100000 +0300" stop="20210927103000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927103000 +0300" stop="20210927110000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210927110000 +0300" stop="20210927113000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927113000 +0300" stop="20210927120000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210927120000 +0300" stop="20210927123000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927123000 +0300" stop="20210927130000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מסכנים את הכל</title>
+  </programme>
+  <programme start="20210927130000 +0300" stop="20210927140000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210927140000 +0300" stop="20210927143000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927143000 +0300" stop="20210927150000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210927150000 +0300" stop="20210927160000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
+  </programme>
+  <programme start="20210927160000 +0300" stop="20210927170000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210927170000 +0300" stop="20210927173000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927173000 +0300" stop="20210927180000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מדברים עם אל ג'זירה</title>
+  </programme>
+  <programme start="20210927180000 +0300" stop="20210927190000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210927190000 +0300" stop="20210927193000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927193000 +0300" stop="20210927200000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חשבון הוצאות</title>
+  </programme>
+  <programme start="20210927200000 +0300" stop="20210927203000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927203000 +0300" stop="20210927210000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210927210000 +0300" stop="20210927220000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210927220000 +0300" stop="20210927223000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210927223000 +0300" stop="20210927230000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210927230000 +0300" stop="20210928000000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">סיפורו של פולקה ברנדוט</title>
+  </programme>
+  <programme start="20210928000000 +0300" stop="20210928010000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210928010000 +0300" stop="20210928013000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928013000 +0300" stop="20210928020000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
+  </programme>
+  <programme start="20210928020000 +0300" stop="20210928023000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928023000 +0300" stop="20210928030000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">אנשים ועוצמה</title>
+  </programme>
+  <programme start="20210928030000 +0300" stop="20210928033000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928033000 +0300" stop="20210928040000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210928040000 +0300" stop="20210928050000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
+  </programme>
+  <programme start="20210928050000 +0300" stop="20210928053000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928053000 +0300" stop="20210928060000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מזרח 101</title>
+  </programme>
+  <programme start="20210928060000 +0300" stop="20210928063000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928063000 +0300" stop="20210928070000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מסכנים את הכל</title>
+  </programme>
+  <programme start="20210928070000 +0300" stop="20210928073000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928073000 +0300" stop="20210928080000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210928080000 +0300" stop="20210928083000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928083000 +0300" stop="20210928090000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חשבון הוצאות</title>
+  </programme>
+  <programme start="20210928090000 +0300" stop="20210928100000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">העולם שלנו</title>
+  </programme>
+  <programme start="20210928100000 +0300" stop="20210928103000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928103000 +0300" stop="20210928110000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210928110000 +0300" stop="20210928113000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928113000 +0300" stop="20210928120000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210928120000 +0300" stop="20210928123000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928123000 +0300" stop="20210928130000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
+  </programme>
+  <programme start="20210928130000 +0300" stop="20210928140000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210928140000 +0300" stop="20210928143000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928143000 +0300" stop="20210928150000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210928150000 +0300" stop="20210928160000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">סיפורו של פולקה ברנדוט</title>
+  </programme>
+  <programme start="20210928160000 +0300" stop="20210928170000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210928170000 +0300" stop="20210928173000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928173000 +0300" stop="20210928180000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210928180000 +0300" stop="20210928190000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210928190000 +0300" stop="20210928193000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928193000 +0300" stop="20210928200000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">זריחה</title>
+  </programme>
+  <programme start="20210928200000 +0300" stop="20210928203000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928203000 +0300" stop="20210928210000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210928210000 +0300" stop="20210928220000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210928220000 +0300" stop="20210928223000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210928223000 +0300" stop="20210928230000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210928230000 +0300" stop="20210929000000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">העולם שלנו</title>
+  </programme>
+  <programme start="20210929000000 +0300" stop="20210929010000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210929010000 +0300" stop="20210929013000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929013000 +0300" stop="20210929020000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הסליל האסור</title>
+  </programme>
+  <programme start="20210929020000 +0300" stop="20210929023000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929023000 +0300" stop="20210929030000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מזרח 101</title>
+  </programme>
+  <programme start="20210929030000 +0300" stop="20210929033000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929033000 +0300" stop="20210929040000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210929040000 +0300" stop="20210929050000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">סיפורו של פולקה ברנדוט</title>
+  </programme>
+  <programme start="20210929050000 +0300" stop="20210929053000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929053000 +0300" stop="20210929060000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">זריחה</title>
+  </programme>
+  <programme start="20210929060000 +0300" stop="20210929063000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929063000 +0300" stop="20210929070000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
+  </programme>
+  <programme start="20210929070000 +0300" stop="20210929073000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929073000 +0300" stop="20210929080000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210929080000 +0300" stop="20210929083000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929083000 +0300" stop="20210929090000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מבוך התקשורת העולמית</title>
+  </programme>
+  <programme start="20210929090000 +0300" stop="20210929100000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
+  </programme>
+  <programme start="20210929100000 +0300" stop="20210929103000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929103000 +0300" stop="20210929110000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210929110000 +0300" stop="20210929113000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929113000 +0300" stop="20210929120000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210929120000 +0300" stop="20210929123000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929123000 +0300" stop="20210929130000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הסליל האסור</title>
+  </programme>
+  <programme start="20210929130000 +0300" stop="20210929140000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210929140000 +0300" stop="20210929143000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929143000 +0300" stop="20210929150000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210929150000 +0300" stop="20210929160000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">העולם שלנו</title>
+  </programme>
+  <programme start="20210929160000 +0300" stop="20210929170000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210929170000 +0300" stop="20210929173000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929173000 +0300" stop="20210929180000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
+  </programme>
+  <programme start="20210929180000 +0300" stop="20210929190000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210929190000 +0300" stop="20210929193000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929193000 +0300" stop="20210929200000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מסכנים את הכל</title>
+  </programme>
+  <programme start="20210929200000 +0300" stop="20210929203000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929203000 +0300" stop="20210929210000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
+  </programme>
+  <programme start="20210929210000 +0300" stop="20210929220000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
+  </programme>
+  <programme start="20210929220000 +0300" stop="20210929223000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
+  </programme>
+  <programme start="20210929223000 +0300" stop="20210929230000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
   </programme>
   <programme start="20210925063000 +0300" stop="20210925074500 +0300" channel="5 Sport">
     <title lang="he">גוף בתנועה</title>
