@@ -40,6 +40,10 @@
     <display-name lang="he">kneset</display-name>
     <url>http://www.yes.co.il</url>
   </channel>
+  <channel id="halatv">
+    <display-name lang="he">halatv</display-name>
+    <url>http://www.yes.co.il</url>
+  </channel>
   <channel id="5 Sport">
     <display-name lang="he">5 Sport</display-name>
     <url>http://www.yes.co.il</url>
@@ -4264,6 +4268,321 @@
   </programme>
   <programme start="20210929230000 +0300" stop="20210929233000 +0300" channel="kneset">
     <title lang="he">תכל'ס</title>
+  </programme>
+  <programme start="20210925080000 +0300" stop="20210925090000 +0300" channel="halatv">
+    <title lang="he">חלא שבאב</title>
+  </programme>
+  <programme start="20210925090000 +0300" stop="20210925100000 +0300" channel="halatv">
+    <title lang="he">הפרות על הכביש</title>
+  </programme>
+  <programme start="20210925100000 +0300" stop="20210925113500 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210925113500 +0300" stop="20210925122000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210925122000 +0300" stop="20210925130000 +0300" channel="halatv">
+    <title lang="he">מחצית שלישית</title>
+  </programme>
+  <programme start="20210925130000 +0300" stop="20210925140000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210925140000 +0300" stop="20210925160000 +0300" channel="halatv">
+    <title lang="he">סרט ערבי</title>
+  </programme>
+  <programme start="20210925160000 +0300" stop="20210925170000 +0300" channel="halatv">
+    <title lang="he">דרשת יום שישי</title>
+  </programme>
+  <programme start="20210925170000 +0300" stop="20210925180000 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210925180000 +0300" stop="20210925200000 +0300" channel="halatv">
+    <title lang="he">על מודע מע מעאד</title>
+  </programme>
+  <programme start="20210925200000 +0300" stop="20210925210000 +0300" channel="halatv">
+    <title lang="he">סהרנין עם לינה</title>
+  </programme>
+  <programme start="20210925210000 +0300" stop="20210925220000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210925220000 +0300" stop="20210925231500 +0300" channel="halatv">
+    <title lang="he">בסאם ג'אבר יחאור</title>
+  </programme>
+  <programme start="20210925231500 +0300" stop="20210925231500 +0300" channel="halatv">
+    <title lang="he">הכל בריאות</title>
+  </programme>
+  <programme start="20210925231500 +0300" stop="20210926001500 +0300" channel="halatv">
+    <title lang="he">הכל בריאות</title>
+  </programme>
+  <programme start="20210926001500 +0300" stop="20210926004500 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210926004500 +0300" stop="20210926020000 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210926020000 +0300" stop="20210926030000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210926030000 +0300" stop="20210926045000 +0300" channel="halatv">
+    <title lang="he">סרט ערבי</title>
+  </programme>
+  <programme start="20210926045000 +0300" stop="20210926060000 +0300" channel="halatv">
+    <title lang="he">מאנועית אריין</title>
+  </programme>
+  <programme start="20210926060000 +0300" stop="20210926070000 +0300" channel="halatv">
+    <title lang="he">חלא שבאב</title>
+  </programme>
+  <programme start="20210926070000 +0300" stop="20210926080000 +0300" channel="halatv">
+    <title lang="he">הפרות על הכביש</title>
+  </programme>
+  <programme start="20210926080000 +0300" stop="20210926100000 +0300" channel="halatv">
+    <title lang="he">על מודע מע מעאד</title>
+  </programme>
+  <programme start="20210926100000 +0300" stop="20210926110000 +0300" channel="halatv">
+    <title lang="he">מיסה ביום ראשון</title>
+  </programme>
+  <programme start="20210926110000 +0300" stop="20210926111500 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210926111500 +0300" stop="20210926121500 +0300" channel="halatv">
+    <title lang="he">בגידה בברית</title>
+  </programme>
+  <programme start="20210926121500 +0300" stop="20210926130000 +0300" channel="halatv">
+    <title lang="he">קליפים</title>
+  </programme>
+  <programme start="20210926130000 +0300" stop="20210926140000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210926140000 +0300" stop="20210926160000 +0300" channel="halatv">
+    <title lang="he">על מודע מע מעאד</title>
+  </programme>
+  <programme start="20210926160000 +0300" stop="20210926170000 +0300" channel="halatv">
+    <title lang="he">אלמואשר</title>
+  </programme>
+  <programme start="20210926170000 +0300" stop="20210926180000 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210926180000 +0300" stop="20210926190000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210926190000 +0300" stop="20210926200000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210926200000 +0300" stop="20210926210000 +0300" channel="halatv">
+    <title lang="he">הלא ריאדה -</title>
+  </programme>
+  <programme start="20210926210000 +0300" stop="20210926220000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210926220000 +0300" stop="20210926230000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210926230000 +0300" stop="20210926230000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210926230000 +0300" stop="20210927001500 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210927001500 +0300" stop="20210927010000 +0300" channel="halatv">
+    <title lang="he">אלמואשר</title>
+  </programme>
+  <programme start="20210927010000 +0300" stop="20210927020000 +0300" channel="halatv">
+    <title lang="he">הלא ריאדה</title>
+  </programme>
+  <programme start="20210927020000 +0300" stop="20210927030000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210927030000 +0300" stop="20210927050000 +0300" channel="halatv">
+    <title lang="he">על מודע מע מעאד</title>
+  </programme>
+  <programme start="20210927050000 +0300" stop="20210927060000 +0300" channel="halatv">
+    <title lang="he">בסאם ג'אבר יחאור</title>
+  </programme>
+  <programme start="20210927060000 +0300" stop="20210927073000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210927073000 +0300" stop="20210927083000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210927083000 +0300" stop="20210927100000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210927100000 +0300" stop="20210927113500 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210927113500 +0300" stop="20210927121500 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210927121500 +0300" stop="20210927130000 +0300" channel="halatv">
+    <title lang="he">על מודע מע מעאד</title>
+  </programme>
+  <programme start="20210927130000 +0300" stop="20210927140000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210927140000 +0300" stop="20210927150000 +0300" channel="halatv">
+    <title lang="he">אלמואשר</title>
+  </programme>
+  <programme start="20210927150000 +0300" stop="20210927160000 +0300" channel="halatv">
+    <title lang="he">הלא ריאדה</title>
+  </programme>
+  <programme start="20210927160000 +0300" stop="20210927170000 +0300" channel="halatv">
+    <title lang="he">יא הלא בדיף</title>
+  </programme>
+  <programme start="20210927170000 +0300" stop="20210927180000 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210927180000 +0300" stop="20210927190000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210927190000 +0300" stop="20210927200000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210927200000 +0300" stop="20210927210000 +0300" channel="halatv">
+    <title lang="he">סהרנין עם לינה</title>
+  </programme>
+  <programme start="20210927210000 +0300" stop="20210927220000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210927220000 +0300" stop="20210927230000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210927230000 +0300" stop="20210928000000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210928000000 +0300" stop="20210928010000 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210928010000 +0300" stop="20210928020000 +0300" channel="halatv">
+    <title lang="he">יא הלא בדיף</title>
+  </programme>
+  <programme start="20210928020000 +0300" stop="20210928030000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210928030000 +0300" stop="20210928040000 +0300" channel="halatv">
+    <title lang="he">סהרנין עם לינה</title>
+  </programme>
+  <programme start="20210928040000 +0300" stop="20210928050000 +0300" channel="halatv">
+    <title lang="he">אלמואשר</title>
+  </programme>
+  <programme start="20210928050000 +0300" stop="20210928060000 +0300" channel="halatv">
+    <title lang="he">בסאם ג'אבר יחאור</title>
+  </programme>
+  <programme start="20210928060000 +0300" stop="20210928070000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210928070000 +0300" stop="20210928100000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210928100000 +0300" stop="20210928111500 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210928111500 +0300" stop="20210928120000 +0300" channel="halatv">
+    <title lang="he">בגידה בברית</title>
+  </programme>
+  <programme start="20210928120000 +0300" stop="20210928130000 +0300" channel="halatv">
+    <title lang="he">יא הלא בדיף</title>
+  </programme>
+  <programme start="20210928130000 +0300" stop="20210928140000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210928140000 +0300" stop="20210928150000 +0300" channel="halatv">
+    <title lang="he">הלא ריאדה</title>
+  </programme>
+  <programme start="20210928150000 +0300" stop="20210928160000 +0300" channel="halatv">
+    <title lang="he">מאנועית אריין</title>
+  </programme>
+  <programme start="20210928160000 +0300" stop="20210928170000 +0300" channel="halatv">
+    <title lang="he">סהרנין עם לינה</title>
+  </programme>
+  <programme start="20210928170000 +0300" stop="20210928180000 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210928180000 +0300" stop="20210928190000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210928190000 +0300" stop="20210928200000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210928200000 +0300" stop="20210928210000 +0300" channel="halatv">
+    <title lang="he">סהרנין עם לינה</title>
+  </programme>
+  <programme start="20210928210000 +0300" stop="20210928220000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210928220000 +0300" stop="20210928230000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210928230000 +0300" stop="20210928230000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210928230000 +0300" stop="20210929001500 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210929001500 +0300" stop="20210929010000 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210929010000 +0300" stop="20210929020000 +0300" channel="halatv">
+    <title lang="he">סהרנין עם לינה</title>
+  </programme>
+  <programme start="20210929020000 +0300" stop="20210929030000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210929030000 +0300" stop="20210929040000 +0300" channel="halatv">
+    <title lang="he">הפרות על הכביש</title>
+  </programme>
+  <programme start="20210929040000 +0300" stop="20210929050000 +0300" channel="halatv">
+    <title lang="he">בסאם ג'אבר יחאור</title>
+  </programme>
+  <programme start="20210929050000 +0300" stop="20210929060000 +0300" channel="halatv">
+    <title lang="he">מחצית שלישית</title>
+  </programme>
+  <programme start="20210929060000 +0300" stop="20210929073000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210929073000 +0300" stop="20210929083000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210929083000 +0300" stop="20210929100000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210929100000 +0300" stop="20210929113500 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210929113500 +0300" stop="20210929122000 +0300" channel="halatv">
+    <title lang="he">בגידה בברית</title>
+  </programme>
+  <programme start="20210929122000 +0300" stop="20210929130000 +0300" channel="halatv">
+    <title lang="he">בגידה בברית</title>
+  </programme>
+  <programme start="20210929130000 +0300" stop="20210929140000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210929140000 +0300" stop="20210929150000 +0300" channel="halatv">
+    <title lang="he">חלא שבאב</title>
+  </programme>
+  <programme start="20210929150000 +0300" stop="20210929160000 +0300" channel="halatv">
+    <title lang="he">סהרנין עם לינה</title>
+  </programme>
+  <programme start="20210929160000 +0300" stop="20210929170000 +0300" channel="halatv">
+    <title lang="he">הכל בריאות</title>
+  </programme>
+  <programme start="20210929170000 +0300" stop="20210929180000 +0300" channel="halatv">
+    <title lang="he">יאמיאט ג'מיל וואהנה</title>
+  </programme>
+  <programme start="20210929180000 +0300" stop="20210929190000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210929190000 +0300" stop="20210929200000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
+  </programme>
+  <programme start="20210929200000 +0300" stop="20210929210000 +0300" channel="halatv">
+    <title lang="he">סהרנין עם לינה</title>
+  </programme>
+  <programme start="20210929210000 +0300" stop="20210929220000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
+  </programme>
+  <programme start="20210929220000 +0300" stop="20210929230000 +0300" channel="halatv">
+    <title lang="he">היום הזה</title>
   </programme>
   <programme start="20210925063000 +0300" stop="20210925074500 +0300" channel="5 Sport">
     <title lang="he">גוף בתנועה</title>
