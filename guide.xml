@@ -105,31 +105,31 @@
   <programme start="20211219211500 +0200" stop="20211219221000 +0200" channel="kan black">
     <title lang="he">עולם קטן</title>
   </programme>
-  <programme start="20211219221000 +0200" stop="20211219224200 +0200" channel="kan black">
+  <programme start="20211219221000 +0200" stop="20211219224500 +0200" channel="kan black">
     <title lang="he">פגישה עם רוני קובן</title>
   </programme>
-  <programme start="20211219224200 +0200" stop="20211219225500 +0200" channel="kan black">
+  <programme start="20211219224500 +0200" stop="20211219225800 +0200" channel="kan black">
     <title lang="he">מהצד השני עם גיא זהר</title>
   </programme>
-  <programme start="20211219225500 +0200" stop="20211219232500 +0200" channel="kan black">
+  <programme start="20211219225800 +0200" stop="20211219233000 +0200" channel="kan black">
     <title lang="he">חדשות הלילה עם רומי נוימרק</title>
   </programme>
-  <programme start="20211219232500 +0200" stop="20211219232500 +0200" channel="kan black">
+  <programme start="20211219233000 +0200" stop="20211219233000 +0200" channel="kan black">
     <title lang="he">האמריקאים 3</title>
   </programme>
-  <programme start="20211219232500 +0200" stop="20211220001200 +0200" channel="kan black">
+  <programme start="20211219233000 +0200" stop="20211220001300 +0200" channel="kan black">
     <title lang="he">האמריקאים 3</title>
   </programme>
-  <programme start="20211220001200 +0200" stop="20211220004200 +0200" channel="kan black">
+  <programme start="20211220001300 +0200" stop="20211220004300 +0200" channel="kan black">
     <title lang="he">העולם היום עם מואב ורדי</title>
   </programme>
-  <programme start="20211220004200 +0200" stop="20211220013700 +0200" channel="kan black">
+  <programme start="20211220004300 +0200" stop="20211220013700 +0200" channel="kan black">
     <title lang="he">עולם קטן</title>
   </programme>
-  <programme start="20211220013700 +0200" stop="20211220020700 +0200" channel="kan black">
+  <programme start="20211220013700 +0200" stop="20211220020800 +0200" channel="kan black">
     <title lang="he">פגישה עם רוני קובן</title>
   </programme>
-  <programme start="20211220020700 +0200" stop="20211220025500 +0200" channel="kan black">
+  <programme start="20211220020800 +0200" stop="20211220025500 +0200" channel="kan black">
     <title lang="he">משחקי הכיס</title>
   </programme>
   <programme start="20211220025500 +0200" stop="20211220034200 +0200" channel="kan black">
@@ -630,10 +630,10 @@
   <programme start="20211220054000 +0200" stop="20211220063000 +0200" channel="channal 9">
     <title lang="he">אהבה ושטויות אחרות</title>
   </programme>
-  <programme start="20211220063000 +0200" stop="20211220091500 +0200" channel="channal 9">
+  <programme start="20211220063000 +0200" stop="20211220090000 +0200" channel="channal 9">
     <title lang="he">יום</title>
   </programme>
-  <programme start="20211220091500 +0200" stop="20211220093000 +0200" channel="channal 9">
+  <programme start="20211220090000 +0200" stop="20211220093000 +0200" channel="channal 9">
     <title lang="he">בשמורה</title>
   </programme>
   <programme start="20211220093000 +0200" stop="20211220102000 +0200" channel="channal 9">
@@ -705,10 +705,10 @@
   <programme start="20211221014000 +0200" stop="20211221023000 +0200" channel="channal 9">
     <title lang="he">עץ או פלי. אתחול</title>
   </programme>
-  <programme start="20211221023000 +0200" stop="20211221033000 +0200" channel="channal 9">
+  <programme start="20211221023000 +0200" stop="20211221031500 +0200" channel="channal 9">
     <title lang="he">העדים. רקוויאם</title>
   </programme>
-  <programme start="20211221033000 +0200" stop="20211221034500 +0200" channel="channal 9">
+  <programme start="20211221031500 +0200" stop="20211221034500 +0200" channel="channal 9">
     <title lang="he">בשמורה</title>
   </programme>
   <programme start="20211221034500 +0200" stop="20211221042000 +0200" channel="channal 9">
@@ -1425,43 +1425,43 @@
   <programme start="20211219195400 +0200" stop="20211219213000 +0200" channel="13reshet">
     <title lang="he">המהדורה המרכזית</title>
   </programme>
-  <programme start="20211219213000 +0200" stop="20211219225000 +0200" channel="13reshet">
+  <programme start="20211219213000 +0200" stop="20211219230100 +0200" channel="13reshet">
     <title lang="he">אקס לאירוויזיון</title>
   </programme>
-  <programme start="20211219225000 +0200" stop="20211219232000 +0200" channel="13reshet">
+  <programme start="20211219230100 +0200" stop="20211219233400 +0200" channel="13reshet">
     <title lang="he">הצינור</title>
   </programme>
-  <programme start="20211219232000 +0200" stop="20211219235500 +0200" channel="13reshet">
+  <programme start="20211219233400 +0200" stop="20211219233400 +0200" channel="13reshet">
     <title lang="he">היום שהיה עם טל ברמן</title>
   </programme>
-  <programme start="20211219235500 +0200" stop="20211219235500 +0200" channel="13reshet">
+  <programme start="20211219233400 +0200" stop="20211220000700 +0200" channel="13reshet">
+    <title lang="he">היום שהיה עם טל ברמן</title>
+  </programme>
+  <programme start="20211220000700 +0200" stop="20211220005200 +0200" channel="13reshet">
     <title lang="he">ללא פילטרים</title>
   </programme>
-  <programme start="20211219235500 +0200" stop="20211220003500 +0200" channel="13reshet">
-    <title lang="he">ללא פילטרים</title>
-  </programme>
-  <programme start="20211220003500 +0200" stop="20211220012500 +0200" channel="13reshet">
+  <programme start="20211220005200 +0200" stop="20211220013200 +0200" channel="13reshet">
     <title lang="he">הכול כלול</title>
   </programme>
-  <programme start="20211220012500 +0200" stop="20211220020400 +0200" channel="13reshet">
+  <programme start="20211220013200 +0200" stop="20211220020600 +0200" channel="13reshet">
     <title lang="he">לפני החדשות</title>
   </programme>
-  <programme start="20211220020400 +0200" stop="20211220024800 +0200" channel="13reshet">
+  <programme start="20211220020600 +0200" stop="20211220030500 +0200" channel="13reshet">
     <title lang="he">שש</title>
   </programme>
-  <programme start="20211220024800 +0200" stop="20211220031800 +0200" channel="13reshet">
+  <programme start="20211220030500 +0200" stop="20211220033500 +0200" channel="13reshet">
     <title lang="he">מאחורי הכסף</title>
   </programme>
-  <programme start="20211220031800 +0200" stop="20211220035000 +0200" channel="13reshet">
+  <programme start="20211220033500 +0200" stop="20211220040300 +0200" channel="13reshet">
     <title lang="he">מיקס ישראלי</title>
   </programme>
-  <programme start="20211220035000 +0200" stop="20211220045500 +0200" channel="13reshet">
+  <programme start="20211220040300 +0200" stop="20211220045900 +0200" channel="13reshet">
     <title lang="he">הדו''ח היומי</title>
   </programme>
-  <programme start="20211220045500 +0200" stop="20211220053000 +0200" channel="13reshet">
+  <programme start="20211220045900 +0200" stop="20211220053300 +0200" channel="13reshet">
     <title lang="he">סטטוסקופ</title>
   </programme>
-  <programme start="20211220053000 +0200" stop="20211220060000 +0200" channel="13reshet">
+  <programme start="20211220053300 +0200" stop="20211220060000 +0200" channel="13reshet">
     <title lang="he">הצינור</title>
   </programme>
   <programme start="20211220060000 +0200" stop="20211220061500 +0200" channel="13reshet">
@@ -1485,13 +1485,16 @@
   <programme start="20211220100000 +0200" stop="20211220100500 +0200" channel="13reshet">
     <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20211220100500 +0200" stop="20211220120000 +0200" channel="13reshet">
+  <programme start="20211220100500 +0200" stop="20211220115800 +0200" channel="13reshet">
     <title lang="he">פותחים יום</title>
   </programme>
-  <programme start="20211220120000 +0200" stop="20211220125500 +0200" channel="13reshet">
+  <programme start="20211220115800 +0200" stop="20211220123200 +0200" channel="13reshet">
     <title lang="he">המצעד המשפטי</title>
   </programme>
-  <programme start="20211220125500 +0200" stop="20211220140000 +0200" channel="13reshet">
+  <programme start="20211220123200 +0200" stop="20211220124500 +0200" channel="13reshet">
+    <title lang="he">מאחורי הקלעים: זרים מושלמים</title>
+  </programme>
+  <programme start="20211220124500 +0200" stop="20211220140000 +0200" channel="13reshet">
     <title lang="he">הישרדות</title>
   </programme>
   <programme start="20211220140000 +0200" stop="20211220145900 +0200" channel="13reshet">
