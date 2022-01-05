@@ -48,6 +48,10 @@
     <display-name lang="he">ALJAZEERA ENGLISH</display-name>
     <url>http://www.yes.co.il</url>
   </channel>
+  <channel id="FTV white">
+    <display-name lang="he">FTV white</display-name>
+    <url>http://www.yes.co.il</url>
+  </channel>
   <programme start="20220105063300 +0200" stop="20220105065200 +0200" channel="kan black">
     <title lang="he">אומרים שהיה פה</title>
   </programme>
@@ -4850,5 +4854,1265 @@
   </programme>
   <programme start="20220109220000 +0200" stop="20220109230000 +0200" channel="ALJAZEERA ENGLISH">
     <title lang="he">עד</title>
+  </programme>
+  <programme start="20220105062500 +0200" stop="20220105063000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105063000 +0200" stop="20220105065500 +0200" channel="FTV white">
+    <title lang="he">פיטנס</title>
+  </programme>
+  <programme start="20220105065500 +0200" stop="20220105070000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105070000 +0200" stop="20220105072500 +0200" channel="FTV white">
+    <title lang="he">אופנת שנות ה</title>
+  </programme>
+  <programme start="20220105072500 +0200" stop="20220105073000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105073000 +0200" stop="20220105075500 +0200" channel="FTV white">
+    <title lang="he">טיפוח העור</title>
+  </programme>
+  <programme start="20220105075500 +0200" stop="20220105080000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105080000 +0200" stop="20220105082500 +0200" channel="FTV white">
+    <title lang="he">מייקאפ</title>
+  </programme>
+  <programme start="20220105082500 +0200" stop="20220105083000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105083000 +0200" stop="20220105085500 +0200" channel="FTV white">
+    <title lang="he">עיצובי שיער</title>
+  </programme>
+  <programme start="20220105085500 +0200" stop="20220105090000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105090000 +0200" stop="20220105092500 +0200" channel="FTV white">
+    <title lang="he">ספיישל מגזין GQ</title>
+  </programme>
+  <programme start="20220105092500 +0200" stop="20220105093000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105093000 +0200" stop="20220105095500 +0200" channel="FTV white">
+    <title lang="he">ספיישל מגזין GQ</title>
+  </programme>
+  <programme start="20220105095500 +0200" stop="20220105100000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105100000 +0200" stop="20220105102500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220105102500 +0200" stop="20220105103000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105103000 +0200" stop="20220105105500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220105105500 +0200" stop="20220105110000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105110000 +0200" stop="20220105112500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220105112500 +0200" stop="20220105113000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105113000 +0200" stop="20220105115500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220105115500 +0200" stop="20220105120000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105120000 +0200" stop="20220105122500 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה במילנו</title>
+  </programme>
+  <programme start="20220105122500 +0200" stop="20220105123000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105123000 +0200" stop="20220105130000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה במילנו</title>
+  </programme>
+  <programme start="20220105130000 +0200" stop="20220105132500 +0200" channel="FTV white">
+    <title lang="he">מעצבי האופנה</title>
+  </programme>
+  <programme start="20220105132500 +0200" stop="20220105133000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105133000 +0200" stop="20220105135500 +0200" channel="FTV white">
+    <title lang="he">מעצבי האופנה</title>
+  </programme>
+  <programme start="20220105135500 +0200" stop="20220105140000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105140000 +0200" stop="20220105142500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220105142500 +0200" stop="20220105143000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105143000 +0200" stop="20220105145500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220105145500 +0200" stop="20220105150000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105150000 +0200" stop="20220105152500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220105152500 +0200" stop="20220105153000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105153000 +0200" stop="20220105155500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220105155500 +0200" stop="20220105160000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105160000 +0200" stop="20220105162500 +0200" channel="FTV white">
+    <title lang="he">תוצרת דרום אפריקה</title>
+  </programme>
+  <programme start="20220105162500 +0200" stop="20220105163000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105163000 +0200" stop="20220105165500 +0200" channel="FTV white">
+    <title lang="he">תוצרת דרום אפריקה</title>
+  </programme>
+  <programme start="20220105165500 +0200" stop="20220105170000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105170000 +0200" stop="20220105172500 +0200" channel="FTV white">
+    <title lang="he">ספיישל קנדל ג'נר</title>
+  </programme>
+  <programme start="20220105172500 +0200" stop="20220105173000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105173000 +0200" stop="20220105175500 +0200" channel="FTV white">
+    <title lang="he">ספיישל קנדל ג'נר</title>
+  </programme>
+  <programme start="20220105175500 +0200" stop="20220105180000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105180000 +0200" stop="20220105182500 +0200" channel="FTV white">
+    <title lang="he">תוצרת בריטניה</title>
+  </programme>
+  <programme start="20220105182500 +0200" stop="20220105183000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105183000 +0200" stop="20220105185500 +0200" channel="FTV white">
+    <title lang="he">תוצרת בריטניה</title>
+  </programme>
+  <programme start="20220105185500 +0200" stop="20220105190000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105190000 +0200" stop="20220105192500 +0200" channel="FTV white">
+    <title lang="he">מגזיני אופנה</title>
+  </programme>
+  <programme start="20220105192500 +0200" stop="20220105193000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105193000 +0200" stop="20220105195500 +0200" channel="FTV white">
+    <title lang="he">מגזיני אופנה</title>
+  </programme>
+  <programme start="20220105195500 +0200" stop="20220105200000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105200000 +0200" stop="20220105202500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220105202500 +0200" stop="20220105203000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105203000 +0200" stop="20220105205500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220105205500 +0200" stop="20220105210000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105210000 +0200" stop="20220105212500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220105212500 +0200" stop="20220105213000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105213000 +0200" stop="20220105215500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220105215500 +0200" stop="20220105220000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105220000 +0200" stop="20220105222500 +0200" channel="FTV white">
+    <title lang="he">ספיישל פיליפ פליין</title>
+  </programme>
+  <programme start="20220105222500 +0200" stop="20220105223000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220105223000 +0200" stop="20220105225500 +0200" channel="FTV white">
+    <title lang="he">ספיישל פיליפ פליין</title>
+  </programme>
+  <programme start="20220105225500 +0200" stop="20220105230000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220105230000 +0200" stop="20220105233000 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220105233000 +0200" stop="20220105235500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220105235500 +0200" stop="20220106000000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220106000000 +0200" stop="20220106003000 +0200" channel="FTV white">
+    <title lang="he">סודות חצות</title>
+  </programme>
+  <programme start="20220106003000 +0200" stop="20220106005500 +0200" channel="FTV white">
+    <title lang="he">סודות חצות</title>
+  </programme>
+  <programme start="20220106005500 +0200" stop="20220106010000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220106010000 +0200" stop="20220106013000 +0200" channel="FTV white">
+    <title lang="he">תצוגת בגדי ים וחוף</title>
+  </programme>
+  <programme start="20220106013000 +0200" stop="20220106015500 +0200" channel="FTV white">
+    <title lang="he">תצוגת בגדי ים וחוף</title>
+  </programme>
+  <programme start="20220106015500 +0200" stop="20220106020000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220106020000 +0200" stop="20220106023000 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220106023000 +0200" stop="20220106025500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220106025500 +0200" stop="20220106030000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220106030000 +0200" stop="20220106033000 +0200" channel="FTV white">
+    <title lang="he">מעצבי האופנה</title>
+  </programme>
+  <programme start="20220106033000 +0200" stop="20220106035500 +0200" channel="FTV white">
+    <title lang="he">מעצבי האופנה</title>
+  </programme>
+  <programme start="20220106035500 +0200" stop="20220106040000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220106040000 +0200" stop="20220106043000 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220106043000 +0200" stop="20220106045500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220106045500 +0200" stop="20220106050000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220106050000 +0200" stop="20220106053000 +0200" channel="FTV white">
+    <title lang="he">האהובים ביותר של רוסיה</title>
+  </programme>
+  <programme start="20220106053000 +0200" stop="20220106055500 +0200" channel="FTV white">
+    <title lang="he">האהובים ביותר של רוסיה</title>
+  </programme>
+  <programme start="20220106055500 +0200" stop="20220106060000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220106060000 +0200" stop="20220106062500 +0200" channel="FTV white">
+    <title lang="he">פיטנס</title>
+  </programme>
+  <programme start="20220106062500 +0200" stop="20220106063000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106063000 +0200" stop="20220106065500 +0200" channel="FTV white">
+    <title lang="he">אופנה וספורט</title>
+  </programme>
+  <programme start="20220106065500 +0200" stop="20220106070000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106070000 +0200" stop="20220106072500 +0200" channel="FTV white">
+    <title lang="he">דוגמנים מדברים</title>
+  </programme>
+  <programme start="20220106072500 +0200" stop="20220106073000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106073000 +0200" stop="20220106075500 +0200" channel="FTV white">
+    <title lang="he">עיצובי שיער</title>
+  </programme>
+  <programme start="20220106075500 +0200" stop="20220106080000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106080000 +0200" stop="20220106082500 +0200" channel="FTV white">
+    <title lang="he">טיפוח העור</title>
+  </programme>
+  <programme start="20220106082500 +0200" stop="20220106083000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106083000 +0200" stop="20220106085500 +0200" channel="FTV white">
+    <title lang="he">מייקאפ</title>
+  </programme>
+  <programme start="20220106085500 +0200" stop="20220106090000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106090000 +0200" stop="20220106092500 +0200" channel="FTV white">
+    <title lang="he">ספיישל אירינה שייק</title>
+  </programme>
+  <programme start="20220106092500 +0200" stop="20220106093000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106093000 +0200" stop="20220106095500 +0200" channel="FTV white">
+    <title lang="he">ספיישל אירינה שייק</title>
+  </programme>
+  <programme start="20220106095500 +0200" stop="20220106100000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106100000 +0200" stop="20220106102500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220106102500 +0200" stop="20220106103000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106103000 +0200" stop="20220106105500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220106105500 +0200" stop="20220106110000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106110000 +0200" stop="20220106112500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220106112500 +0200" stop="20220106113000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106113000 +0200" stop="20220106115500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220106115500 +0200" stop="20220106120000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106120000 +0200" stop="20220106122500 +0200" channel="FTV white">
+    <title lang="he">שבוע אופנת הגברים</title>
+  </programme>
+  <programme start="20220106122500 +0200" stop="20220106123000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106123000 +0200" stop="20220106130000 +0200" channel="FTV white">
+    <title lang="he">שבוע אופנת הגברים</title>
+  </programme>
+  <programme start="20220106130000 +0200" stop="20220106132500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220106132500 +0200" stop="20220106133000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106133000 +0200" stop="20220106135500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220106135500 +0200" stop="20220106140000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106140000 +0200" stop="20220106142500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220106142500 +0200" stop="20220106143000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106143000 +0200" stop="20220106145500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220106145500 +0200" stop="20220106150000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106150000 +0200" stop="20220106152500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220106152500 +0200" stop="20220106153000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106153000 +0200" stop="20220106155500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220106155500 +0200" stop="20220106160000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106160000 +0200" stop="20220106162500 +0200" channel="FTV white">
+    <title lang="he">אופנה צעירה</title>
+  </programme>
+  <programme start="20220106162500 +0200" stop="20220106163000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106163000 +0200" stop="20220106165500 +0200" channel="FTV white">
+    <title lang="he">אופנה צעירה</title>
+  </programme>
+  <programme start="20220106165500 +0200" stop="20220106170000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106170000 +0200" stop="20220106172500 +0200" channel="FTV white">
+    <title lang="he">ספיישל אירינה שייק</title>
+  </programme>
+  <programme start="20220106172500 +0200" stop="20220106173000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106173000 +0200" stop="20220106175500 +0200" channel="FTV white">
+    <title lang="he">ספיישל אירינה שייק</title>
+  </programme>
+  <programme start="20220106175500 +0200" stop="20220106180000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106180000 +0200" stop="20220106182500 +0200" channel="FTV white">
+    <title lang="he">תוצרת יפן</title>
+  </programme>
+  <programme start="20220106182500 +0200" stop="20220106183000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106183000 +0200" stop="20220106185500 +0200" channel="FTV white">
+    <title lang="he">תוצרת יפן</title>
+  </programme>
+  <programme start="20220106185500 +0200" stop="20220106190000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106190000 +0200" stop="20220106192500 +0200" channel="FTV white">
+    <title lang="he">מכוניות יוקרה</title>
+  </programme>
+  <programme start="20220106192500 +0200" stop="20220106193000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106193000 +0200" stop="20220106195500 +0200" channel="FTV white">
+    <title lang="he">מכוניות יוקרה</title>
+  </programme>
+  <programme start="20220106195500 +0200" stop="20220106200000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106200000 +0200" stop="20220106202500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220106202500 +0200" stop="20220106203000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106203000 +0200" stop="20220106205500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220106205500 +0200" stop="20220106210000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106210000 +0200" stop="20220106212500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220106212500 +0200" stop="20220106213000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106213000 +0200" stop="20220106215500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220106215500 +0200" stop="20220106220000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106220000 +0200" stop="20220106222500 +0200" channel="FTV white">
+    <title lang="he">ספיישל אירינה שייק</title>
+  </programme>
+  <programme start="20220106222500 +0200" stop="20220106223000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220106223000 +0200" stop="20220106225500 +0200" channel="FTV white">
+    <title lang="he">ספיישל אירינה שייק</title>
+  </programme>
+  <programme start="20220106225500 +0200" stop="20220106230000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220106230000 +0200" stop="20220106233000 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220106233000 +0200" stop="20220106235500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220106235500 +0200" stop="20220107000000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220107000000 +0200" stop="20220107003000 +0200" channel="FTV white">
+    <title lang="he">סודות חצות</title>
+  </programme>
+  <programme start="20220107003000 +0200" stop="20220107005500 +0200" channel="FTV white">
+    <title lang="he">סודות חצות</title>
+  </programme>
+  <programme start="20220107005500 +0200" stop="20220107010000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220107010000 +0200" stop="20220107013000 +0200" channel="FTV white">
+    <title lang="he">תצוגת בגדי ים וחוף</title>
+  </programme>
+  <programme start="20220107013000 +0200" stop="20220107015500 +0200" channel="FTV white">
+    <title lang="he">תצוגת בגדי ים וחוף</title>
+  </programme>
+  <programme start="20220107015500 +0200" stop="20220107020000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220107020000 +0200" stop="20220107023000 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220107023000 +0200" stop="20220107025500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220107025500 +0200" stop="20220107030000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220107030000 +0200" stop="20220107033000 +0200" channel="FTV white">
+    <title lang="he">אופנת שנות ה</title>
+  </programme>
+  <programme start="20220107033000 +0200" stop="20220107035500 +0200" channel="FTV white">
+    <title lang="he">אופנת שנות ה</title>
+  </programme>
+  <programme start="20220107035500 +0200" stop="20220107040000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220107040000 +0200" stop="20220107043000 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220107043000 +0200" stop="20220107045500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220107045500 +0200" stop="20220107050000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220107050000 +0200" stop="20220107053000 +0200" channel="FTV white">
+    <title lang="he">האהובים ביותר של רוסיה</title>
+  </programme>
+  <programme start="20220107053000 +0200" stop="20220107055500 +0200" channel="FTV white">
+    <title lang="he">האהובים ביותר של רוסיה</title>
+  </programme>
+  <programme start="20220107055500 +0200" stop="20220107060000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220107060000 +0200" stop="20220107062500 +0200" channel="FTV white">
+    <title lang="he">אופנה וספורט</title>
+  </programme>
+  <programme start="20220107062500 +0200" stop="20220107063000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107063000 +0200" stop="20220107065500 +0200" channel="FTV white">
+    <title lang="he">פיטנס</title>
+  </programme>
+  <programme start="20220107065500 +0200" stop="20220107070000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107070000 +0200" stop="20220107072500 +0200" channel="FTV white">
+    <title lang="he">אופנת שנות ה</title>
+  </programme>
+  <programme start="20220107072500 +0200" stop="20220107073000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107073000 +0200" stop="20220107075500 +0200" channel="FTV white">
+    <title lang="he">טיפוח העור</title>
+  </programme>
+  <programme start="20220107075500 +0200" stop="20220107080000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107080000 +0200" stop="20220107082500 +0200" channel="FTV white">
+    <title lang="he">מייקאפ</title>
+  </programme>
+  <programme start="20220107082500 +0200" stop="20220107083000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107083000 +0200" stop="20220107085500 +0200" channel="FTV white">
+    <title lang="he">עיצובי שיער</title>
+  </programme>
+  <programme start="20220107085500 +0200" stop="20220107090000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107090000 +0200" stop="20220107092500 +0200" channel="FTV white">
+    <title lang="he">ספיישל מארק ג'ייקובס</title>
+  </programme>
+  <programme start="20220107092500 +0200" stop="20220107093000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107093000 +0200" stop="20220107095500 +0200" channel="FTV white">
+    <title lang="he">ספיישל מארק ג'ייקובס</title>
+  </programme>
+  <programme start="20220107095500 +0200" stop="20220107100000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107100000 +0200" stop="20220107102500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220107102500 +0200" stop="20220107103000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107103000 +0200" stop="20220107105500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220107105500 +0200" stop="20220107110000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107110000 +0200" stop="20220107112500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220107112500 +0200" stop="20220107113000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107113000 +0200" stop="20220107115500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220107115500 +0200" stop="20220107120000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107120000 +0200" stop="20220107122500 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה בפריס</title>
+  </programme>
+  <programme start="20220107122500 +0200" stop="20220107123000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107123000 +0200" stop="20220107130000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה בפריס</title>
+  </programme>
+  <programme start="20220107130000 +0200" stop="20220107132500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220107132500 +0200" stop="20220107133000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107133000 +0200" stop="20220107135500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220107135500 +0200" stop="20220107140000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107140000 +0200" stop="20220107142500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220107142500 +0200" stop="20220107143000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107143000 +0200" stop="20220107145500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220107145500 +0200" stop="20220107150000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107150000 +0200" stop="20220107152500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220107152500 +0200" stop="20220107153000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107153000 +0200" stop="20220107155500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220107155500 +0200" stop="20220107160000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107160000 +0200" stop="20220107162500 +0200" channel="FTV white">
+    <title lang="he">אופנה צעירה</title>
+  </programme>
+  <programme start="20220107162500 +0200" stop="20220107163000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107163000 +0200" stop="20220107165500 +0200" channel="FTV white">
+    <title lang="he">אופנה צעירה</title>
+  </programme>
+  <programme start="20220107165500 +0200" stop="20220107170000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107170000 +0200" stop="20220107172500 +0200" channel="FTV white">
+    <title lang="he">ספיישל אופנת סלבס</title>
+  </programme>
+  <programme start="20220107172500 +0200" stop="20220107173000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107173000 +0200" stop="20220107175500 +0200" channel="FTV white">
+    <title lang="he">ספיישל אופנת סלבס</title>
+  </programme>
+  <programme start="20220107175500 +0200" stop="20220107180000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107180000 +0200" stop="20220107182500 +0200" channel="FTV white">
+    <title lang="he">תוצרת ספרד</title>
+  </programme>
+  <programme start="20220107182500 +0200" stop="20220107183000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107183000 +0200" stop="20220107185500 +0200" channel="FTV white">
+    <title lang="he">תוצרת ספרד</title>
+  </programme>
+  <programme start="20220107185500 +0200" stop="20220107190000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107190000 +0200" stop="20220107192500 +0200" channel="FTV white">
+    <title lang="he">מגזיני אופנה</title>
+  </programme>
+  <programme start="20220107192500 +0200" stop="20220107193000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107193000 +0200" stop="20220107195500 +0200" channel="FTV white">
+    <title lang="he">מגזיני אופנה</title>
+  </programme>
+  <programme start="20220107195500 +0200" stop="20220107200000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107200000 +0200" stop="20220107202500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220107202500 +0200" stop="20220107203000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107203000 +0200" stop="20220107205500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220107205500 +0200" stop="20220107210000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107210000 +0200" stop="20220107212500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220107212500 +0200" stop="20220107213000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107213000 +0200" stop="20220107215500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220107215500 +0200" stop="20220107220000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107220000 +0200" stop="20220107222500 +0200" channel="FTV white">
+    <title lang="he">ספיישל שרה סמפאיו</title>
+  </programme>
+  <programme start="20220107222500 +0200" stop="20220107223000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220107223000 +0200" stop="20220107225500 +0200" channel="FTV white">
+    <title lang="he">ספיישל שרה סמפאיו</title>
+  </programme>
+  <programme start="20220107225500 +0200" stop="20220107230000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220107230000 +0200" stop="20220107233000 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220107233000 +0200" stop="20220107235500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220107235500 +0200" stop="20220108000000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220108000000 +0200" stop="20220108003000 +0200" channel="FTV white">
+    <title lang="he">סודות חצות</title>
+  </programme>
+  <programme start="20220108003000 +0200" stop="20220108005500 +0200" channel="FTV white">
+    <title lang="he">סודות חצות</title>
+  </programme>
+  <programme start="20220108005500 +0200" stop="20220108010000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220108010000 +0200" stop="20220108013000 +0200" channel="FTV white">
+    <title lang="he">תצוגת בגדי ים וחוף</title>
+  </programme>
+  <programme start="20220108013000 +0200" stop="20220108015500 +0200" channel="FTV white">
+    <title lang="he">תצוגת בגדי ים וחוף</title>
+  </programme>
+  <programme start="20220108015500 +0200" stop="20220108020000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220108020000 +0200" stop="20220108023000 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220108023000 +0200" stop="20220108025500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220108025500 +0200" stop="20220108030000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220108030000 +0200" stop="20220108033000 +0200" channel="FTV white">
+    <title lang="he">מעצבי האופנה</title>
+  </programme>
+  <programme start="20220108033000 +0200" stop="20220108035500 +0200" channel="FTV white">
+    <title lang="he">מעצבי האופנה</title>
+  </programme>
+  <programme start="20220108035500 +0200" stop="20220108040000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220108040000 +0200" stop="20220108043000 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220108043000 +0200" stop="20220108045500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220108045500 +0200" stop="20220108050000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220108050000 +0200" stop="20220108053000 +0200" channel="FTV white">
+    <title lang="he">האהובים ביותר של רוסיה</title>
+  </programme>
+  <programme start="20220108053000 +0200" stop="20220108055500 +0200" channel="FTV white">
+    <title lang="he">האהובים ביותר של רוסיה</title>
+  </programme>
+  <programme start="20220108055500 +0200" stop="20220108060000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220108060000 +0200" stop="20220108062500 +0200" channel="FTV white">
+    <title lang="he">פיטנס</title>
+  </programme>
+  <programme start="20220108062500 +0200" stop="20220108063000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108063000 +0200" stop="20220108065500 +0200" channel="FTV white">
+    <title lang="he">אופנה וספורט</title>
+  </programme>
+  <programme start="20220108065500 +0200" stop="20220108070000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108070000 +0200" stop="20220108072500 +0200" channel="FTV white">
+    <title lang="he">דוגמנים מדברים</title>
+  </programme>
+  <programme start="20220108072500 +0200" stop="20220108073000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108073000 +0200" stop="20220108075500 +0200" channel="FTV white">
+    <title lang="he">עיצובי שיער</title>
+  </programme>
+  <programme start="20220108075500 +0200" stop="20220108080000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108080000 +0200" stop="20220108082500 +0200" channel="FTV white">
+    <title lang="he">טיפוח העור</title>
+  </programme>
+  <programme start="20220108082500 +0200" stop="20220108083000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108083000 +0200" stop="20220108085500 +0200" channel="FTV white">
+    <title lang="he">מייקאפ</title>
+  </programme>
+  <programme start="20220108085500 +0200" stop="20220108090000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108090000 +0200" stop="20220108092500 +0200" channel="FTV white">
+    <title lang="he">ספיישל נטשה פולי</title>
+  </programme>
+  <programme start="20220108092500 +0200" stop="20220108093000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108093000 +0200" stop="20220108095500 +0200" channel="FTV white">
+    <title lang="he">ספיישל נטשה פולי</title>
+  </programme>
+  <programme start="20220108095500 +0200" stop="20220108100000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108100000 +0200" stop="20220108102500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220108102500 +0200" stop="20220108103000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108103000 +0200" stop="20220108105500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220108105500 +0200" stop="20220108110000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108110000 +0200" stop="20220108112500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220108112500 +0200" stop="20220108113000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108113000 +0200" stop="20220108115500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220108115500 +0200" stop="20220108120000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108120000 +0200" stop="20220108122500 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה בניו יורק</title>
+  </programme>
+  <programme start="20220108122500 +0200" stop="20220108123000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108123000 +0200" stop="20220108130000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה בניו יורק</title>
+  </programme>
+  <programme start="20220108130000 +0200" stop="20220108132500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220108132500 +0200" stop="20220108133000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108133000 +0200" stop="20220108135500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220108135500 +0200" stop="20220108140000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108140000 +0200" stop="20220108142500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220108142500 +0200" stop="20220108143000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108143000 +0200" stop="20220108145500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220108145500 +0200" stop="20220108150000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108150000 +0200" stop="20220108152500 +0200" channel="FTV white">
+    <title lang="he">מעצבי האופנה</title>
+  </programme>
+  <programme start="20220108152500 +0200" stop="20220108153000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108153000 +0200" stop="20220108155500 +0200" channel="FTV white">
+    <title lang="he">מעצבי האופנה</title>
+  </programme>
+  <programme start="20220108155500 +0200" stop="20220108160000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108160000 +0200" stop="20220108162500 +0200" channel="FTV white">
+    <title lang="he">אופנה צעירה</title>
+  </programme>
+  <programme start="20220108162500 +0200" stop="20220108163000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108163000 +0200" stop="20220108165500 +0200" channel="FTV white">
+    <title lang="he">אופנה צעירה</title>
+  </programme>
+  <programme start="20220108165500 +0200" stop="20220108170000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108170000 +0200" stop="20220108172500 +0200" channel="FTV white">
+    <title lang="he">ספיישל ראלף לורן</title>
+  </programme>
+  <programme start="20220108172500 +0200" stop="20220108173000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108173000 +0200" stop="20220108175500 +0200" channel="FTV white">
+    <title lang="he">ספיישל ראלף לורן</title>
+  </programme>
+  <programme start="20220108175500 +0200" stop="20220108180000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108180000 +0200" stop="20220108182500 +0200" channel="FTV white">
+    <title lang="he">תוצרת אמריקה</title>
+  </programme>
+  <programme start="20220108182500 +0200" stop="20220108183000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108183000 +0200" stop="20220108185500 +0200" channel="FTV white">
+    <title lang="he">תוצרת אמריקה</title>
+  </programme>
+  <programme start="20220108185500 +0200" stop="20220108190000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108190000 +0200" stop="20220108192500 +0200" channel="FTV white">
+    <title lang="he">מגזיני אופנה</title>
+  </programme>
+  <programme start="20220108192500 +0200" stop="20220108193000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108193000 +0200" stop="20220108195500 +0200" channel="FTV white">
+    <title lang="he">מגזיני אופנה</title>
+  </programme>
+  <programme start="20220108195500 +0200" stop="20220108200000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108200000 +0200" stop="20220108202500 +0200" channel="FTV white">
+    <title lang="he">אתרי נופש יוקרתיים</title>
+  </programme>
+  <programme start="20220108202500 +0200" stop="20220108203000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108203000 +0200" stop="20220108205500 +0200" channel="FTV white">
+    <title lang="he">אתרי נופש יוקרתיים</title>
+  </programme>
+  <programme start="20220108205500 +0200" stop="20220108210000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108210000 +0200" stop="20220108212500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220108212500 +0200" stop="20220108213000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108213000 +0200" stop="20220108215500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220108215500 +0200" stop="20220108220000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108220000 +0200" stop="20220108222500 +0200" channel="FTV white">
+    <title lang="he">ספיישל ויקטוריה סקרט</title>
+  </programme>
+  <programme start="20220108222500 +0200" stop="20220108223000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220108223000 +0200" stop="20220108225500 +0200" channel="FTV white">
+    <title lang="he">ספיישל ויקטוריה סקרט</title>
+  </programme>
+  <programme start="20220108225500 +0200" stop="20220108230000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220108230000 +0200" stop="20220108233000 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220108233000 +0200" stop="20220108235500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220108235500 +0200" stop="20220109000000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220109000000 +0200" stop="20220109003000 +0200" channel="FTV white">
+    <title lang="he">סודות חצות</title>
+  </programme>
+  <programme start="20220109003000 +0200" stop="20220109005500 +0200" channel="FTV white">
+    <title lang="he">סודות חצות</title>
+  </programme>
+  <programme start="20220109005500 +0200" stop="20220109010000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220109010000 +0200" stop="20220109013000 +0200" channel="FTV white">
+    <title lang="he">תצוגת בגדי ים וחוף</title>
+  </programme>
+  <programme start="20220109013000 +0200" stop="20220109015500 +0200" channel="FTV white">
+    <title lang="he">תצוגת בגדי ים וחוף</title>
+  </programme>
+  <programme start="20220109015500 +0200" stop="20220109020000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220109020000 +0200" stop="20220109023000 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220109023000 +0200" stop="20220109025500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220109025500 +0200" stop="20220109030000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220109030000 +0200" stop="20220109033000 +0200" channel="FTV white">
+    <title lang="he">אופנת שנות ה</title>
+  </programme>
+  <programme start="20220109033000 +0200" stop="20220109035500 +0200" channel="FTV white">
+    <title lang="he">אופנת שנות ה</title>
+  </programme>
+  <programme start="20220109035500 +0200" stop="20220109040000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220109040000 +0200" stop="20220109043000 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220109043000 +0200" stop="20220109045500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220109045500 +0200" stop="20220109050000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220109050000 +0200" stop="20220109053000 +0200" channel="FTV white">
+    <title lang="he">האהובים ביותר של רוסיה</title>
+  </programme>
+  <programme start="20220109053000 +0200" stop="20220109055500 +0200" channel="FTV white">
+    <title lang="he">האהובים ביותר של רוסיה</title>
+  </programme>
+  <programme start="20220109055500 +0200" stop="20220109060000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220109060000 +0200" stop="20220109062500 +0200" channel="FTV white">
+    <title lang="he">פיטנס</title>
+  </programme>
+  <programme start="20220109062500 +0200" stop="20220109063000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109063000 +0200" stop="20220109065500 +0200" channel="FTV white">
+    <title lang="he">אופנה וספורט</title>
+  </programme>
+  <programme start="20220109065500 +0200" stop="20220109070000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109070000 +0200" stop="20220109072500 +0200" channel="FTV white">
+    <title lang="he">דוגמנים מדברים</title>
+  </programme>
+  <programme start="20220109072500 +0200" stop="20220109073000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109073000 +0200" stop="20220109075500 +0200" channel="FTV white">
+    <title lang="he">עיצובי שיער</title>
+  </programme>
+  <programme start="20220109075500 +0200" stop="20220109080000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109080000 +0200" stop="20220109082500 +0200" channel="FTV white">
+    <title lang="he">טיפוח העור</title>
+  </programme>
+  <programme start="20220109082500 +0200" stop="20220109083000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109083000 +0200" stop="20220109085500 +0200" channel="FTV white">
+    <title lang="he">מייקאפ</title>
+  </programme>
+  <programme start="20220109085500 +0200" stop="20220109090000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109090000 +0200" stop="20220109092500 +0200" channel="FTV white">
+    <title lang="he">ספיישל סטלה מקרטני</title>
+  </programme>
+  <programme start="20220109092500 +0200" stop="20220109093000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109093000 +0200" stop="20220109095500 +0200" channel="FTV white">
+    <title lang="he">ספיישל סטלה מקרטני</title>
+  </programme>
+  <programme start="20220109095500 +0200" stop="20220109100000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109100000 +0200" stop="20220109102500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220109102500 +0200" stop="20220109103000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109103000 +0200" stop="20220109105500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220109105500 +0200" stop="20220109110000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109110000 +0200" stop="20220109112500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220109112500 +0200" stop="20220109113000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109113000 +0200" stop="20220109115500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220109115500 +0200" stop="20220109120000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109120000 +0200" stop="20220109122500 +0200" channel="FTV white">
+    <title lang="he">שבוע הוט קוטור</title>
+  </programme>
+  <programme start="20220109122500 +0200" stop="20220109123000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109123000 +0200" stop="20220109130000 +0200" channel="FTV white">
+    <title lang="he">שבוע הוט קוטור</title>
+  </programme>
+  <programme start="20220109130000 +0200" stop="20220109132500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220109132500 +0200" stop="20220109133000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109133000 +0200" stop="20220109135500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220109135500 +0200" stop="20220109140000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109140000 +0200" stop="20220109142500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220109142500 +0200" stop="20220109143000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109143000 +0200" stop="20220109145500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220109145500 +0200" stop="20220109150000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109150000 +0200" stop="20220109152500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220109152500 +0200" stop="20220109153000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109153000 +0200" stop="20220109155500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220109155500 +0200" stop="20220109160000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109160000 +0200" stop="20220109162500 +0200" channel="FTV white">
+    <title lang="he">אופנה צעירה</title>
+  </programme>
+  <programme start="20220109162500 +0200" stop="20220109163000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109163000 +0200" stop="20220109165500 +0200" channel="FTV white">
+    <title lang="he">אופנה צעירה</title>
+  </programme>
+  <programme start="20220109165500 +0200" stop="20220109170000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109170000 +0200" stop="20220109172500 +0200" channel="FTV white">
+    <title lang="he">ספיישל ברברה פלבין</title>
+  </programme>
+  <programme start="20220109172500 +0200" stop="20220109173000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109173000 +0200" stop="20220109175500 +0200" channel="FTV white">
+    <title lang="he">ספיישל ברברה פלבין</title>
+  </programme>
+  <programme start="20220109175500 +0200" stop="20220109180000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109180000 +0200" stop="20220109182500 +0200" channel="FTV white">
+    <title lang="he">תוצרת סינגפור</title>
+  </programme>
+  <programme start="20220109182500 +0200" stop="20220109183000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109183000 +0200" stop="20220109185500 +0200" channel="FTV white">
+    <title lang="he">תוצרת סינגפור</title>
+  </programme>
+  <programme start="20220109185500 +0200" stop="20220109190000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109190000 +0200" stop="20220109192500 +0200" channel="FTV white">
+    <title lang="he">מגזיני אופנה</title>
+  </programme>
+  <programme start="20220109192500 +0200" stop="20220109193000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109193000 +0200" stop="20220109195500 +0200" channel="FTV white">
+    <title lang="he">מגזיני אופנה</title>
+  </programme>
+  <programme start="20220109195500 +0200" stop="20220109200000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109200000 +0200" stop="20220109202500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220109202500 +0200" stop="20220109203000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109203000 +0200" stop="20220109205500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220109205500 +0200" stop="20220109210000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109210000 +0200" stop="20220109212500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220109212500 +0200" stop="20220109213000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109213000 +0200" stop="20220109215500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220109215500 +0200" stop="20220109220000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109220000 +0200" stop="20220109222500 +0200" channel="FTV white">
+    <title lang="he">ספיישל דולצ'ה וגבאנה</title>
+  </programme>
+  <programme start="20220109222500 +0200" stop="20220109223000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220109223000 +0200" stop="20220109225500 +0200" channel="FTV white">
+    <title lang="he">ספיישל דולצ'ה וגבאנה</title>
+  </programme>
+  <programme start="20220109225500 +0200" stop="20220109230000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220109230000 +0200" stop="20220109233000 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220109233000 +0200" stop="20220109235500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
   </programme>
 </tv>
