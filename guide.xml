@@ -52,114 +52,6 @@
     <display-name lang="he">FTV white</display-name>
     <url>http://www.yes.co.il</url>
   </channel>
-  <programme start="20220116065200 +0200" stop="20220116070000 +0200" channel="kan black">
-    <title lang="he">כאן בכושר</title>
-  </programme>
-  <programme start="20220116070000 +0200" stop="20220116080000 +0200" channel="kan black">
-    <title lang="he">הבוקר הזה עם אריה גולן</title>
-  </programme>
-  <programme start="20220116080000 +0200" stop="20220116100000 +0200" channel="kan black">
-    <title lang="he">קלמן ליברמן</title>
-  </programme>
-  <programme start="20220116100000 +0200" stop="20220116120000 +0200" channel="kan black">
-    <title lang="he">סדר יום עם קרן נויבך</title>
-  </programme>
-  <programme start="20220116120000 +0200" stop="20220116123500 +0200" channel="kan black">
-    <title lang="he">משחק חוץ</title>
-  </programme>
-  <programme start="20220116123500 +0200" stop="20220116130100 +0200" channel="kan black">
-    <title lang="he">חוצה ישראל</title>
-  </programme>
-  <programme start="20220116130100 +0200" stop="20220116132500 +0200" channel="kan black">
-    <title lang="he">החיים 2.0</title>
-  </programme>
-  <programme start="20220116132500 +0200" stop="20220116143000 +0200" channel="kan black">
-    <title lang="he">התיקון הגדול</title>
-  </programme>
-  <programme start="20220116143000 +0200" stop="20220116150000 +0200" channel="kan black">
-    <title lang="he">גלילאו 9</title>
-  </programme>
-  <programme start="20220116150000 +0200" stop="20220116153000 +0200" channel="kan black">
-    <title lang="he">משחקי המוח</title>
-  </programme>
-  <programme start="20220116153000 +0200" stop="20220116160000 +0200" channel="kan black">
-    <title lang="he">הבלתי חשובים</title>
-  </programme>
-  <programme start="20220116160000 +0200" stop="20220116165500 +0200" channel="kan black">
-    <title lang="he">האזרח גואטה</title>
-  </programme>
-  <programme start="20220116165500 +0200" stop="20220116173000 +0200" channel="kan black">
-    <title lang="he">ערב ערב עם מאיה ראכלין</title>
-  </programme>
-  <programme start="20220116173000 +0200" stop="20220116180000 +0200" channel="kan black">
-    <title lang="he">סליחה על השאלה</title>
-  </programme>
-  <programme start="20220116180000 +0200" stop="20220116183000 +0200" channel="kan black">
-    <title lang="he">עצם העניין עם קלמן ליבסקינד</title>
-  </programme>
-  <programme start="20220116183000 +0200" stop="20220116190000 +0200" channel="kan black">
-    <title lang="he">העולם היום עם מיכל רשף</title>
-  </programme>
-  <programme start="20220116190000 +0200" stop="20220116194000 +0200" channel="kan black">
-    <title lang="he">משחקי הכיס</title>
-  </programme>
-  <programme start="20220116194000 +0200" stop="20220116195500 +0200" channel="kan black">
-    <title lang="he">מהצד השני עם גיא זהר</title>
-  </programme>
-  <programme start="20220116195500 +0200" stop="20220116211500 +0200" channel="kan black">
-    <title lang="he">חדשות הערב עם מיכל רבינוביץ</title>
-  </programme>
-  <programme start="20220116211500 +0200" stop="20220116221500 +0200" channel="kan black">
-    <title lang="he">המרדף 6</title>
-  </programme>
-  <programme start="20220116221500 +0200" stop="20220116224700 +0200" channel="kan black">
-    <title lang="he">פגישה עם רוני קובן</title>
-  </programme>
-  <programme start="20220116224700 +0200" stop="20220116230000 +0200" channel="kan black">
-    <title lang="he">מהצד השני עם גיא זהר</title>
-  </programme>
-  <programme start="20220116230000 +0200" stop="20220116232200 +0200" channel="kan black">
-    <title lang="he">חדשות הלילה עם רומי נוימרק</title>
-  </programme>
-  <programme start="20220116232200 +0200" stop="20220116232200 +0200" channel="kan black">
-    <title lang="he">האמריקאים 5</title>
-  </programme>
-  <programme start="20220116232200 +0200" stop="20220117000900 +0200" channel="kan black">
-    <title lang="he">האמריקאים 5</title>
-  </programme>
-  <programme start="20220117000900 +0200" stop="20220117003900 +0200" channel="kan black">
-    <title lang="he">העולם היום עם מיכל רשף</title>
-  </programme>
-  <programme start="20220117003900 +0200" stop="20220117013900 +0200" channel="kan black">
-    <title lang="he">המרדף 6</title>
-  </programme>
-  <programme start="20220117013900 +0200" stop="20220117020900 +0200" channel="kan black">
-    <title lang="he">פגישה עם רוני קובן</title>
-  </programme>
-  <programme start="20220117020900 +0200" stop="20220117024900 +0200" channel="kan black">
-    <title lang="he">משחקי הכיס</title>
-  </programme>
-  <programme start="20220117024900 +0200" stop="20220117031800 +0200" channel="kan black">
-    <title lang="he">גלילאו 9</title>
-  </programme>
-  <programme start="20220117031800 +0200" stop="20220117040600 +0200" channel="kan black">
-    <title lang="he">האמריקאים 5</title>
-  </programme>
-  <programme start="20220117040600 +0200" stop="20220117043000 +0200" channel="kan black">
-    <title lang="he">מיקס ישראלי</title>
-  </programme>
-  <programme start="20220117043000 +0200" stop="20220117050000 +0200" channel="kan black">
-    <title lang="he">העולם היום עם מיכל רשף</title>
-  </programme>
-  <programme start="20220117050000 +0200" stop="20220117053000 +0200" channel="kan black">
-    <title lang="he">עצם העניין עם קלמן ליבסקינד</title>
-  </programme>
-  <programme start="20220117053000 +0200" stop="20220117060500 +0200" channel="kan black">
-    <title lang="he">ערב ערב עם מאיה ראכלין</title>
-  </programme>
-  <programme start="20220117060500 +0200" stop="20220117063300 +0200" channel="kan black">
-    <title lang="he">גלילאו 9</title>
-  </programme>
   <programme start="20220117063300 +0200" stop="20220117065200 +0200" channel="kan black">
     <title lang="he">אומרים שהיה פה</title>
   </programme>
@@ -218,7 +110,7 @@
     <title lang="he">מהצד השני עם גיא זהר</title>
   </programme>
   <programme start="20220117195500 +0200" stop="20220117211500 +0200" channel="kan black">
-    <title lang="he">חדשות הערב עם דב גיל</title>
+    <title lang="he">חדשות הערב עם מיכל רבינוביץ</title>
   </programme>
   <programme start="20220117211500 +0200" stop="20220117220000 +0200" channel="kan black">
     <title lang="he">שעת אפס - פרק 2</title>
@@ -332,13 +224,13 @@
     <title lang="he">מהצד השני עם גיא זהר</title>
   </programme>
   <programme start="20220118195500 +0200" stop="20220118211500 +0200" channel="kan black">
-    <title lang="he">חדשות הערב עם דב גיל</title>
+    <title lang="he">חדשות הערב עם רומי נוימרק</title>
   </programme>
-  <programme start="20220118211500 +0200" stop="20220118220700 +0200" channel="kan black">
-    <title lang="he">מייקרז</title>
-  </programme>
-  <programme start="20220118220700 +0200" stop="20220118225700 +0200" channel="kan black">
+  <programme start="20220118211500 +0200" stop="20220118220500 +0200" channel="kan black">
     <title lang="he">למה ככה?</title>
+  </programme>
+  <programme start="20220118220500 +0200" stop="20220118225700 +0200" channel="kan black">
+    <title lang="he">מייקרז</title>
   </programme>
   <programme start="20220118225700 +0200" stop="20220118231000 +0200" channel="kan black">
     <title lang="he">מהצד השני עם גיא זהר</title>
@@ -355,11 +247,11 @@
   <programme start="20220119002200 +0200" stop="20220119005200 +0200" channel="kan black">
     <title lang="he">העולם היום עם מיכל רשף</title>
   </programme>
-  <programme start="20220119005200 +0200" stop="20220119014300 +0200" channel="kan black">
-    <title lang="he">מייקרז</title>
-  </programme>
-  <programme start="20220119014300 +0200" stop="20220119023200 +0200" channel="kan black">
+  <programme start="20220119005200 +0200" stop="20220119014100 +0200" channel="kan black">
     <title lang="he">למה ככה?</title>
+  </programme>
+  <programme start="20220119014100 +0200" stop="20220119023200 +0200" channel="kan black">
+    <title lang="he">מייקרז</title>
   </programme>
   <programme start="20220119023200 +0200" stop="20220119031200 +0200" channel="kan black">
     <title lang="he">משחקי הכיס</title>
@@ -445,29 +337,26 @@
   <programme start="20220119211500 +0200" stop="20220119221500 +0200" channel="kan black">
     <title lang="he">זמן אמת 5</title>
   </programme>
-  <programme start="20220119221500 +0200" stop="20220119224700 +0200" channel="kan black">
-    <title lang="he">ארץ עיר</title>
+  <programme start="20220119221500 +0200" stop="20220119231100 +0200" channel="kan black">
+    <title lang="he">אסירות</title>
   </programme>
-  <programme start="20220119224700 +0200" stop="20220119230000 +0200" channel="kan black">
-    <title lang="he">מהצד השני עם גיא זהר</title>
-  </programme>
-  <programme start="20220119230000 +0200" stop="20220119232200 +0200" channel="kan black">
+  <programme start="20220119231100 +0200" stop="20220119233300 +0200" channel="kan black">
     <title lang="he">חדשות הלילה עם רומי נוימרק</title>
   </programme>
-  <programme start="20220119232200 +0200" stop="20220119232200 +0200" channel="kan black">
+  <programme start="20220119233300 +0200" stop="20220119234600 +0200" channel="kan black">
+    <title lang="he">מהצד השני עם גיא זהר</title>
+  </programme>
+  <programme start="20220119234600 +0200" stop="20220119234600 +0200" channel="kan black">
     <title lang="he">האמריקאים 5</title>
   </programme>
-  <programme start="20220119232200 +0200" stop="20220120000900 +0200" channel="kan black">
+  <programme start="20220119234600 +0200" stop="20220120003300 +0200" channel="kan black">
     <title lang="he">האמריקאים 5</title>
   </programme>
-  <programme start="20220120000900 +0200" stop="20220120003900 +0200" channel="kan black">
+  <programme start="20220120003300 +0200" stop="20220120010300 +0200" channel="kan black">
     <title lang="he">העולם היום עם מואב ורדי</title>
   </programme>
-  <programme start="20220120003900 +0200" stop="20220120013900 +0200" channel="kan black">
+  <programme start="20220120010300 +0200" stop="20220120020900 +0200" channel="kan black">
     <title lang="he">זמן אמת 5</title>
-  </programme>
-  <programme start="20220120013900 +0200" stop="20220120020900 +0200" channel="kan black">
-    <title lang="he">ארץ עיר</title>
   </programme>
   <programme start="20220120020900 +0200" stop="20220120024900 +0200" channel="kan black">
     <title lang="he">משחקי הכיס</title>
@@ -536,7 +425,7 @@
     <title lang="he">האזרח גואטה</title>
   </programme>
   <programme start="20220120165500 +0200" stop="20220120173000 +0200" channel="kan black">
-    <title lang="he">ערב ערב עם מיכל רשף</title>
+    <title lang="he">ערב ערב עם יערה שפירא</title>
   </programme>
   <programme start="20220120173000 +0200" stop="20220120180000 +0200" channel="kan black">
     <title lang="he">סליחה על השאלה</title>
@@ -571,101 +460,116 @@
   <programme start="20220120231500 +0200" stop="20220120233700 +0200" channel="kan black">
     <title lang="he">חדשות הלילה עם רומי נוימרק</title>
   </programme>
-  <programme start="20220116091000 +0200" stop="20220116100000 +0200" channel="channal 9">
-    <title lang="he">עץ או פלי. עונת המים</title>
+  <programme start="20220120233700 +0200" stop="20220120233700 +0200" channel="kan black">
+    <title lang="he">האמריקאים 5</title>
   </programme>
-  <programme start="20220116100000 +0200" stop="20220116105000 +0200" channel="channal 9">
-    <title lang="he">עץ או פלי. עונת המים</title>
+  <programme start="20220120233700 +0200" stop="20220121002500 +0200" channel="kan black">
+    <title lang="he">האמריקאים 5</title>
   </programme>
-  <programme start="20220116105000 +0200" stop="20220116112000 +0200" channel="channal 9">
-    <title lang="he">להבין ולסלוח. הספקות של אולגה</title>
+  <programme start="20220121002500 +0200" stop="20220121005500 +0200" channel="kan black">
+    <title lang="he">העולם היום עם מואב ורדי</title>
   </programme>
-  <programme start="20220116112000 +0200" stop="20220116115000 +0200" channel="channal 9">
-    <title lang="he">Deutsche Welle. Euromaxx Highlights</title>
+  <programme start="20220121005500 +0200" stop="20220121012500 +0200" channel="kan black">
+    <title lang="he">זהו זה</title>
   </programme>
-  <programme start="20220116115000 +0200" stop="20220116123000 +0200" channel="channal 9">
-    <title lang="he">עקבות. התסמונת</title>
+  <programme start="20220121012500 +0200" stop="20220121020900 +0200" channel="kan black">
+    <title lang="he">מילה של רופא</title>
   </programme>
-  <programme start="20220116123000 +0200" stop="20220116141500 +0200" channel="channal 9">
-    <title lang="he">העיוורת</title>
+  <programme start="20220121020900 +0200" stop="20220121024200 +0200" channel="kan black">
+    <title lang="he">מוזות</title>
   </programme>
-  <programme start="20220116141500 +0200" stop="20220116151500 +0200" channel="channal 9">
-    <title lang="he">מגדת עתידות</title>
+  <programme start="20220121024200 +0200" stop="20220121031300 +0200" channel="kan black">
+    <title lang="he">גלילאו 9</title>
   </programme>
-  <programme start="20220116151500 +0200" stop="20220116160500 +0200" channel="channal 9">
-    <title lang="he">העדים. גבר מושלם</title>
+  <programme start="20220121031300 +0200" stop="20220121040100 +0200" channel="kan black">
+    <title lang="he">האמריקאים 5</title>
   </programme>
-  <programme start="20220116160500 +0200" stop="20220116170000 +0200" channel="channal 9">
-    <title lang="he">עץ או פלי. אתחול</title>
+  <programme start="20220121040100 +0200" stop="20220121043000 +0200" channel="kan black">
+    <title lang="he">מיקס ישראלי</title>
   </programme>
-  <programme start="20220116170000 +0200" stop="20220116170500 +0200" channel="channal 9">
-    <title lang="he">יום. חדשות</title>
+  <programme start="20220121043000 +0200" stop="20220121050000 +0200" channel="kan black">
+    <title lang="he">העולם היום עם מואב ורדי</title>
   </programme>
-  <programme start="20220116170500 +0200" stop="20220116180000 +0200" channel="channal 9">
-    <title lang="he">יום</title>
+  <programme start="20220121050000 +0200" stop="20220121053000 +0200" channel="kan black">
+    <title lang="he">עצם העניין עם ליאת רגב</title>
   </programme>
-  <programme start="20220116180000 +0200" stop="20220116180500 +0200" channel="channal 9">
-    <title lang="he">יום. חדשות</title>
+  <programme start="20220121053000 +0200" stop="20220121060500 +0200" channel="kan black">
+    <title lang="he">ערב ערב עם יערה שפירא</title>
   </programme>
-  <programme start="20220116180500 +0200" stop="20220116190000 +0200" channel="channal 9">
-    <title lang="he">יום</title>
+  <programme start="20220121060500 +0200" stop="20220121063300 +0200" channel="kan black">
+    <title lang="he">גלילאו 9</title>
   </programme>
-  <programme start="20220116190000 +0200" stop="20220116190500 +0200" channel="channal 9">
-    <title lang="he">יום. חדשות</title>
+  <programme start="20220121063300 +0200" stop="20220121065200 +0200" channel="kan black">
+    <title lang="he">חיות שטח</title>
   </programme>
-  <programme start="20220116190500 +0200" stop="20220116200000 +0200" channel="channal 9">
-    <title lang="he">יום</title>
+  <programme start="20220121065200 +0200" stop="20220121070000 +0200" channel="kan black">
+    <title lang="he">כאן בכושר</title>
   </programme>
-  <programme start="20220116200000 +0200" stop="20220116210000 +0200" channel="channal 9">
-    <title lang="he">יום. מהדורה מרכזית</title>
+  <programme start="20220121070000 +0200" stop="20220121080000 +0200" channel="kan black">
+    <title lang="he">הבוקר הזה עם אריה גולן</title>
   </programme>
-  <programme start="20220116210000 +0200" stop="20220116211500 +0200" channel="channal 9">
-    <title lang="he">השבוע</title>
+  <programme start="20220121080000 +0200" stop="20220121100000 +0200" channel="kan black">
+    <title lang="he">אמילי והפרופסור</title>
   </programme>
-  <programme start="20220116211500 +0200" stop="20220116213000 +0200" channel="channal 9">
-    <title lang="he">בשמורה</title>
+  <programme start="20220121100000 +0200" stop="20220121100500 +0200" channel="kan black">
+    <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220116213000 +0200" stop="20220116221500 +0200" channel="channal 9">
-    <title lang="he">עקבות. האפלה שבפנים</title>
+  <programme start="20220121100500 +0200" stop="20220121120000 +0200" channel="kan black">
+    <title lang="he">אגן הים התיכון</title>
   </programme>
-  <programme start="20220116221500 +0200" stop="20220116230000 +0200" channel="channal 9">
-    <title lang="he">עקבות. בראשות הדיור</title>
+  <programme start="20220121120000 +0200" stop="20220121125500 +0200" channel="kan black">
+    <title lang="he">פסטיבל מספרי סיפורים עם יוסי אלפי</title>
   </programme>
-  <programme start="20220116230000 +0200" stop="20220116230000 +0200" channel="channal 9">
-    <title lang="he">העיוורת</title>
+  <programme start="20220121125500 +0200" stop="20220121130500 +0200" channel="kan black">
+    <title lang="he">קול התור</title>
   </programme>
-  <programme start="20220116230000 +0200" stop="20220117011000 +0200" channel="channal 9">
-    <title lang="he">העיוורת</title>
+  <programme start="20220121130500 +0200" stop="20220121134000 +0200" channel="kan black">
+    <title lang="he">שאלה תשובה</title>
   </programme>
-  <programme start="20220117011000 +0200" stop="20220117014000 +0200" channel="channal 9">
-    <title lang="he">Deutsche Welle. Drive It</title>
+  <programme start="20220121134000 +0200" stop="20220121141200 +0200" channel="kan black">
+    <title lang="he">זהו זה</title>
   </programme>
-  <programme start="20220117014000 +0200" stop="20220117023000 +0200" channel="channal 9">
-    <title lang="he">עץ או פלי. אתחול</title>
+  <programme start="20220121141200 +0200" stop="20220121145500 +0200" channel="kan black">
+    <title lang="he">מילה של רופא</title>
   </programme>
-  <programme start="20220117023000 +0200" stop="20220117031500 +0200" channel="channal 9">
-    <title lang="he">העדים. גבר מושלם</title>
+  <programme start="20220121145500 +0200" stop="20220121152700 +0200" channel="kan black">
+    <title lang="he">מוזות</title>
   </programme>
-  <programme start="20220117031500 +0200" stop="20220117034500 +0200" channel="channal 9">
-    <title lang="he">Deutsche Welle. Euromaxx Highlights</title>
+  <programme start="20220121152700 +0200" stop="20220121161700 +0200" channel="kan black">
+    <title lang="he">מייקרז</title>
   </programme>
-  <programme start="20220117034500 +0200" stop="20220117042000 +0200" channel="channal 9">
-    <title lang="he">עקבות. התסמונת</title>
+  <programme start="20220121161700 +0200" stop="20220121162700 +0200" channel="kan black">
+    <title lang="he">קול התור</title>
   </programme>
-  <programme start="20220117042000 +0200" stop="20220117045000 +0200" channel="channal 9">
-    <title lang="he">Deutsche Welle. Global 3000</title>
+  <programme start="20220121162700 +0200" stop="20220121170000 +0200" channel="kan black">
+    <title lang="he">שאלה תשובה</title>
   </programme>
-  <programme start="20220117045000 +0200" stop="20220117051500 +0200" channel="channal 9">
-    <title lang="he">עין הרע</title>
+  <programme start="20220121170000 +0200" stop="20220121180000 +0200" channel="kan black">
+    <title lang="he">שרון ואורי</title>
   </programme>
-  <programme start="20220117051500 +0200" stop="20220117054000 +0200" channel="channal 9">
-    <title lang="he">להבין ולסלוח. הספקות של אולגה</title>
+  <programme start="20220121180000 +0200" stop="20220121190000 +0200" channel="kan black">
+    <title lang="he">המרדף 6</title>
   </programme>
-  <programme start="20220117054000 +0200" stop="20220117063000 +0200" channel="channal 9">
-    <title lang="he">אהבה ושטויות אחרות</title>
+  <programme start="20220121190000 +0200" stop="20220121195500 +0200" channel="kan black">
+    <title lang="he">סוכן תרבות</title>
   </programme>
-  <programme start="20220117063000 +0200" stop="20220117090000 +0200" channel="channal 9">
-    <title lang="he">יום</title>
+  <programme start="20220121195500 +0200" stop="20220121213000 +0200" channel="kan black">
+    <title lang="he">השבוע עם גאולה</title>
+  </programme>
+  <programme start="20220121213000 +0200" stop="20220121215500 +0200" channel="kan black">
+    <title lang="he">קופה ראשית 2</title>
+  </programme>
+  <programme start="20220121215500 +0200" stop="20220121222200 +0200" channel="kan black">
+    <title lang="he">האחיין שלי בנץ</title>
+  </programme>
+  <programme start="20220121222200 +0200" stop="20220121225000 +0200" channel="kan black">
+    <title lang="he">האחיין שלי בנץ</title>
+  </programme>
+  <programme start="20220121225000 +0200" stop="20220121225500 +0200" channel="kan black">
+    <title lang="he">מבזק חדשות</title>
+  </programme>
+  <programme start="20220121225500 +0200" stop="20220121234200 +0200" channel="kan black">
+    <title lang="he">האמריקאים 5</title>
   </programme>
   <programme start="20220117090000 +0200" stop="20220117091500 +0200" channel="channal 9">
     <title lang="he">השבוע</title>
@@ -1012,95 +916,35 @@
   <programme start="20220120221500 +0200" stop="20220120230000 +0200" channel="channal 9">
     <title lang="he">עקבות. אדם לאדם</title>
   </programme>
-  <programme start="20220116061500 +0200" stop="20220116062000 +0200" channel="12keshet">
-    <title lang="he">מבזק חדשות</title>
+  <programme start="20220120230000 +0200" stop="20220120230000 +0200" channel="channal 9">
+    <title lang="he">העיוורת</title>
   </programme>
-  <programme start="20220116062000 +0200" stop="20220116070000 +0200" channel="12keshet">
-    <title lang="he">כותרות הבוקר</title>
+  <programme start="20220120230000 +0200" stop="20220121011000 +0200" channel="channal 9">
+    <title lang="he">העיוורת</title>
   </programme>
-  <programme start="20220116070000 +0200" stop="20220116070800 +0200" channel="12keshet">
-    <title lang="he">מבזק חדשות</title>
+  <programme start="20220121011000 +0200" stop="20220121014000 +0200" channel="channal 9">
+    <title lang="he">Deutsche Welle. Global 3000</title>
   </programme>
-  <programme start="20220116070800 +0200" stop="20220116093000 +0200" channel="12keshet">
-    <title lang="he">חדשות הבוקר עם ניב רסקין</title>
+  <programme start="20220121014000 +0200" stop="20220121023000 +0200" channel="channal 9">
+    <title lang="he">עץ או פלי. אתחול</title>
   </programme>
-  <programme start="20220116093000 +0200" stop="20220116093500 +0200" channel="12keshet">
-    <title lang="he">מבזק חדשות</title>
+  <programme start="20220121023000 +0200" stop="20220121031500 +0200" channel="channal 9">
+    <title lang="he">העדים. בעל מיותר</title>
   </programme>
-  <programme start="20220116093500 +0200" stop="20220116113000 +0200" channel="12keshet">
-    <title lang="he">פאולה וליאון</title>
+  <programme start="20220121031500 +0200" stop="20220121034500 +0200" channel="channal 9">
+    <title lang="he">כולם חשודים</title>
   </programme>
-  <programme start="20220116113000 +0200" stop="20220116120000 +0200" channel="12keshet">
-    <title lang="he">גיא פינס</title>
+  <programme start="20220121034500 +0200" stop="20220121042000 +0200" channel="channal 9">
+    <title lang="he">עקבות. הכפור</title>
   </programme>
-  <programme start="20220116120000 +0200" stop="20220116123500 +0200" channel="12keshet">
-    <title lang="he">מרגישות יופי</title>
+  <programme start="20220121042000 +0200" stop="20220121045000 +0200" channel="channal 9">
+    <title lang="he">Deutsche Welle. Tomorrow Today</title>
   </programme>
-  <programme start="20220116123500 +0200" stop="20220116130000 +0200" channel="12keshet">
-    <title lang="he">סברי מרנן</title>
+  <programme start="20220121045000 +0200" stop="20220121051500 +0200" channel="channal 9">
+    <title lang="he">עין הרע</title>
   </programme>
-  <programme start="20220116130000 +0200" stop="20220116150000 +0200" channel="12keshet">
-    <title lang="he">גלית ויואב</title>
-  </programme>
-  <programme start="20220116150000 +0200" stop="20220116160000 +0200" channel="12keshet">
-    <title lang="he">שלוש עם עופר חדד</title>
-  </programme>
-  <programme start="20220116160000 +0200" stop="20220116170000 +0200" channel="12keshet">
-    <title lang="he">מהדורה ראשונה</title>
-  </programme>
-  <programme start="20220116170000 +0200" stop="20220116175500 +0200" channel="12keshet">
-    <title lang="he">חמש עם רפי רשף</title>
-  </programme>
-  <programme start="20220116175500 +0200" stop="20220116190000 +0200" channel="12keshet">
-    <title lang="he">שש עם...</title>
-  </programme>
-  <programme start="20220116190000 +0200" stop="20220116195500 +0200" channel="12keshet">
-    <title lang="he">תכנית חיסכון</title>
-  </programme>
-  <programme start="20220116195500 +0200" stop="20220116211500 +0200" channel="12keshet">
-    <title lang="he">חדשות הערב</title>
-  </programme>
-  <programme start="20220116211500 +0200" stop="20220116223500 +0200" channel="12keshet">
-    <title lang="he">יצאת צדיק</title>
-  </programme>
-  <programme start="20220116223500 +0200" stop="20220116231600 +0200" channel="12keshet">
-    <title lang="he">גיא פינס</title>
-  </programme>
-  <programme start="20220116231600 +0200" stop="20220116234800 +0200" channel="12keshet">
-    <title lang="he">חי בלילה</title>
-  </programme>
-  <programme start="20220116234800 +0200" stop="20220116234800 +0200" channel="12keshet">
-    <title lang="he">הקומה ה</title>
-  </programme>
-  <programme start="20220116234800 +0200" stop="20220117001500 +0200" channel="12keshet">
-    <title lang="he">הקומה ה</title>
-  </programme>
-  <programme start="20220117001500 +0200" stop="20220117010000 +0200" channel="12keshet">
-    <title lang="he">תכנית חיסכון</title>
-  </programme>
-  <programme start="20220117010000 +0200" stop="20220117023000 +0200" channel="12keshet">
-    <title lang="he">פאולה וליאון</title>
-  </programme>
-  <programme start="20220117023000 +0200" stop="20220117030500 +0200" channel="12keshet">
-    <title lang="he">מוסיקה עברית</title>
-  </programme>
-  <programme start="20220117030500 +0200" stop="20220117033000 +0200" channel="12keshet">
-    <title lang="he">סיפור אומן</title>
-  </programme>
-  <programme start="20220117033000 +0200" stop="20220117043000 +0200" channel="12keshet">
-    <title lang="he">פרספקטיבה</title>
-  </programme>
-  <programme start="20220117043000 +0200" stop="20220117045500 +0200" channel="12keshet">
-    <title lang="he">גיא פינס</title>
-  </programme>
-  <programme start="20220117045500 +0200" stop="20220117051500 +0200" channel="12keshet">
-    <title lang="he">חי בלילה</title>
-  </programme>
-  <programme start="20220117051500 +0200" stop="20220117060000 +0200" channel="12keshet">
-    <title lang="he">תכנית חיסכון</title>
-  </programme>
-  <programme start="20220117060000 +0200" stop="20220117061500 +0200" channel="12keshet">
-    <title lang="he">מוקדם על הבוקר</title>
+  <programme start="20220121051500 +0200" stop="20220121054000 +0200" channel="channal 9">
+    <title lang="he">להבין ולסלוח. סגירת חשבון</title>
   </programme>
   <programme start="20220117061500 +0200" stop="20220117062000 +0200" channel="12keshet">
     <title lang="he">מבזק חדשות</title>
@@ -1429,89 +1273,92 @@
   <programme start="20220120225000 +0200" stop="20220120232500 +0200" channel="12keshet">
     <title lang="he">רפי רשף</title>
   </programme>
-  <programme start="20220116061000 +0200" stop="20220116070000 +0200" channel="13reshet">
-    <title lang="he">העולם הבוקר</title>
+  <programme start="20220120232500 +0200" stop="20220121000000 +0200" channel="12keshet">
+    <title lang="he">נקסט</title>
   </programme>
-  <programme start="20220116070000 +0200" stop="20220116093000 +0200" channel="13reshet">
-    <title lang="he">העולם הבוקר</title>
+  <programme start="20220121000000 +0200" stop="20220121000500 +0200" channel="12keshet">
+    <title lang="he">מבזק חצות</title>
   </programme>
-  <programme start="20220116093000 +0200" stop="20220116093500 +0200" channel="13reshet">
+  <programme start="20220121000500 +0200" stop="20220121011000 +0200" channel="12keshet">
+    <title lang="he">תכנית חיסכון</title>
+  </programme>
+  <programme start="20220121011000 +0200" stop="20220121025500 +0200" channel="12keshet">
+    <title lang="he">פאולה וליאון</title>
+  </programme>
+  <programme start="20220121025500 +0200" stop="20220121033000 +0200" channel="12keshet">
+    <title lang="he">סיפור אומן</title>
+  </programme>
+  <programme start="20220121033000 +0200" stop="20220121040000 +0200" channel="12keshet">
+    <title lang="he">פרספקטיבה</title>
+  </programme>
+  <programme start="20220121040000 +0200" stop="20220121045500 +0200" channel="12keshet">
+    <title lang="he">נקסט</title>
+  </programme>
+  <programme start="20220121045500 +0200" stop="20220121052000 +0200" channel="12keshet">
+    <title lang="he">רפי רשף</title>
+  </programme>
+  <programme start="20220121052000 +0200" stop="20220121060000 +0200" channel="12keshet">
+    <title lang="he">תכנית חיסכון</title>
+  </programme>
+  <programme start="20220121060000 +0200" stop="20220121061500 +0200" channel="12keshet">
+    <title lang="he">שש עם גלית ויואב</title>
+  </programme>
+  <programme start="20220121061500 +0200" stop="20220121062000 +0200" channel="12keshet">
     <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220116093500 +0200" stop="20220116100000 +0200" channel="13reshet">
-    <title lang="he">פותחים יום</title>
+  <programme start="20220121062000 +0200" stop="20220121070000 +0200" channel="12keshet">
+    <title lang="he">שש עם גלית ויואב</title>
   </programme>
-  <programme start="20220116100000 +0200" stop="20220116100500 +0200" channel="13reshet">
+  <programme start="20220121070000 +0200" stop="20220121070800 +0200" channel="12keshet">
     <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220116100500 +0200" stop="20220116120000 +0200" channel="13reshet">
-    <title lang="he">פותחים יום</title>
+  <programme start="20220121070800 +0200" stop="20220121100000 +0200" channel="12keshet">
+    <title lang="he">שישי בבוקר עם גלית ויואב</title>
   </programme>
-  <programme start="20220116120000 +0200" stop="20220116123900 +0200" channel="13reshet">
-    <title lang="he">סטטוסקופ</title>
-  </programme>
-  <programme start="20220116123900 +0200" stop="20220116140000 +0200" channel="13reshet">
-    <title lang="he">אקס לאירוויזיון</title>
-  </programme>
-  <programme start="20220116140000 +0200" stop="20220116145900 +0200" channel="13reshet">
-    <title lang="he">הדו''ח היומי</title>
-  </programme>
-  <programme start="20220116145900 +0200" stop="20220116155800 +0200" channel="13reshet">
-    <title lang="he">חדשות היום עם אלמוג בוקר</title>
-  </programme>
-  <programme start="20220116155800 +0200" stop="20220116164900 +0200" channel="13reshet">
-    <title lang="he">הכול כלול</title>
-  </programme>
-  <programme start="20220116164900 +0200" stop="20220116175300 +0200" channel="13reshet">
-    <title lang="he">חמש</title>
-  </programme>
-  <programme start="20220116175300 +0200" stop="20220116185900 +0200" channel="13reshet">
-    <title lang="he">שש</title>
-  </programme>
-  <programme start="20220116185900 +0200" stop="20220116195500 +0200" channel="13reshet">
-    <title lang="he">לפני החדשות</title>
-  </programme>
-  <programme start="20220116195500 +0200" stop="20220116211500 +0200" channel="13reshet">
-    <title lang="he">המהדורה המרכזית</title>
-  </programme>
-  <programme start="20220116211500 +0200" stop="20220116224500 +0200" channel="13reshet">
-    <title lang="he">אקס לאירוויזיון</title>
-  </programme>
-  <programme start="20220116224500 +0200" stop="20220116231500 +0200" channel="13reshet">
-    <title lang="he">הצינור</title>
-  </programme>
-  <programme start="20220116231500 +0200" stop="20220116234500 +0200" channel="13reshet">
-    <title lang="he">היום שהיה עם טל ברמן</title>
-  </programme>
-  <programme start="20220116234500 +0200" stop="20220116234500 +0200" channel="13reshet">
-    <title lang="he">ללא פילטרים</title>
-  </programme>
-  <programme start="20220116234500 +0200" stop="20220117002100 +0200" channel="13reshet">
-    <title lang="he">ללא פילטרים</title>
-  </programme>
-  <programme start="20220117002100 +0200" stop="20220117012100 +0200" channel="13reshet">
-    <title lang="he">הכול כלול</title>
-  </programme>
-  <programme start="20220117012100 +0200" stop="20220117021100 +0200" channel="13reshet">
-    <title lang="he">לפני החדשות</title>
-  </programme>
-  <programme start="20220117021100 +0200" stop="20220117025600 +0200" channel="13reshet">
-    <title lang="he">שש</title>
-  </programme>
-  <programme start="20220117025600 +0200" stop="20220117040000 +0200" channel="13reshet">
-    <title lang="he">רצף קליפים</title>
-  </programme>
-  <programme start="20220117040000 +0200" stop="20220117045500 +0200" channel="13reshet">
-    <title lang="he">הדו''ח היומי</title>
-  </programme>
-  <programme start="20220117045500 +0200" stop="20220117053000 +0200" channel="13reshet">
-    <title lang="he">סטטוסקופ</title>
-  </programme>
-  <programme start="20220117053000 +0200" stop="20220117060000 +0200" channel="13reshet">
-    <title lang="he">הצינור</title>
-  </programme>
-  <programme start="20220117060000 +0200" stop="20220117061000 +0200" channel="13reshet">
+  <programme start="20220121100000 +0200" stop="20220121100500 +0200" channel="12keshet">
     <title lang="he">מבזק חדשות</title>
+  </programme>
+  <programme start="20220121100500 +0200" stop="20220121110500 +0200" channel="12keshet">
+    <title lang="he">כמעט שבת שלום</title>
+  </programme>
+  <programme start="20220121110500 +0200" stop="20220121113500 +0200" channel="12keshet">
+    <title lang="he">השיעור השבועי עם סיוון רהב מאיר</title>
+  </programme>
+  <programme start="20220121113500 +0200" stop="20220121120500 +0200" channel="12keshet">
+    <title lang="he">מה הלו''ז</title>
+  </programme>
+  <programme start="20220121120500 +0200" stop="20220121123500 +0200" channel="12keshet">
+    <title lang="he">הקומה ה</title>
+  </programme>
+  <programme start="20220121123500 +0200" stop="20220121132000 +0200" channel="12keshet">
+    <title lang="he">סודות הנדל''ן</title>
+  </programme>
+  <programme start="20220121132000 +0200" stop="20220121135500 +0200" channel="12keshet">
+    <title lang="he">מרגישות יופי</title>
+  </programme>
+  <programme start="20220121135500 +0200" stop="20220121142500 +0200" channel="12keshet">
+    <title lang="he">רפי רשף</title>
+  </programme>
+  <programme start="20220121142500 +0200" stop="20220121150000 +0200" channel="12keshet">
+    <title lang="he">גיא פינס</title>
+  </programme>
+  <programme start="20220121150000 +0200" stop="20220121170000 +0200" channel="12keshet">
+    <title lang="he">גלית ואילנית</title>
+  </programme>
+  <programme start="20220121170000 +0200" stop="20220121180000 +0200" channel="12keshet">
+    <title lang="he">שישי בחמש עם גדעון אוקו</title>
+  </programme>
+  <programme start="20220121180000 +0200" stop="20220121195500 +0200" channel="12keshet">
+    <title lang="he">אופירה וברקוביץ</title>
+  </programme>
+  <programme start="20220121195500 +0200" stop="20220121220000 +0200" channel="12keshet">
+    <title lang="he">אולפן שישי</title>
+  </programme>
+  <programme start="20220121220000 +0200" stop="20220121224500 +0200" channel="12keshet">
+    <title lang="he">סברי מרנן</title>
+  </programme>
+  <programme start="20220121224500 +0200" stop="20220121231500 +0200" channel="12keshet">
+    <title lang="he">סברי מרנן</title>
   </programme>
   <programme start="20220117061000 +0200" stop="20220117070000 +0200" channel="13reshet">
     <title lang="he">העולם הבוקר</title>
@@ -1522,22 +1369,22 @@
   <programme start="20220117093000 +0200" stop="20220117093500 +0200" channel="13reshet">
     <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220117093500 +0200" stop="20220117100000 +0200" channel="13reshet">
+  <programme start="20220117093500 +0200" stop="20220117095900 +0200" channel="13reshet">
     <title lang="he">פותחים יום</title>
   </programme>
-  <programme start="20220117100000 +0200" stop="20220117100500 +0200" channel="13reshet">
+  <programme start="20220117095900 +0200" stop="20220117100500 +0200" channel="13reshet">
     <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220117100500 +0200" stop="20220117120000 +0200" channel="13reshet">
+  <programme start="20220117100500 +0200" stop="20220117115500 +0200" channel="13reshet">
     <title lang="he">פותחים יום</title>
   </programme>
-  <programme start="20220117120000 +0200" stop="20220117123500 +0200" channel="13reshet">
+  <programme start="20220117115500 +0200" stop="20220117123000 +0200" channel="13reshet">
     <title lang="he">המצעד המשפטי</title>
   </programme>
-  <programme start="20220117123500 +0200" stop="20220117130000 +0200" channel="13reshet">
+  <programme start="20220117123000 +0200" stop="20220117125800 +0200" channel="13reshet">
     <title lang="he">סיפור על אהבה ולחם</title>
   </programme>
-  <programme start="20220117130000 +0200" stop="20220117140000 +0200" channel="13reshet">
+  <programme start="20220117125800 +0200" stop="20220117140000 +0200" channel="13reshet">
     <title lang="he">הישרדות</title>
   </programme>
   <programme start="20220117140000 +0200" stop="20220117145900 +0200" channel="13reshet">
@@ -1825,80 +1672,92 @@
   <programme start="20220120225500 +0200" stop="20220120232500 +0200" channel="13reshet">
     <title lang="he">היום שהיה עם טל ברמן</title>
   </programme>
-  <programme start="20220116063000 +0200" stop="20220116070000 +0200" channel="Arutz20">
-    <title lang="he">מדברים עם עדן הראל</title>
+  <programme start="20220120232500 +0200" stop="20220121000000 +0200" channel="13reshet">
+    <title lang="he">ירוק בלילה</title>
   </programme>
-  <programme start="20220116070000 +0200" stop="20220116090000 +0200" channel="Arutz20">
-    <title lang="he">ישראל הבוקר עם שי גולדן והדר מילר</title>
+  <programme start="20220121000000 +0200" stop="20220121003300 +0200" channel="13reshet">
+    <title lang="he">החיים זה לא הכל</title>
   </programme>
-  <programme start="20220116090000 +0200" stop="20220116100000 +0200" channel="Arutz20">
-    <title lang="he">היום שיהיה עם ארז צדוק</title>
+  <programme start="20220121003300 +0200" stop="20220121012700 +0200" channel="13reshet">
+    <title lang="he">הכול כלול</title>
   </programme>
-  <programme start="20220116100000 +0200" stop="20220116120000 +0200" channel="Arutz20">
-    <title lang="he">עכשיו בוקר עם טל מאיר</title>
+  <programme start="20220121012700 +0200" stop="20220121021500 +0200" channel="13reshet">
+    <title lang="he">לפני החדשות</title>
   </programme>
-  <programme start="20220116120000 +0200" stop="20220116140000 +0200" channel="Arutz20">
-    <title lang="he">יומן צהריים</title>
+  <programme start="20220121021500 +0200" stop="20220121030000 +0200" channel="13reshet">
+    <title lang="he">שש</title>
   </programme>
-  <programme start="20220116140000 +0200" stop="20220116150000 +0200" channel="Arutz20">
-    <title lang="he">לקט פטריוטים</title>
+  <programme start="20220121030000 +0200" stop="20220121035200 +0200" channel="13reshet">
+    <title lang="he">רצף קליפים</title>
   </programme>
-  <programme start="20220116150000 +0200" stop="20220116170000 +0200" channel="Arutz20">
-    <title lang="he">עכשיו ברשת עם יהודה שלזינגר</title>
+  <programme start="20220121035200 +0200" stop="20220121045500 +0200" channel="13reshet">
+    <title lang="he">הדו''ח היומי</title>
   </programme>
-  <programme start="20220116170000 +0200" stop="20220116180000 +0200" channel="Arutz20">
-    <title lang="he">עכשיו כנסת עם יערה זרד</title>
+  <programme start="20220121045500 +0200" stop="20220121051400 +0200" channel="13reshet">
+    <title lang="he">סטטוסקופ</title>
   </programme>
-  <programme start="20220116180000 +0200" stop="20220116190000 +0200" channel="Arutz20">
-    <title lang="he">ריקילין ושות' עם שמעון ריקלין</title>
+  <programme start="20220121051400 +0200" stop="20220121060000 +0200" channel="13reshet">
+    <title lang="he">הכול כלול</title>
   </programme>
-  <programme start="20220116190000 +0200" stop="20220116193000 +0200" channel="Arutz20">
-    <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
+  <programme start="20220121060000 +0200" stop="20220121061000 +0200" channel="13reshet">
+    <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220116193000 +0200" stop="20220116200000 +0200" channel="Arutz20">
-    <title lang="he">המהדורה המרכזית</title>
+  <programme start="20220121061000 +0200" stop="20220121070000 +0200" channel="13reshet">
+    <title lang="he">העולם הבוקר</title>
   </programme>
-  <programme start="20220116200000 +0200" stop="20220116211500 +0200" channel="Arutz20">
-    <title lang="he">הפטריוטים עם ינון מגל</title>
+  <programme start="20220121070000 +0200" stop="20220121093000 +0200" channel="13reshet">
+    <title lang="he">העולם הבוקר</title>
   </programme>
-  <programme start="20220116211500 +0200" stop="20220116220000 +0200" channel="Arutz20">
-    <title lang="he">הדו''ח של אראל סג''ל</title>
+  <programme start="20220121093000 +0200" stop="20220121093500 +0200" channel="13reshet">
+    <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220116220000 +0200" stop="20220116224500 +0200" channel="Arutz20">
-    <title lang="he">עשר עם שרה ב''ק</title>
+  <programme start="20220121093500 +0200" stop="20220121100000 +0200" channel="13reshet">
+    <title lang="he">העולם הבוקר</title>
   </programme>
-  <programme start="20220116224500 +0200" stop="20220116234500 +0200" channel="Arutz20">
-    <title lang="he">האולפן הפתוח עם בועז גולן</title>
+  <programme start="20220121100000 +0200" stop="20220121100500 +0200" channel="13reshet">
+    <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220116234500 +0200" stop="20220116234500 +0200" channel="Arutz20">
-    <title lang="he">הפטריוטים עם ינון מגל</title>
+  <programme start="20220121100500 +0200" stop="20220121120000 +0200" channel="13reshet">
+    <title lang="he">פותחים שישי</title>
   </programme>
-  <programme start="20220116234500 +0200" stop="20220117010000 +0200" channel="Arutz20">
-    <title lang="he">הפטריוטים עם ינון מגל</title>
+  <programme start="20220121120000 +0200" stop="20220121123800 +0200" channel="13reshet">
+    <title lang="he">סטטוסקופ</title>
   </programme>
-  <programme start="20220117010000 +0200" stop="20220117014500 +0200" channel="Arutz20">
-    <title lang="he">הדו''ח של אראל סג''ל</title>
+  <programme start="20220121123800 +0200" stop="20220121131200 +0200" channel="13reshet">
+    <title lang="he">חדשות בערבית</title>
   </programme>
-  <programme start="20220117014500 +0200" stop="20220117024500 +0200" channel="Arutz20">
-    <title lang="he">האולפן הפתוח עם בועז גולן</title>
+  <programme start="20220121131200 +0200" stop="20220121135000 +0200" channel="13reshet">
+    <title lang="he">המצעד המשפטי</title>
   </programme>
-  <programme start="20220117024500 +0200" stop="20220117031500 +0200" channel="Arutz20">
-    <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
+  <programme start="20220121135000 +0200" stop="20220121140400 +0200" channel="13reshet">
+    <title lang="he">מאחורי הכסף</title>
   </programme>
-  <programme start="20220117031500 +0200" stop="20220117040000 +0200" channel="Arutz20">
-    <title lang="he">עכשיו כנסת עם יערה זרד</title>
+  <programme start="20220121140400 +0200" stop="20220121145500 +0200" channel="13reshet">
+    <title lang="he">טוקר בשישי</title>
   </programme>
-  <programme start="20220117040000 +0200" stop="20220117043000 +0200" channel="Arutz20">
-    <title lang="he">מדברים עם עדן הראל</title>
+  <programme start="20220121145500 +0200" stop="20220121153000 +0200" channel="13reshet">
+    <title lang="he">ללא פילטרים</title>
   </programme>
-  <programme start="20220117043000 +0200" stop="20220117051500 +0200" channel="Arutz20">
-    <title lang="he">הפטריוטים עם ינון מגל</title>
+  <programme start="20220121153000 +0200" stop="20220121170000 +0200" channel="13reshet">
+    <title lang="he">אקס לאירוויזיון</title>
   </programme>
-  <programme start="20220117051500 +0200" stop="20220117060000 +0200" channel="Arutz20">
-    <title lang="he">ריקילין ושות' עם שמעון ריקלין</title>
+  <programme start="20220121170000 +0200" stop="20220121170500 +0200" channel="13reshet">
+    <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220117060000 +0200" stop="20220117063000 +0200" channel="Arutz20">
-    <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
+  <programme start="20220121170500 +0200" stop="20220121180000 +0200" channel="13reshet">
+    <title lang="he">המגזין עם נגה ניר נאמן</title>
+  </programme>
+  <programme start="20220121180000 +0200" stop="20220121195600 +0200" channel="13reshet">
+    <title lang="he">אלמוג בשישי</title>
+  </programme>
+  <programme start="20220121195600 +0200" stop="20220121220000 +0200" channel="13reshet">
+    <title lang="he">שישי עם אילה חסון</title>
+  </programme>
+  <programme start="20220121220000 +0200" stop="20220121225600 +0200" channel="13reshet">
+    <title lang="he">אל תפילו את המיליון</title>
+  </programme>
+  <programme start="20220121225600 +0200" stop="20220121232500 +0200" channel="13reshet">
+    <title lang="he">סלבריישן</title>
   </programme>
   <programme start="20220117063000 +0200" stop="20220117070000 +0200" channel="Arutz20">
     <title lang="he">מדברים עם עדן הראל</title>
@@ -2164,128 +2023,59 @@
   <programme start="20220120223000 +0200" stop="20220120231500 +0200" channel="Arutz20">
     <title lang="he">הדו''ח של אראל סג''ל</title>
   </programme>
-  <programme start="20220116065000 +0200" stop="20220116070000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220120231500 +0200" stop="20220120231500 +0200" channel="Arutz20">
+    <title lang="he">אולפן חמישי עם יעקב ברדוגו</title>
   </programme>
-  <programme start="20220116070000 +0200" stop="20220116075000 +0200" channel="shopping">
-    <title lang="he">בשבילי</title>
+  <programme start="20220120231500 +0200" stop="20220121004500 +0200" channel="Arutz20">
+    <title lang="he">אולפן חמישי עם יעקב ברדוגו</title>
   </programme>
-  <programme start="20220116075000 +0200" stop="20220116080000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220121004500 +0200" stop="20220121013000 +0200" channel="Arutz20">
+    <title lang="he">עכשיו כנסת עם יערה זרד</title>
   </programme>
-  <programme start="20220116080000 +0200" stop="20220116085000 +0200" channel="shopping">
-    <title lang="he">המובחרים</title>
+  <programme start="20220121013000 +0200" stop="20220121020000 +0200" channel="Arutz20">
+    <title lang="he">מדברים עם עדן הראל</title>
   </programme>
-  <programme start="20220116085000 +0200" stop="20220116090000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220121020000 +0200" stop="20220121030000 +0200" channel="Arutz20">
+    <title lang="he">האולפן הפתוח עם בועז גולן</title>
   </programme>
-  <programme start="20220116090000 +0200" stop="20220116095000 +0200" channel="shopping">
-    <title lang="he">חם מהתנור</title>
+  <programme start="20220121030000 +0200" stop="20220121033000 +0200" channel="Arutz20">
+    <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
   </programme>
-  <programme start="20220116095000 +0200" stop="20220116100000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220121033000 +0200" stop="20220121043000 +0200" channel="Arutz20">
+    <title lang="he">עכשיו כנסת עם יערה זרד</title>
   </programme>
-  <programme start="20220116100000 +0200" stop="20220116105000 +0200" channel="shopping">
-    <title lang="he">המובחרים</title>
+  <programme start="20220121043000 +0200" stop="20220121051500 +0200" channel="Arutz20">
+    <title lang="he">הפטריוטים עם ינון מגל</title>
   </programme>
-  <programme start="20220116105000 +0200" stop="20220116110000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220121051500 +0200" stop="20220121060000 +0200" channel="Arutz20">
+    <title lang="he">ריקילין ושות' עם שמעון ריקלין</title>
   </programme>
-  <programme start="20220116110000 +0200" stop="20220116115000 +0200" channel="shopping">
-    <title lang="he">חיטובים</title>
+  <programme start="20220121060000 +0200" stop="20220121063000 +0200" channel="Arutz20">
+    <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
   </programme>
-  <programme start="20220116115000 +0200" stop="20220116120000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220121063000 +0200" stop="20220121070000 +0200" channel="Arutz20">
+    <title lang="he">מדברים עם עדן הראל</title>
   </programme>
-  <programme start="20220116120000 +0200" stop="20220116125000 +0200" channel="shopping">
-    <title lang="he">המובחרים</title>
+  <programme start="20220121070000 +0200" stop="20220121090000 +0200" channel="Arutz20">
+    <title lang="he">שישי עם נוה דרומי</title>
   </programme>
-  <programme start="20220116125000 +0200" stop="20220116130000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220121090000 +0200" stop="20220121120000 +0200" channel="Arutz20">
+    <title lang="he">לקט ישראל הבוקר עם שי גולדן</title>
   </programme>
-  <programme start="20220116130000 +0200" stop="20220116135000 +0200" channel="shopping">
-    <title lang="he">הגיע הזמן</title>
+  <programme start="20220121120000 +0200" stop="20220121140000 +0200" channel="Arutz20">
+    <title lang="he">קבלת שבת</title>
   </programme>
-  <programme start="20220116135000 +0200" stop="20220116140000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220121140000 +0200" stop="20220121143000 +0200" channel="Arutz20">
+    <title lang="he">שאלת הרב הראשי</title>
   </programme>
-  <programme start="20220116140000 +0200" stop="20220116145000 +0200" channel="shopping">
-    <title lang="he">המובחרים</title>
+  <programme start="20220121143000 +0200" stop="20220121153000 +0200" channel="Arutz20">
+    <title lang="he">מדברים עם עדן הראל</title>
   </programme>
-  <programme start="20220116145000 +0200" stop="20220116150000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220121153000 +0200" stop="20220121183000 +0200" channel="Arutz20">
+    <title lang="he">שידורינו יתחדשו במוצאי שבת</title>
   </programme>
-  <programme start="20220116150000 +0200" stop="20220116155000 +0200" channel="shopping">
-    <title lang="he">חם מהתנור</title>
-  </programme>
-  <programme start="20220116155000 +0200" stop="20220116160000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220116160000 +0200" stop="20220116165000 +0200" channel="shopping">
-    <title lang="he">בשבילי</title>
-  </programme>
-  <programme start="20220116165000 +0200" stop="20220116170000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220116170000 +0200" stop="20220116180000 +0200" channel="shopping">
-    <title lang="he">חדשות הקניות</title>
-  </programme>
-  <programme start="20220116180000 +0200" stop="20220116190000 +0200" channel="shopping">
-    <title lang="he">המובחרים</title>
-  </programme>
-  <programme start="20220116190000 +0200" stop="20220116200000 +0200" channel="shopping">
-    <title lang="he">המובחרים</title>
-  </programme>
-  <programme start="20220116200000 +0200" stop="20220116210000 +0200" channel="shopping">
-    <title lang="he">מוצר היום ומבצעים נוספים</title>
-  </programme>
-  <programme start="20220116210000 +0200" stop="20220116233000 +0200" channel="shopping">
-    <title lang="he">מוצר היום ומבצעים נוספים</title>
-  </programme>
-  <programme start="20220116233000 +0200" stop="20220116235000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220116235000 +0200" stop="20220117000000 +0200" channel="shopping">
-    <title lang="he">מוצר היום של מחר</title>
-  </programme>
-  <programme start="20220117000000 +0200" stop="20220117005000 +0200" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220117005000 +0200" stop="20220117010000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220117010000 +0200" stop="20220117015000 +0200" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220117015000 +0200" stop="20220117020000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220117020000 +0200" stop="20220117025000 +0200" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220117025000 +0200" stop="20220117030000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220117030000 +0200" stop="20220117035000 +0200" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220117035000 +0200" stop="20220117040000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220117040000 +0200" stop="20220117045000 +0200" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220117045000 +0200" stop="20220117050000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220117050000 +0200" stop="20220117055000 +0200" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220117055000 +0200" stop="20220117060000 +0200" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220117060000 +0200" stop="20220117065000 +0200" channel="shopping">
-    <title lang="he">חיטובים</title>
+  <programme start="20220121183000 +0200" stop="20220121213000 +0200" channel="Arutz20">
+    <title lang="he">שידורינו יתחדשו במוצאי שבת</title>
   </programme>
   <programme start="20220117065000 +0200" stop="20220117070000 +0200" channel="shopping">
     <title lang="he">מוצר היום</title>
@@ -2761,200 +2551,134 @@
   <programme start="20220120233000 +0200" stop="20220120235000 +0200" channel="shopping">
     <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220116062600 +0200" stop="20220116064300 +0200" channel="can hinuhit">
-    <title lang="he">בחצר של פופיק 3</title>
+  <programme start="20220120235000 +0200" stop="20220121000000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116064300 +0200" stop="20220116064600 +0200" channel="can hinuhit">
-    <title lang="he">קשקשתא בדרכים</title>
+  <programme start="20220121000000 +0200" stop="20220121005000 +0200" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220116064600 +0200" stop="20220116065700 +0200" channel="can hinuhit">
-    <title lang="he">פילו וסופי</title>
+  <programme start="20220121005000 +0200" stop="20220121010000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116065700 +0200" stop="20220116071500 +0200" channel="can hinuhit">
-    <title lang="he">קפה עמליה 2</title>
+  <programme start="20220121010000 +0200" stop="20220121015000 +0200" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220116071500 +0200" stop="20220116073000 +0200" channel="can hinuhit">
-    <title lang="he">דן ומוזלי</title>
+  <programme start="20220121015000 +0200" stop="20220121020000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116073000 +0200" stop="20220116075200 +0200" channel="can hinuhit">
-    <title lang="he">פרפר נחמד</title>
+  <programme start="20220121020000 +0200" stop="20220121025000 +0200" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220116075200 +0200" stop="20220116081700 +0200" channel="can hinuhit">
-    <title lang="he">שקשוקה</title>
+  <programme start="20220121025000 +0200" stop="20220121030000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116081700 +0200" stop="20220116084500 +0200" channel="can hinuhit">
-    <title lang="he">חדש! כראמל</title>
+  <programme start="20220121030000 +0200" stop="20220121035000 +0200" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220116084500 +0200" stop="20220116090000 +0200" channel="can hinuhit">
-    <title lang="he">להציל את חיות הבר 2</title>
+  <programme start="20220121035000 +0200" stop="20220121040000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116090000 +0200" stop="20220116093000 +0200" channel="can hinuhit">
-    <title lang="he">חקירות קטנות</title>
+  <programme start="20220121040000 +0200" stop="20220121045000 +0200" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220116093000 +0200" stop="20220116094700 +0200" channel="can hinuhit">
-    <title lang="he">עיר המספרים 2</title>
+  <programme start="20220121045000 +0200" stop="20220121050000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116094700 +0200" stop="20220116101200 +0200" channel="can hinuhit">
-    <title lang="he">חדש! לאמה לימה עונה 2</title>
+  <programme start="20220121050000 +0200" stop="20220121055000 +0200" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220116101200 +0200" stop="20220116103500 +0200" channel="can hinuhit">
-    <title lang="he">פרפר נחמד</title>
+  <programme start="20220121055000 +0200" stop="20220121060000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116103500 +0200" stop="20220116105200 +0200" channel="can hinuhit">
-    <title lang="he">קפה עמליה 2</title>
+  <programme start="20220121060000 +0200" stop="20220121065000 +0200" channel="shopping">
+    <title lang="he">חיטובים</title>
   </programme>
-  <programme start="20220116105200 +0200" stop="20220116111700 +0200" channel="can hinuhit">
-    <title lang="he">שקשוקה</title>
+  <programme start="20220121065000 +0200" stop="20220121070000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116111700 +0200" stop="20220116113200 +0200" channel="can hinuhit">
-    <title lang="he">ילדי בית העץ 2</title>
+  <programme start="20220121070000 +0200" stop="20220121075000 +0200" channel="shopping">
+    <title lang="he">בשבילי</title>
   </programme>
-  <programme start="20220116113200 +0200" stop="20220116115800 +0200" channel="can hinuhit">
-    <title lang="he">שוסטר ושוסטר 3</title>
+  <programme start="20220121075000 +0200" stop="20220121080000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116115800 +0200" stop="20220116122800 +0200" channel="can hinuhit">
-    <title lang="he">חקירות קטנות</title>
+  <programme start="20220121080000 +0200" stop="20220121085000 +0200" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220116122800 +0200" stop="20220116124500 +0200" channel="can hinuhit">
-    <title lang="he">והילד הזה הוא אני 2</title>
+  <programme start="20220121085000 +0200" stop="20220121090000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116124500 +0200" stop="20220116130700 +0200" channel="can hinuhit">
-    <title lang="he">פרפר נחמד</title>
+  <programme start="20220121090000 +0200" stop="20220121095000 +0200" channel="shopping">
+    <title lang="he">חם מהתנור</title>
   </programme>
-  <programme start="20220116130700 +0200" stop="20220116133000 +0200" channel="can hinuhit">
-    <title lang="he">שקשוקה</title>
+  <programme start="20220121095000 +0200" stop="20220121100000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116133000 +0200" stop="20220116134500 +0200" channel="can hinuhit">
-    <title lang="he">ילדי בית העץ 2</title>
+  <programme start="20220121100000 +0200" stop="20220121105000 +0200" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220116134500 +0200" stop="20220116141300 +0200" channel="can hinuhit">
-    <title lang="he">בלוגה בלוז</title>
+  <programme start="20220121105000 +0200" stop="20220121110000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116141300 +0200" stop="20220116144000 +0200" channel="can hinuhit">
-    <title lang="he">האחיין שלי בנץ</title>
+  <programme start="20220121110000 +0200" stop="20220121115000 +0200" channel="shopping">
+    <title lang="he">חיטובים</title>
   </programme>
-  <programme start="20220116144000 +0200" stop="20220116150200 +0200" channel="can hinuhit">
-    <title lang="he">לבד בבית</title>
+  <programme start="20220121115000 +0200" stop="20220121120000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116150200 +0200" stop="20220116153000 +0200" channel="can hinuhit">
-    <title lang="he">חדש! כראמל</title>
+  <programme start="20220121120000 +0200" stop="20220121125000 +0200" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220116153000 +0200" stop="20220116155800 +0200" channel="can hinuhit">
-    <title lang="he">חדש! כראמל</title>
+  <programme start="20220121125000 +0200" stop="20220121130000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116155800 +0200" stop="20220116161300 +0200" channel="can hinuhit">
-    <title lang="he">ילדי בית העץ 2</title>
+  <programme start="20220121130000 +0200" stop="20220121135000 +0200" channel="shopping">
+    <title lang="he">הגיע הזמן</title>
   </programme>
-  <programme start="20220116161300 +0200" stop="20220116163800 +0200" channel="can hinuhit">
-    <title lang="he">שקשוקה</title>
+  <programme start="20220121135000 +0200" stop="20220121140000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116163800 +0200" stop="20220116170500 +0200" channel="can hinuhit">
-    <title lang="he">מי פה הבוס?</title>
+  <programme start="20220121140000 +0200" stop="20220121145000 +0200" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220116170500 +0200" stop="20220116172800 +0200" channel="can hinuhit">
-    <title lang="he">האחיין שלי בנץ</title>
+  <programme start="20220121145000 +0200" stop="20220121150000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116172800 +0200" stop="20220116174500 +0200" channel="can hinuhit">
-    <title lang="he">האולפן שלי בנץ</title>
+  <programme start="20220121150000 +0200" stop="20220121155000 +0200" channel="shopping">
+    <title lang="he">חם מהתנור</title>
   </programme>
-  <programme start="20220116174500 +0200" stop="20220116181000 +0200" channel="can hinuhit">
-    <title lang="he">לבד בבית</title>
+  <programme start="20220121155000 +0200" stop="20220121160000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116181000 +0200" stop="20220116183800 +0200" channel="can hinuhit">
-    <title lang="he">חדש! כראמל</title>
+  <programme start="20220121160000 +0200" stop="20220121165000 +0200" channel="shopping">
+    <title lang="he">בשבילי</title>
   </programme>
-  <programme start="20220116183800 +0200" stop="20220116190500 +0200" channel="can hinuhit">
-    <title lang="he">הבאר</title>
+  <programme start="20220121165000 +0200" stop="20220121170000 +0200" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220116190500 +0200" stop="20220116193500 +0200" channel="can hinuhit">
-    <title lang="he">מקיף מילאנו</title>
+  <programme start="20220121170000 +0200" stop="20220121180000 +0200" channel="shopping">
+    <title lang="he">חדשות הקניות</title>
   </programme>
-  <programme start="20220116193500 +0200" stop="20220116200200 +0200" channel="can hinuhit">
-    <title lang="he">גלילאו 9</title>
+  <programme start="20220121180000 +0200" stop="20220121190000 +0200" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220116200200 +0200" stop="20220116202000 +0200" channel="can hinuhit">
-    <title lang="he">והילד הזה הוא אני 2</title>
+  <programme start="20220121190000 +0200" stop="20220121195000 +0200" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220116202000 +0200" stop="20220116204500 +0200" channel="can hinuhit">
-    <title lang="he">שוסטר ושוסטר 3</title>
+  <programme start="20220121195000 +0200" stop="20220121200000 +0200" channel="shopping">
+    <title lang="he">המכרז הבטוח עם גדעון רייכר</title>
   </programme>
-  <programme start="20220116204500 +0200" stop="20220116210800 +0200" channel="can hinuhit">
-    <title lang="he">מקס המדען</title>
+  <programme start="20220121200000 +0200" stop="20220121210000 +0200" channel="shopping">
+    <title lang="he">מוצר היום ומבצעים נוספים</title>
   </programme>
-  <programme start="20220116210800 +0200" stop="20220116213700 +0200" channel="can hinuhit">
-    <title lang="he">גלילאו 9</title>
+  <programme start="20220121210000 +0200" stop="20220121232000 +0200" channel="shopping">
+    <title lang="he">המכרז הבטוח ומבצעים נוספים</title>
   </programme>
-  <programme start="20220116213700 +0200" stop="20220116220000 +0200" channel="can hinuhit">
-    <title lang="he">האחיין שלי בנץ</title>
+  <programme start="20220121232000 +0200" stop="20220121233000 +0200" channel="shopping">
+    <title lang="he">המכרז הבטוח</title>
   </programme>
-  <programme start="20220116220000 +0200" stop="20220116221700 +0200" channel="can hinuhit">
-    <title lang="he">האולפן שלי בנץ</title>
-  </programme>
-  <programme start="20220116221700 +0200" stop="20220116224500 +0200" channel="can hinuhit">
-    <title lang="he">חדש! כראמל</title>
-  </programme>
-  <programme start="20220116224500 +0200" stop="20220116231200 +0200" channel="can hinuhit">
-    <title lang="he">בלוגה בלוז</title>
-  </programme>
-  <programme start="20220116231200 +0200" stop="20220116234200 +0200" channel="can hinuhit">
-    <title lang="he">מקיף מילאנו</title>
-  </programme>
-  <programme start="20220116234200 +0200" stop="20220116234200 +0200" channel="can hinuhit">
-    <title lang="he">הבאר</title>
-  </programme>
-  <programme start="20220116234200 +0200" stop="20220117001000 +0200" channel="can hinuhit">
-    <title lang="he">הבאר</title>
-  </programme>
-  <programme start="20220117001000 +0200" stop="20220117003700 +0200" channel="can hinuhit">
-    <title lang="he">חדש! כראמל</title>
-  </programme>
-  <programme start="20220117003700 +0200" stop="20220117005500 +0200" channel="can hinuhit">
-    <title lang="he">והילד הזה הוא אני 2</title>
-  </programme>
-  <programme start="20220117005500 +0200" stop="20220117012000 +0200" channel="can hinuhit">
-    <title lang="he">האחיין שלי בנץ</title>
-  </programme>
-  <programme start="20220117012000 +0200" stop="20220117014500 +0200" channel="can hinuhit">
-    <title lang="he">בלוגה בלוז</title>
-  </programme>
-  <programme start="20220117014500 +0200" stop="20220117021300 +0200" channel="can hinuhit">
-    <title lang="he">גלילאו 9</title>
-  </programme>
-  <programme start="20220117021300 +0200" stop="20220117023700 +0200" channel="can hinuhit">
-    <title lang="he">לבד בבית</title>
-  </programme>
-  <programme start="20220117023700 +0200" stop="20220117030300 +0200" channel="can hinuhit">
-    <title lang="he">מי פה הבוס?</title>
-  </programme>
-  <programme start="20220117030300 +0200" stop="20220117033500 +0200" channel="can hinuhit">
-    <title lang="he">מקיף מילאנו</title>
-  </programme>
-  <programme start="20220117033500 +0200" stop="20220117040000 +0200" channel="can hinuhit">
-    <title lang="he">האחיין שלי בנץ</title>
-  </programme>
-  <programme start="20220117040000 +0200" stop="20220117042300 +0200" channel="can hinuhit">
-    <title lang="he">מקס המדען 3</title>
-  </programme>
-  <programme start="20220117042300 +0200" stop="20220117045000 +0200" channel="can hinuhit">
-    <title lang="he">חדש! כראמל</title>
-  </programme>
-  <programme start="20220117045000 +0200" stop="20220117050700 +0200" channel="can hinuhit">
-    <title lang="he">שרגא בישגדא</title>
-  </programme>
-  <programme start="20220117050700 +0200" stop="20220117051400 +0200" channel="can hinuhit">
-    <title lang="he">העיפרון הכי מחודד</title>
-  </programme>
-  <programme start="20220117051400 +0200" stop="20220117053200 +0200" channel="can hinuhit">
-    <title lang="he">עיר המספרים</title>
-  </programme>
-  <programme start="20220117053200 +0200" stop="20220117054500 +0200" channel="can hinuhit">
-    <title lang="he">הפלנטונים</title>
-  </programme>
-  <programme start="20220117054500 +0200" stop="20220117060000 +0200" channel="can hinuhit">
-    <title lang="he">חבורת הקצב 3</title>
-  </programme>
-  <programme start="20220117060000 +0200" stop="20220117060500 +0200" channel="can hinuhit">
-    <title lang="he">אגדות המלך שלמה</title>
+  <programme start="20220121233000 +0200" stop="20220121235000 +0200" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
   <programme start="20220117060500 +0200" stop="20220117063000 +0200" channel="can hinuhit">
     <title lang="he">פרפר נחמד</title>
@@ -3676,178 +3400,286 @@
   <programme start="20220120231500 +0200" stop="20220120234500 +0200" channel="can hinuhit">
     <title lang="he">מקיף מילאנו</title>
   </programme>
-  <programme start="20220116080000 +0200" stop="20220116090400 +0200" channel="24">
+  <programme start="20220120234500 +0200" stop="20220120234500 +0200" channel="can hinuhit">
+    <title lang="he">הבאר</title>
+  </programme>
+  <programme start="20220120234500 +0200" stop="20220121001200 +0200" channel="can hinuhit">
+    <title lang="he">הבאר</title>
+  </programme>
+  <programme start="20220121001200 +0200" stop="20220121004000 +0200" channel="can hinuhit">
+    <title lang="he">חדש! כראמל</title>
+  </programme>
+  <programme start="20220121004000 +0200" stop="20220121005800 +0200" channel="can hinuhit">
+    <title lang="he">חדש! השמרטפים</title>
+  </programme>
+  <programme start="20220121005800 +0200" stop="20220121012300 +0200" channel="can hinuhit">
+    <title lang="he">האחיין שלי בנץ</title>
+  </programme>
+  <programme start="20220121012300 +0200" stop="20220121015000 +0200" channel="can hinuhit">
+    <title lang="he">בלוגה בלוז</title>
+  </programme>
+  <programme start="20220121015000 +0200" stop="20220121021800 +0200" channel="can hinuhit">
+    <title lang="he">גלילאו 9</title>
+  </programme>
+  <programme start="20220121021800 +0200" stop="20220121024200 +0200" channel="can hinuhit">
+    <title lang="he">לבד בבית</title>
+  </programme>
+  <programme start="20220121024200 +0200" stop="20220121030500 +0200" channel="can hinuhit">
+    <title lang="he">מי פה הבוס?</title>
+  </programme>
+  <programme start="20220121030500 +0200" stop="20220121033500 +0200" channel="can hinuhit">
+    <title lang="he">מקיף מילאנו</title>
+  </programme>
+  <programme start="20220121033500 +0200" stop="20220121040000 +0200" channel="can hinuhit">
+    <title lang="he">האחיין שלי בנץ</title>
+  </programme>
+  <programme start="20220121040000 +0200" stop="20220121042300 +0200" channel="can hinuhit">
+    <title lang="he">מקס המדען 3</title>
+  </programme>
+  <programme start="20220121042300 +0200" stop="20220121045000 +0200" channel="can hinuhit">
+    <title lang="he">חדש! כראמל</title>
+  </programme>
+  <programme start="20220121045000 +0200" stop="20220121050700 +0200" channel="can hinuhit">
+    <title lang="he">שרגא בישגדא</title>
+  </programme>
+  <programme start="20220121050700 +0200" stop="20220121051400 +0200" channel="can hinuhit">
+    <title lang="he">העיפרון הכי מחודד</title>
+  </programme>
+  <programme start="20220121051400 +0200" stop="20220121053200 +0200" channel="can hinuhit">
+    <title lang="he">עיר המספרים</title>
+  </programme>
+  <programme start="20220121053200 +0200" stop="20220121054500 +0200" channel="can hinuhit">
+    <title lang="he">הפלנטונים</title>
+  </programme>
+  <programme start="20220121054500 +0200" stop="20220121060000 +0200" channel="can hinuhit">
+    <title lang="he">חבורת הקצב 3</title>
+  </programme>
+  <programme start="20220121060000 +0200" stop="20220121062700 +0200" channel="can hinuhit">
+    <title lang="he">פרפר נחמד</title>
+  </programme>
+  <programme start="20220121062700 +0200" stop="20220121063000 +0200" channel="can hinuhit">
+    <title lang="he">קשקשתא בדרכים</title>
+  </programme>
+  <programme start="20220121063000 +0200" stop="20220121064500 +0200" channel="can hinuhit">
+    <title lang="he">בחצר של פופיק 4</title>
+  </programme>
+  <programme start="20220121064500 +0200" stop="20220121071000 +0200" channel="can hinuhit">
+    <title lang="he">פרפר נחמד</title>
+  </programme>
+  <programme start="20220121071000 +0200" stop="20220121072700 +0200" channel="can hinuhit">
+    <title lang="he">עולם הבובות של גלי</title>
+  </programme>
+  <programme start="20220121072700 +0200" stop="20220121074200 +0200" channel="can hinuhit">
+    <title lang="he">ילדי בית העץ 2</title>
+  </programme>
+  <programme start="20220121074200 +0200" stop="20220121080000 +0200" channel="can hinuhit">
+    <title lang="he">ילדי בית העץ 2</title>
+  </programme>
+  <programme start="20220121080000 +0200" stop="20220121082400 +0200" channel="can hinuhit">
+    <title lang="he">שקשוקה</title>
+  </programme>
+  <programme start="20220121082400 +0200" stop="20220121084700 +0200" channel="can hinuhit">
+    <title lang="he">שקשוקה</title>
+  </programme>
+  <programme start="20220121084700 +0200" stop="20220121091000 +0200" channel="can hinuhit">
+    <title lang="he">פרפר נחמד</title>
+  </programme>
+  <programme start="20220121091000 +0200" stop="20220121093500 +0200" channel="can hinuhit">
+    <title lang="he">חדש! לאמה לימה עונה 2</title>
+  </programme>
+  <programme start="20220121093500 +0200" stop="20220121095000 +0200" channel="can hinuhit">
+    <title lang="he">עיר המספרים</title>
+  </programme>
+  <programme start="20220121095000 +0200" stop="20220121100300 +0200" channel="can hinuhit">
+    <title lang="he">ג'ייגנטו והדינוזאורים</title>
+  </programme>
+  <programme start="20220121100300 +0200" stop="20220121102300 +0200" channel="can hinuhit">
+    <title lang="he">קפה עמליה</title>
+  </programme>
+  <programme start="20220121102300 +0200" stop="20220121103800 +0200" channel="can hinuhit">
+    <title lang="he">דן ומוזלי</title>
+  </programme>
+  <programme start="20220121103800 +0200" stop="20220121105500 +0200" channel="can hinuhit">
+    <title lang="he">והילד הזה הוא אני 2</title>
+  </programme>
+  <programme start="20220121105500 +0200" stop="20220121111000 +0200" channel="can hinuhit">
+    <title lang="he">להציל את חיות הבר</title>
+  </programme>
+  <programme start="20220121111000 +0200" stop="20220121112800 +0200" channel="can hinuhit">
+    <title lang="he">חדש! השמרטפים</title>
+  </programme>
+  <programme start="20220121112800 +0200" stop="20220121115400 +0200" channel="can hinuhit">
+    <title lang="he">חדש! כראמל</title>
+  </programme>
+  <programme start="20220121115400 +0200" stop="20220121122200 +0200" channel="can hinuhit">
+    <title lang="he">חדש! כראמל</title>
+  </programme>
+  <programme start="20220121122200 +0200" stop="20220121125000 +0200" channel="can hinuhit">
+    <title lang="he">בלוגה בלוז</title>
+  </programme>
+  <programme start="20220121125000 +0200" stop="20220121131500 +0200" channel="can hinuhit">
+    <title lang="he">מי פה הבוס?</title>
+  </programme>
+  <programme start="20220121131500 +0200" stop="20220121133800 +0200" channel="can hinuhit">
+    <title lang="he">לבד בבית</title>
+  </programme>
+  <programme start="20220121133800 +0200" stop="20220121140300 +0200" channel="can hinuhit">
+    <title lang="he">לבד בבית</title>
+  </programme>
+  <programme start="20220121140300 +0200" stop="20220121143000 +0200" channel="can hinuhit">
+    <title lang="he">חדש! כראמל</title>
+  </programme>
+  <programme start="20220121143000 +0200" stop="20220121145800 +0200" channel="can hinuhit">
+    <title lang="he">חדש! כראמל</title>
+  </programme>
+  <programme start="20220121145800 +0200" stop="20220121151400 +0200" channel="can hinuhit">
+    <title lang="he">ילדי בית העץ 2</title>
+  </programme>
+  <programme start="20220121151400 +0200" stop="20220121153000 +0200" channel="can hinuhit">
+    <title lang="he">ילדי בית העץ 2</title>
+  </programme>
+  <programme start="20220121153000 +0200" stop="20220121154800 +0200" channel="can hinuhit">
+    <title lang="he">והילד הזה הוא אני 2</title>
+  </programme>
+  <programme start="20220121154800 +0200" stop="20220121160600 +0200" channel="can hinuhit">
+    <title lang="he">חדש! השמרטפים</title>
+  </programme>
+  <programme start="20220121160600 +0200" stop="20220121163000 +0200" channel="can hinuhit">
+    <title lang="he">שקשוקה</title>
+  </programme>
+  <programme start="20220121163000 +0200" stop="20220121165300 +0200" channel="can hinuhit">
+    <title lang="he">שקשוקה</title>
+  </programme>
+  <programme start="20220121165300 +0200" stop="20220121172000 +0200" channel="can hinuhit">
+    <title lang="he">בלוגה בלוז</title>
+  </programme>
+  <programme start="20220121172000 +0200" stop="20220121174700 +0200" channel="can hinuhit">
+    <title lang="he">חדש! כראמל</title>
+  </programme>
+  <programme start="20220121174700 +0200" stop="20220121181500 +0200" channel="can hinuhit">
+    <title lang="he">חדש! כראמל</title>
+  </programme>
+  <programme start="20220121181500 +0200" stop="20220121184000 +0200" channel="can hinuhit">
+    <title lang="he">האחיין שלי בנץ</title>
+  </programme>
+  <programme start="20220121184000 +0200" stop="20220121185500 +0200" channel="can hinuhit">
+    <title lang="he">האולפן שלי בנץ</title>
+  </programme>
+  <programme start="20220121185500 +0200" stop="20220121192000 +0200" channel="can hinuhit">
+    <title lang="he">האחיין שלי בנץ</title>
+  </programme>
+  <programme start="20220121192000 +0200" stop="20220121193800 +0200" channel="can hinuhit">
+    <title lang="he">האולפן שלי בנץ</title>
+  </programme>
+  <programme start="20220121193800 +0200" stop="20220121200200 +0200" channel="can hinuhit">
+    <title lang="he">שוסטר ושוסטר</title>
+  </programme>
+  <programme start="20220121200200 +0200" stop="20220121202800 +0200" channel="can hinuhit">
+    <title lang="he">גלילאו 9</title>
+  </programme>
+  <programme start="20220121202800 +0200" stop="20220121205100 +0200" channel="can hinuhit">
+    <title lang="he">לבד בבית</title>
+  </programme>
+  <programme start="20220121205100 +0200" stop="20220121211600 +0200" channel="can hinuhit">
+    <title lang="he">לבד בבית</title>
+  </programme>
+  <programme start="20220121211600 +0200" stop="20220121214400 +0200" channel="can hinuhit">
+    <title lang="he">הבאר</title>
+  </programme>
+  <programme start="20220121214400 +0200" stop="20220121220800 +0200" channel="can hinuhit">
+    <title lang="he">האחיין שלי בנץ</title>
+  </programme>
+  <programme start="20220121220800 +0200" stop="20220121222400 +0200" channel="can hinuhit">
+    <title lang="he">האולפן שלי בנץ</title>
+  </programme>
+  <programme start="20220121222400 +0200" stop="20220121225000 +0200" channel="can hinuhit">
+    <title lang="he">האחיין שלי בנץ</title>
+  </programme>
+  <programme start="20220121225000 +0200" stop="20220121230600 +0200" channel="can hinuhit">
+    <title lang="he">האולפן שלי בנץ</title>
+  </programme>
+  <programme start="20220121230600 +0200" stop="20220121234000 +0200" channel="can hinuhit">
+    <title lang="he">מקיף מילאנו</title>
+  </programme>
+  <programme start="20220117080000 +0200" stop="20220117090900 +0200" channel="24">
     <title lang="he">חורף חם</title>
   </programme>
-  <programme start="20220116090400 +0200" stop="20220116093000 +0200" channel="24">
-    <title lang="he">מזרח תיכון חדש</title>
+  <programme start="20220117090900 +0200" stop="20220117093200 +0200" channel="24">
+    <title lang="he">חדש ב</title>
   </programme>
-  <programme start="20220116093000 +0200" stop="20220116110900 +0200" channel="24">
+  <programme start="20220117093200 +0200" stop="20220117111300 +0200" channel="24">
     <title lang="he">מתוקים עונה חדשה</title>
   </programme>
-  <programme start="20220116110900 +0200" stop="20220116120000 +0200" channel="24">
+  <programme start="20220117111300 +0200" stop="20220117120200 +0200" channel="24">
     <title lang="he">פבלו, אוכל וחברים</title>
   </programme>
-  <programme start="20220116120000 +0200" stop="20220116123500 +0200" channel="24">
-    <title lang="he">אמהות מבשלות ביחד</title>
-  </programme>
-  <programme start="20220116123500 +0200" stop="20220116130000 +0200" channel="24">
-    <title lang="he">החיים זה לא הכל 4</title>
-  </programme>
-  <programme start="20220116130000 +0200" stop="20220116132700 +0200" channel="24">
-    <title lang="he">החיים זה לא הכל 4</title>
-  </programme>
-  <programme start="20220116132700 +0200" stop="20220116140000 +0200" channel="24">
-    <title lang="he">רמת אביב ג</title>
-  </programme>
-  <programme start="20220116140000 +0200" stop="20220116145300 +0200" channel="24">
-    <title lang="he">טיפול נמרץ</title>
-  </programme>
-  <programme start="20220116145300 +0200" stop="20220116154000 +0200" channel="24">
-    <title lang="he">לגעת באושר</title>
-  </programme>
-  <programme start="20220116154000 +0200" stop="20220116160100 +0200" channel="24">
-    <title lang="he">חדש ב</title>
-  </programme>
-  <programme start="20220116160100 +0200" stop="20220116165500 +0200" channel="24">
-    <title lang="he">העשירייה</title>
-  </programme>
-  <programme start="20220116165500 +0200" stop="20220116171400 +0200" channel="24">
-    <title lang="he">קומדי סטור</title>
-  </programme>
-  <programme start="20220116171400 +0200" stop="20220116181300 +0200" channel="24">
-    <title lang="he">ארץ נהדרת 3</title>
-  </programme>
-  <programme start="20220116181300 +0200" stop="20220116190000 +0200" channel="24">
-    <title lang="he">לגעת באושר</title>
-  </programme>
-  <programme start="20220116190000 +0200" stop="20220116193500 +0200" channel="24">
-    <title lang="he">רמת אביב ג</title>
-  </programme>
-  <programme start="20220116193500 +0200" stop="20220116200200 +0200" channel="24">
-    <title lang="he">החיים זה לא הכל 4</title>
-  </programme>
-  <programme start="20220116200200 +0200" stop="20220116203400 +0200" channel="24">
-    <title lang="he">החיים זה לא הכל 4</title>
-  </programme>
-  <programme start="20220116203400 +0200" stop="20220116212500 +0200" channel="24">
-    <title lang="he">טיפול נמרץ</title>
-  </programme>
-  <programme start="20220116212500 +0200" stop="20220116222000 +0200" channel="24">
-    <title lang="he">מעורב ירושלמי</title>
-  </programme>
-  <programme start="20220116222000 +0200" stop="20220116235200 +0200" channel="24">
-    <title lang="he">טרור בבית הספר: דולף לונדגרן</title>
-  </programme>
-  <programme start="20220116235200 +0200" stop="20220116235200 +0200" channel="24">
-    <title lang="he">לגעת באושר</title>
-  </programme>
-  <programme start="20220116235200 +0200" stop="20220117003500 +0200" channel="24">
-    <title lang="he">לגעת באושר</title>
-  </programme>
-  <programme start="20220117003500 +0200" stop="20220117010600 +0200" channel="24">
-    <title lang="he">רמת אביב ג</title>
-  </programme>
-  <programme start="20220117010600 +0200" stop="20220117015300 +0200" channel="24">
-    <title lang="he">טיפול נמרץ</title>
-  </programme>
-  <programme start="20220117015300 +0200" stop="20220117023000 +0200" channel="24">
-    <title lang="he">חדש ב</title>
-  </programme>
-  <programme start="20220117023000 +0200" stop="20220117043000 +0200" channel="24">
-    <title lang="he">טיסת לילה</title>
-  </programme>
-  <programme start="20220117043000 +0200" stop="20220117050000 +0200" channel="24">
-    <title lang="he">ישראלי שמח</title>
-  </programme>
-  <programme start="20220117050000 +0200" stop="20220117053000 +0200" channel="24">
-    <title lang="he">מיקס ישראלי</title>
-  </programme>
-  <programme start="20220117053000 +0200" stop="20220117060000 +0200" channel="24">
-    <title lang="he">מיקס ישראלי</title>
-  </programme>
-  <programme start="20220117060000 +0200" stop="20220117080000 +0200" channel="24">
-    <title lang="he">בוקר ישראלי</title>
-  </programme>
-  <programme start="20220117080000 +0200" stop="20220117091100 +0200" channel="24">
-    <title lang="he">חורף חם</title>
-  </programme>
-  <programme start="20220117091100 +0200" stop="20220117094100 +0200" channel="24">
-    <title lang="he">חדש ב</title>
-  </programme>
-  <programme start="20220117094100 +0200" stop="20220117111100 +0200" channel="24">
-    <title lang="he">מתוקים עונה חדשה</title>
-  </programme>
-  <programme start="20220117111100 +0200" stop="20220117115900 +0200" channel="24">
-    <title lang="he">פבלו, אוכל וחברים</title>
-  </programme>
-  <programme start="20220117115900 +0200" stop="20220117122900 +0200" channel="24">
+  <programme start="20220117120200 +0200" stop="20220117123100 +0200" channel="24">
     <title lang="he"># הבייקרי של אור שפיץ</title>
   </programme>
-  <programme start="20220117122900 +0200" stop="20220117125700 +0200" channel="24">
+  <programme start="20220117123100 +0200" stop="20220117130000 +0200" channel="24">
     <title lang="he">החיים זה לא הכל 4</title>
   </programme>
-  <programme start="20220117125700 +0200" stop="20220117132500 +0200" channel="24">
+  <programme start="20220117130000 +0200" stop="20220117132700 +0200" channel="24">
     <title lang="he">החיים זה לא הכל 4</title>
   </programme>
-  <programme start="20220117132500 +0200" stop="20220117140000 +0200" channel="24">
+  <programme start="20220117132700 +0200" stop="20220117140000 +0200" channel="24">
     <title lang="he">רמת אביב ג</title>
   </programme>
-  <programme start="20220117140000 +0200" stop="20220117145500 +0200" channel="24">
+  <programme start="20220117140000 +0200" stop="20220117145200 +0200" channel="24">
     <title lang="he">טיפול נמרץ</title>
   </programme>
-  <programme start="20220117145500 +0200" stop="20220117154500 +0200" channel="24">
+  <programme start="20220117145200 +0200" stop="20220117153900 +0200" channel="24">
     <title lang="he">לגעת באושר</title>
   </programme>
-  <programme start="20220117154500 +0200" stop="20220117160100 +0200" channel="24">
+  <programme start="20220117153900 +0200" stop="20220117160400 +0200" channel="24">
     <title lang="he">מזרח תיכון חדש</title>
   </programme>
-  <programme start="20220117160100 +0200" stop="20220117164900 +0200" channel="24">
+  <programme start="20220117160400 +0200" stop="20220117165100 +0200" channel="24">
     <title lang="he">10 שירי ט''ו בשבט הגדולים</title>
   </programme>
-  <programme start="20220117164900 +0200" stop="20220117171200 +0200" channel="24">
+  <programme start="20220117165100 +0200" stop="20220117171300 +0200" channel="24">
     <title lang="he">קומדי סטור</title>
   </programme>
-  <programme start="20220117171200 +0200" stop="20220117181000 +0200" channel="24">
+  <programme start="20220117171300 +0200" stop="20220117181300 +0200" channel="24">
     <title lang="he">ארץ נהדרת 3</title>
   </programme>
-  <programme start="20220117181000 +0200" stop="20220117190000 +0200" channel="24">
+  <programme start="20220117181300 +0200" stop="20220117190000 +0200" channel="24">
     <title lang="he">לגעת באושר</title>
   </programme>
-  <programme start="20220117190000 +0200" stop="20220117193500 +0200" channel="24">
+  <programme start="20220117190000 +0200" stop="20220117193800 +0200" channel="24">
     <title lang="he">רמת אביב ג</title>
   </programme>
-  <programme start="20220117193500 +0200" stop="20220117200300 +0200" channel="24">
+  <programme start="20220117193800 +0200" stop="20220117200500 +0200" channel="24">
     <title lang="he">החיים זה לא הכל 4</title>
   </programme>
-  <programme start="20220117200300 +0200" stop="20220117203100 +0200" channel="24">
+  <programme start="20220117200500 +0200" stop="20220117203700 +0200" channel="24">
     <title lang="he">החיים זה לא הכל 4</title>
   </programme>
-  <programme start="20220117203100 +0200" stop="20220117212600 +0200" channel="24">
+  <programme start="20220117203700 +0200" stop="20220117212900 +0200" channel="24">
     <title lang="he">טיפול נמרץ</title>
   </programme>
-  <programme start="20220117212600 +0200" stop="20220117221800 +0200" channel="24">
+  <programme start="20220117212900 +0200" stop="20220117222400 +0200" channel="24">
     <title lang="he">מעורב ירושלמי</title>
   </programme>
-  <programme start="20220117221800 +0200" stop="20220117221800 +0200" channel="24">
+  <programme start="20220117222400 +0200" stop="20220117222400 +0200" channel="24">
     <title lang="he">השוד</title>
   </programme>
-  <programme start="20220117221800 +0200" stop="20220118000200 +0200" channel="24">
+  <programme start="20220117222400 +0200" stop="20220118000900 +0200" channel="24">
     <title lang="he">השוד</title>
   </programme>
-  <programme start="20220118000200 +0200" stop="20220118004600 +0200" channel="24">
+  <programme start="20220118000900 +0200" stop="20220118005400 +0200" channel="24">
     <title lang="he">לגעת באושר</title>
   </programme>
-  <programme start="20220118004600 +0200" stop="20220118011800 +0200" channel="24">
+  <programme start="20220118005400 +0200" stop="20220118012500 +0200" channel="24">
     <title lang="he">רמת אביב ג</title>
   </programme>
-  <programme start="20220118011800 +0200" stop="20220118020700 +0200" channel="24">
+  <programme start="20220118012500 +0200" stop="20220118021400 +0200" channel="24">
     <title lang="he">טיפול נמרץ</title>
   </programme>
-  <programme start="20220118020700 +0200" stop="20220118023000 +0200" channel="24">
+  <programme start="20220118021400 +0200" stop="20220118024200 +0200" channel="24">
     <title lang="he">מזרח תיכון חדש</title>
   </programme>
-  <programme start="20220118023000 +0200" stop="20220118043000 +0200" channel="24">
+  <programme start="20220118024200 +0200" stop="20220118043000 +0200" channel="24">
     <title lang="he">טיסת לילה</title>
   </programme>
   <programme start="20220118043000 +0200" stop="20220118050000 +0200" channel="24">
@@ -4111,77 +3943,29 @@
   <programme start="20220120220900 +0200" stop="20220120234700 +0200" channel="24">
     <title lang="he">הממלכה האסורה</title>
   </programme>
-  <programme start="20220116070000 +0200" stop="20220116080000 +0200" channel="hidabroot">
-    <title lang="he">שיעורי רבנים</title>
+  <programme start="20220120234700 +0200" stop="20220120234700 +0200" channel="24">
+    <title lang="he">רמת אביב ג</title>
   </programme>
-  <programme start="20220116080000 +0200" stop="20220116090000 +0200" channel="hidabroot">
-    <title lang="he">תוכניות ילדים</title>
+  <programme start="20220120234700 +0200" stop="20220121001900 +0200" channel="24">
+    <title lang="he">רמת אביב ג</title>
   </programme>
-  <programme start="20220116090000 +0200" stop="20220116100000 +0200" channel="hidabroot">
-    <title lang="he">הרב יצחק פנגר</title>
+  <programme start="20220121001900 +0200" stop="20220121010300 +0200" channel="24">
+    <title lang="he">לגעת באושר</title>
   </programme>
-  <programme start="20220116100000 +0200" stop="20220116110000 +0200" channel="hidabroot">
-    <title lang="he">שיעורי רבנים</title>
+  <programme start="20220121010300 +0200" stop="20220121014700 +0200" channel="24">
+    <title lang="he">לגעת באושר</title>
   </programme>
-  <programme start="20220116110000 +0200" stop="20220116120000 +0200" channel="hidabroot">
-    <title lang="he">תוכניות הערוץ</title>
+  <programme start="20220121014700 +0200" stop="20220121023000 +0200" channel="24">
+    <title lang="he">חדש ב</title>
   </programme>
-  <programme start="20220116120000 +0200" stop="20220116130000 +0200" channel="hidabroot">
-    <title lang="he">שניים</title>
+  <programme start="20220121023000 +0200" stop="20220121043000 +0200" channel="24">
+    <title lang="he">טיסת לילה</title>
   </programme>
-  <programme start="20220116130000 +0200" stop="20220116140000 +0200" channel="hidabroot">
-    <title lang="he">בין קודש לחול</title>
+  <programme start="20220121043000 +0200" stop="20220121050000 +0200" channel="24">
+    <title lang="he">בשעות הקטנות</title>
   </programme>
-  <programme start="20220116140000 +0200" stop="20220116150000 +0200" channel="hidabroot">
-    <title lang="he">הרב זמיר כהן</title>
-  </programme>
-  <programme start="20220116150000 +0200" stop="20220116160000 +0200" channel="hidabroot">
-    <title lang="he">שיעורי רבנים</title>
-  </programme>
-  <programme start="20220116160000 +0200" stop="20220116170000 +0200" channel="hidabroot">
-    <title lang="he">תוכניות ילדים</title>
-  </programme>
-  <programme start="20220116170000 +0200" stop="20220116180000 +0200" channel="hidabroot">
-    <title lang="he">מאחורי המיקרוסקופ</title>
-  </programme>
-  <programme start="20220116180000 +0200" stop="20220116190000 +0200" channel="hidabroot">
-    <title lang="he">הרב יצחק פנגר</title>
-  </programme>
-  <programme start="20220116190000 +0200" stop="20220116200000 +0200" channel="hidabroot">
-    <title lang="he">הרב אליהו עמר</title>
-  </programme>
-  <programme start="20220116200000 +0200" stop="20220116210000 +0200" channel="hidabroot">
-    <title lang="he">סדר ט''ו בשבט</title>
-  </programme>
-  <programme start="20220116210000 +0200" stop="20220116220000 +0200" channel="hidabroot">
-    <title lang="he">פתוח</title>
-  </programme>
-  <programme start="20220116220000 +0200" stop="20220116230000 +0200" channel="hidabroot">
-    <title lang="he">הרב זמיר כהן</title>
-  </programme>
-  <programme start="20220116230000 +0200" stop="20220117000000 +0200" channel="hidabroot">
-    <title lang="he">על TV</title>
-  </programme>
-  <programme start="20220117000000 +0200" stop="20220117010000 +0200" channel="hidabroot">
-    <title lang="he">הרצאות רבנים</title>
-  </programme>
-  <programme start="20220117010000 +0200" stop="20220117020000 +0200" channel="hidabroot">
-    <title lang="he">מאחורי המיקרוסקופ</title>
-  </programme>
-  <programme start="20220117020000 +0200" stop="20220117030000 +0200" channel="hidabroot">
-    <title lang="he">הרב יצחק פנגר</title>
-  </programme>
-  <programme start="20220117030000 +0200" stop="20220117040000 +0200" channel="hidabroot">
-    <title lang="he">הרב אליהו עמר</title>
-  </programme>
-  <programme start="20220117040000 +0200" stop="20220117050000 +0200" channel="hidabroot">
-    <title lang="he">סדר ט''ו בשבט</title>
-  </programme>
-  <programme start="20220117050000 +0200" stop="20220117060000 +0200" channel="hidabroot">
-    <title lang="he">פתוח</title>
-  </programme>
-  <programme start="20220117060000 +0200" stop="20220117070000 +0200" channel="hidabroot">
-    <title lang="he">הרב זמיר כהן</title>
+  <programme start="20220121050000 +0200" stop="20220121053000 +0200" channel="24">
+    <title lang="he">מיקס ישראלי</title>
   </programme>
   <programme start="20220117070000 +0200" stop="20220117080000 +0200" channel="hidabroot">
     <title lang="he">על TV</title>
@@ -4456,59 +4240,62 @@
   <programme start="20220120220000 +0200" stop="20220120230000 +0200" channel="hidabroot">
     <title lang="he">הרב זמיר כהן</title>
   </programme>
-  <programme start="20220116073000 +0200" stop="20220116080000 +0200" channel="kneset">
-    <title lang="he">ציוצי ערב</title>
+  <programme start="20220120230000 +0200" stop="20220121000000 +0200" channel="hidabroot">
+    <title lang="he">הרב הרצל חודר</title>
   </programme>
-  <programme start="20220116080000 +0200" stop="20220116090000 +0200" channel="kneset">
-    <title lang="he">כנסת הבוקר</title>
+  <programme start="20220121000000 +0200" stop="20220121010000 +0200" channel="hidabroot">
+    <title lang="he">תוכניות הערוץ</title>
   </programme>
-  <programme start="20220116090000 +0200" stop="20220116100000 +0200" channel="kneset">
-    <title lang="he">הוועדה לזכויות הילד</title>
+  <programme start="20220121010000 +0200" stop="20220121020000 +0200" channel="hidabroot">
+    <title lang="he">הרב ברוך רוזנבלום</title>
   </programme>
-  <programme start="20220116100000 +0200" stop="20220116120000 +0200" channel="kneset">
-    <title lang="he">ועדה</title>
+  <programme start="20220121020000 +0200" stop="20220121030000 +0200" channel="hidabroot">
+    <title lang="he">הרב שלמה לוינשטיין</title>
   </programme>
-  <programme start="20220116120000 +0200" stop="20220116140000 +0200" channel="kneset">
-    <title lang="he">ועדה</title>
+  <programme start="20220121030000 +0200" stop="20220121040000 +0200" channel="hidabroot">
+    <title lang="he">תוכניות הערוץ</title>
   </programme>
-  <programme start="20220116140000 +0200" stop="20220116150000 +0200" channel="kneset">
-    <title lang="he">פרלמנט צהריים</title>
+  <programme start="20220121040000 +0200" stop="20220121050000 +0200" channel="hidabroot">
+    <title lang="he">הרב יוסף בן פורת</title>
   </programme>
-  <programme start="20220116150000 +0200" stop="20220116190000 +0200" channel="kneset">
-    <title lang="he">ועדה</title>
+  <programme start="20220121050000 +0200" stop="20220121060000 +0200" channel="hidabroot">
+    <title lang="he">עונג שבת</title>
   </programme>
-  <programme start="20220116190000 +0200" stop="20220116193000 +0200" channel="kneset">
-    <title lang="he">ערב טוב כנסת</title>
+  <programme start="20220121060000 +0200" stop="20220121070000 +0200" channel="hidabroot">
+    <title lang="he">הרב זמיר כהן</title>
   </programme>
-  <programme start="20220116193000 +0200" stop="20220116194500 +0200" channel="kneset">
-    <title lang="he">ציוצי ערב</title>
+  <programme start="20220121070000 +0200" stop="20220121080000 +0200" channel="hidabroot">
+    <title lang="he">הרב הרצל חודר</title>
   </programme>
-  <programme start="20220116194500 +0200" stop="20220116200000 +0200" channel="kneset">
-    <title lang="he">על סדר היום</title>
+  <programme start="20220121080000 +0200" stop="20220121090000 +0200" channel="hidabroot">
+    <title lang="he">תוכניות ילדים</title>
   </programme>
-  <programme start="20220116200000 +0200" stop="20220116213000 +0200" channel="kneset">
-    <title lang="he">משכן לילה</title>
+  <programme start="20220121090000 +0200" stop="20220121100000 +0200" channel="hidabroot">
+    <title lang="he">הרב ברוך רוזנבלום</title>
   </programme>
-  <programme start="20220116213000 +0200" stop="20220116220000 +0200" channel="kneset">
-    <title lang="he">המדד אחד על אחד</title>
+  <programme start="20220121100000 +0200" stop="20220121110000 +0200" channel="hidabroot">
+    <title lang="he">הרב שלמה לוינשטיין</title>
   </programme>
-  <programme start="20220116220000 +0200" stop="20220116223000 +0200" channel="kneset">
-    <title lang="he">ערב טוב כנסת</title>
+  <programme start="20220121110000 +0200" stop="20220121120000 +0200" channel="hidabroot">
+    <title lang="he">תוכניות הערוץ</title>
   </programme>
-  <programme start="20220116223000 +0200" stop="20220116230000 +0200" channel="kneset">
-    <title lang="he">ציוצי ערב</title>
+  <programme start="20220121120000 +0200" stop="20220121130000 +0200" channel="hidabroot">
+    <title lang="he">הרב יוסף בן פורת</title>
   </programme>
-  <programme start="20220116230000 +0200" stop="20220117000000 +0200" channel="kneset">
-    <title lang="he">משכן לילה</title>
+  <programme start="20220121130000 +0200" stop="20220121140000 +0200" channel="hidabroot">
+    <title lang="he">עונג שבת</title>
   </programme>
-  <programme start="20220117000000 +0200" stop="20220117040000 +0200" channel="kneset">
-    <title lang="he">ערוץ הכנסת</title>
+  <programme start="20220121140000 +0200" stop="20220121150000 +0200" channel="hidabroot">
+    <title lang="he">הרב זמיר כהן</title>
   </programme>
-  <programme start="20220117040000 +0200" stop="20220117070000 +0200" channel="kneset">
-    <title lang="he">ערוץ הכנסת</title>
+  <programme start="20220121150000 +0200" stop="20220121160000 +0200" channel="hidabroot">
+    <title lang="he">מושג השכל</title>
   </programme>
-  <programme start="20220117070000 +0200" stop="20220117073000 +0200" channel="kneset">
-    <title lang="he">המדד אחד על אחד</title>
+  <programme start="20220121160000 +0200" stop="20220121180000 +0200" channel="hidabroot">
+    <title lang="he">ערוץ הידברות - נשוב לשדר מחר ב</title>
+  </programme>
+  <programme start="20220121180000 +0200" stop="20220121220000 +0200" channel="hidabroot">
+    <title lang="he">ערוץ הידברות - נשוב לשדר מחר ב</title>
   </programme>
   <programme start="20220117073000 +0200" stop="20220117080000 +0200" channel="kneset">
     <title lang="he">ציוצי ערב</title>
@@ -4516,10 +4303,13 @@
   <programme start="20220117080000 +0200" stop="20220117090000 +0200" channel="kneset">
     <title lang="he">כנסת הבוקר</title>
   </programme>
-  <programme start="20220117090000 +0200" stop="20220117130000 +0200" channel="kneset">
+  <programme start="20220117090000 +0200" stop="20220117100000 +0200" channel="kneset">
     <title lang="he">ועדה</title>
   </programme>
-  <programme start="20220117130000 +0200" stop="20220117140000 +0200" channel="kneset">
+  <programme start="20220117100000 +0200" stop="20220117120000 +0200" channel="kneset">
+    <title lang="he">ועדה</title>
+  </programme>
+  <programme start="20220117120000 +0200" stop="20220117140000 +0200" channel="kneset">
     <title lang="he">ועדה</title>
   </programme>
   <programme start="20220117140000 +0200" stop="20220117160000 +0200" channel="kneset">
@@ -4729,74 +4519,56 @@
   <programme start="20220120224500 +0200" stop="20220120230000 +0200" channel="kneset">
     <title lang="he">ציוצי ערב</title>
   </programme>
-  <programme start="20220116070000 +0200" stop="20220116080000 +0200" channel="halatv">
-    <title lang="he">הפרות על הכביש</title>
+  <programme start="20220120230000 +0200" stop="20220121000000 +0200" channel="kneset">
+    <title lang="he">משכן לילה</title>
   </programme>
-  <programme start="20220116080000 +0200" stop="20220116090000 +0200" channel="halatv">
-    <title lang="he">על מודע מע מעאד</title>
+  <programme start="20220121000000 +0200" stop="20220121040000 +0200" channel="kneset">
+    <title lang="he">ערוץ הכנסת</title>
   </programme>
-  <programme start="20220116090000 +0200" stop="20220116100000 +0200" channel="halatv">
-    <title lang="he">הפרות על הכביש</title>
+  <programme start="20220121040000 +0200" stop="20220121070000 +0200" channel="kneset">
+    <title lang="he">ערוץ הכנסת</title>
   </programme>
-  <programme start="20220116100000 +0200" stop="20220116110000 +0200" channel="halatv">
-    <title lang="he">מיסה ביום ראשון</title>
+  <programme start="20220121070000 +0200" stop="20220121090000 +0200" channel="kneset">
+    <title lang="he">ועדה</title>
   </programme>
-  <programme start="20220116110000 +0200" stop="20220116121500 +0200" channel="halatv">
-    <title lang="he">ארבע העונות</title>
+  <programme start="20220121090000 +0200" stop="20220121093000 +0200" channel="kneset">
+    <title lang="he">סיכום השבוע הפוליטי ברוסית</title>
   </programme>
-  <programme start="20220116121500 +0200" stop="20220116130000 +0200" channel="halatv">
-    <title lang="he">בסאם ג'אבר יחאור</title>
+  <programme start="20220121093000 +0200" stop="20220121100000 +0200" channel="kneset">
+    <title lang="he">שחור לבן</title>
   </programme>
-  <programme start="20220116130000 +0200" stop="20220116140000 +0200" channel="halatv">
-    <title lang="he">באב אל</title>
+  <programme start="20220121100000 +0200" stop="20220121110000 +0200" channel="kneset">
+    <title lang="he">משכן לילה</title>
   </programme>
-  <programme start="20220116140000 +0200" stop="20220116160000 +0200" channel="halatv">
-    <title lang="he">על מודע מע מעאד</title>
+  <programme start="20220121110000 +0200" stop="20220121113000 +0200" channel="kneset">
+    <title lang="he">עניין אישי</title>
   </programme>
-  <programme start="20220116160000 +0200" stop="20220116170000 +0200" channel="halatv">
-    <title lang="he">אלמואשר</title>
+  <programme start="20220121113000 +0200" stop="20220121120000 +0200" channel="kneset">
+    <title lang="he">תכל'ס</title>
   </programme>
-  <programme start="20220116170000 +0200" stop="20220116180000 +0200" channel="halatv">
-    <title lang="he">ארבע העונות</title>
+  <programme start="20220121120000 +0200" stop="20220121123000 +0200" channel="kneset">
+    <title lang="he">המדד אחד על אחד</title>
   </programme>
-  <programme start="20220116180000 +0200" stop="20220116190000 +0200" channel="halatv">
-    <title lang="he">היום הזה</title>
+  <programme start="20220121123000 +0200" stop="20220121130000 +0200" channel="kneset">
+    <title lang="he">הספינרים</title>
   </programme>
-  <programme start="20220116190000 +0200" stop="20220116200000 +0200" channel="halatv">
-    <title lang="he">היום הזה</title>
+  <programme start="20220121130000 +0200" stop="20220121133000 +0200" channel="kneset">
+    <title lang="he">המדד</title>
   </programme>
-  <programme start="20220116200000 +0200" stop="20220116210000 +0200" channel="halatv">
-    <title lang="he">הלא ריאדה -</title>
+  <programme start="20220121133000 +0200" stop="20220121140000 +0200" channel="kneset">
+    <title lang="he">משכן חוזר</title>
   </programme>
-  <programme start="20220116210000 +0200" stop="20220116220000 +0200" channel="halatv">
-    <title lang="he">באב אל</title>
+  <programme start="20220121140000 +0200" stop="20220121143000 +0200" channel="kneset">
+    <title lang="he">כיכר הכנסת</title>
   </programme>
-  <programme start="20220116220000 +0200" stop="20220116230000 +0200" channel="halatv">
-    <title lang="he">היום הזה</title>
+  <programme start="20220121143000 +0200" stop="20220121150000 +0200" channel="kneset">
+    <title lang="he">משחק חוץ</title>
   </programme>
-  <programme start="20220116230000 +0200" stop="20220116230000 +0200" channel="halatv">
-    <title lang="he">היום הזה</title>
+  <programme start="20220121150000 +0200" stop="20220121170000 +0200" channel="kneset">
+    <title lang="he">יומן סיכום השבוע</title>
   </programme>
-  <programme start="20220116230000 +0200" stop="20220117001500 +0200" channel="halatv">
-    <title lang="he">היום הזה</title>
-  </programme>
-  <programme start="20220117001500 +0200" stop="20220117010000 +0200" channel="halatv">
-    <title lang="he">אלמואשר</title>
-  </programme>
-  <programme start="20220117010000 +0200" stop="20220117020000 +0200" channel="halatv">
-    <title lang="he">הלא ריאדה</title>
-  </programme>
-  <programme start="20220117020000 +0200" stop="20220117030000 +0200" channel="halatv">
-    <title lang="he">באב אל</title>
-  </programme>
-  <programme start="20220117030000 +0200" stop="20220117050000 +0200" channel="halatv">
-    <title lang="he">על מודע מע מעאד</title>
-  </programme>
-  <programme start="20220117050000 +0200" stop="20220117060000 +0200" channel="halatv">
-    <title lang="he">בסאם ג'אבר יחאור</title>
-  </programme>
-  <programme start="20220117060000 +0200" stop="20220117073000 +0200" channel="halatv">
-    <title lang="he">היום הזה</title>
+  <programme start="20220121170000 +0200" stop="20220121210000 +0200" channel="kneset">
+    <title lang="he">נשוב לשדר מחר ב</title>
   </programme>
   <programme start="20220117073000 +0200" stop="20220117083000 +0200" channel="halatv">
     <title lang="he">היום הזה</title>
@@ -5044,122 +4816,68 @@
   <programme start="20220120220000 +0200" stop="20220120230000 +0200" channel="halatv">
     <title lang="he">היום הזה</title>
   </programme>
-  <programme start="20220116063000 +0200" stop="20220116070000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">הרשת</title>
+  <programme start="20220120230000 +0200" stop="20220120230000 +0200" channel="halatv">
+    <title lang="he">היום הזה</title>
   </programme>
-  <programme start="20220116070000 +0200" stop="20220116073000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220120230000 +0200" stop="20220121001500 +0200" channel="halatv">
+    <title lang="he">היום הזה</title>
   </programme>
-  <programme start="20220116073000 +0200" stop="20220116080000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">אנשים ועוצמה</title>
+  <programme start="20220121001500 +0200" stop="20220121010000 +0200" channel="halatv">
+    <title lang="he">הלא ריאדה</title>
   </programme>
-  <programme start="20220116080000 +0200" stop="20220116090000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">אל ג'זירה מדווח</title>
+  <programme start="20220121010000 +0200" stop="20220121020000 +0200" channel="halatv">
+    <title lang="he">סהרנין עם לינה</title>
   </programme>
-  <programme start="20220116090000 +0200" stop="20220116093000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220121020000 +0200" stop="20220121040000 +0200" channel="halatv">
+    <title lang="he">באב אל</title>
   </programme>
-  <programme start="20220116093000 +0200" stop="20220116100000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מאחורי הכותרות</title>
+  <programme start="20220121040000 +0200" stop="20220121050000 +0200" channel="halatv">
+    <title lang="he">סרט ערבי</title>
   </programme>
-  <programme start="20220116100000 +0200" stop="20220116103000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220121050000 +0200" stop="20220121060000 +0200" channel="halatv">
+    <title lang="he">בסאם ג'אבר יחאור</title>
   </programme>
-  <programme start="20220116103000 +0200" stop="20220116110000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מדברים עם אל ג'זירה</title>
+  <programme start="20220121060000 +0200" stop="20220121070000 +0200" channel="halatv">
+    <title lang="he">היום הזה</title>
   </programme>
-  <programme start="20220116110000 +0200" stop="20220116113000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220121070000 +0200" stop="20220121100000 +0200" channel="halatv">
+    <title lang="he">היום הזה</title>
   </programme>
-  <programme start="20220116113000 +0200" stop="20220116120000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">הללו את הסגר</title>
+  <programme start="20220121100000 +0200" stop="20220121113500 +0200" channel="halatv">
+    <title lang="he">ארבע העונות</title>
   </programme>
-  <programme start="20220116120000 +0200" stop="20220116130000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות השעה</title>
+  <programme start="20220121113500 +0200" stop="20220121120000 +0200" channel="halatv">
+    <title lang="he">קליפים</title>
   </programme>
-  <programme start="20220116130000 +0200" stop="20220116133000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220121120000 +0200" stop="20220121130000 +0200" channel="halatv">
+    <title lang="he">בסאם ג'אבר יחאור</title>
   </programme>
-  <programme start="20220116133000 +0200" stop="20220116140000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מאחורי הכותרות</title>
+  <programme start="20220121130000 +0200" stop="20220121140000 +0200" channel="halatv">
+    <title lang="he">באב אל</title>
   </programme>
-  <programme start="20220116140000 +0200" stop="20220116150000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">העולם שלנו</title>
+  <programme start="20220121140000 +0200" stop="20220121160000 +0200" channel="halatv">
+    <title lang="he">על מודע מע מעאד</title>
   </programme>
-  <programme start="20220116150000 +0200" stop="20220116160000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות השעה</title>
+  <programme start="20220121160000 +0200" stop="20220121170000 +0200" channel="halatv">
+    <title lang="he">הלא ריאדה</title>
   </programme>
-  <programme start="20220116160000 +0200" stop="20220116163000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220121170000 +0200" stop="20220121180000 +0200" channel="halatv">
+    <title lang="he">מאנועית אריין</title>
   </programme>
-  <programme start="20220116163000 +0200" stop="20220116170000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מבוך התקשורת העולמית</title>
+  <programme start="20220121180000 +0200" stop="20220121190000 +0200" channel="halatv">
+    <title lang="he">סהרנין עם לינה</title>
   </programme>
-  <programme start="20220116170000 +0200" stop="20220116180000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות השעה</title>
+  <programme start="20220121190000 +0200" stop="20220121200000 +0200" channel="halatv">
+    <title lang="he">ארבע העונות</title>
   </programme>
-  <programme start="20220116180000 +0200" stop="20220116183000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220121200000 +0200" stop="20220121210000 +0200" channel="halatv">
+    <title lang="he">דרשת יום שישי</title>
   </programme>
-  <programme start="20220116183000 +0200" stop="20220116190000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מזרח 101</title>
+  <programme start="20220121210000 +0200" stop="20220121220000 +0200" channel="halatv">
+    <title lang="he">באב אל</title>
   </programme>
-  <programme start="20220116190000 +0200" stop="20220116193000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220116193000 +0200" stop="20220116200000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מאחורי הכותרות</title>
-  </programme>
-  <programme start="20220116200000 +0200" stop="20220116210000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות השעה</title>
-  </programme>
-  <programme start="20220116210000 +0200" stop="20220116213000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220116213000 +0200" stop="20220116220000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מדברים עם אל ג'זירה</title>
-  </programme>
-  <programme start="20220116220000 +0200" stop="20220116230000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">עד</title>
-  </programme>
-  <programme start="20220116230000 +0200" stop="20220117000000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות השעה</title>
-  </programme>
-  <programme start="20220117000000 +0200" stop="20220117003000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220117003000 +0200" stop="20220117010000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">סטודיו B: מחוץ לתסריט</title>
-  </programme>
-  <programme start="20220117010000 +0200" stop="20220117013000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220117013000 +0200" stop="20220117020000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">הרשת</title>
-  </programme>
-  <programme start="20220117020000 +0200" stop="20220117023000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220117023000 +0200" stop="20220117030000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מאחורי הכותרות</title>
-  </programme>
-  <programme start="20220117030000 +0200" stop="20220117040000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">העולם שלנו</title>
-  </programme>
-  <programme start="20220117040000 +0200" stop="20220117043000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220117043000 +0200" stop="20220117050000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מדברים עם אל ג'זירה</title>
-  </programme>
-  <programme start="20220117050000 +0200" stop="20220117053000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220117053000 +0200" stop="20220117060000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">הללו את הסגר</title>
-  </programme>
-  <programme start="20220117060000 +0200" stop="20220117063000 +0200" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220121220000 +0200" stop="20220121230000 +0200" channel="halatv">
+    <title lang="he">על מודע מע מעאד</title>
   </programme>
   <programme start="20220117063000 +0200" stop="20220117070000 +0200" channel="ALJAZEERA ENGLISH">
     <title lang="he">מבוך התקשורת העולמית</title>
@@ -5593,269 +5311,125 @@
   <programme start="20220120220000 +0200" stop="20220120230000 +0200" channel="ALJAZEERA ENGLISH">
     <title lang="he">אל ג'זירה מדווח</title>
   </programme>
-  <programme start="20220116062500 +0200" stop="20220116063000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220120230000 +0200" stop="20220121000000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
   </programme>
-  <programme start="20220116063000 +0200" stop="20220116065500 +0200" channel="FTV white">
-    <title lang="he">אופנה וספורט</title>
+  <programme start="20220121000000 +0200" stop="20220121003000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116065500 +0200" stop="20220116070000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220121003000 +0200" stop="20220121010000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מזרח 101</title>
   </programme>
-  <programme start="20220116070000 +0200" stop="20220116072500 +0200" channel="FTV white">
-    <title lang="he">דוגמנים מדברים</title>
+  <programme start="20220121010000 +0200" stop="20220121013000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116072500 +0200" stop="20220116073000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220121013000 +0200" stop="20220121020000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הללו את הסגר</title>
   </programme>
-  <programme start="20220116073000 +0200" stop="20220116075500 +0200" channel="FTV white">
-    <title lang="he">עיצובי שיער</title>
+  <programme start="20220121020000 +0200" stop="20220121023000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116075500 +0200" stop="20220116080000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220121023000 +0200" stop="20220121030000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
   </programme>
-  <programme start="20220116080000 +0200" stop="20220116082500 +0200" channel="FTV white">
-    <title lang="he">טיפוח העור</title>
+  <programme start="20220121030000 +0200" stop="20220121040000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
   </programme>
-  <programme start="20220116082500 +0200" stop="20220116083000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220121040000 +0200" stop="20220121043000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116083000 +0200" stop="20220116085500 +0200" channel="FTV white">
-    <title lang="he">מייקאפ</title>
+  <programme start="20220121043000 +0200" stop="20220121050000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מסכנים את הכל</title>
   </programme>
-  <programme start="20220116085500 +0200" stop="20220116090000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220121050000 +0200" stop="20220121053000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116090000 +0200" stop="20220116092500 +0200" channel="FTV white">
-    <title lang="he">ספיישל קייט מוס</title>
+  <programme start="20220121053000 +0200" stop="20220121060000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">אנשים ועוצמה</title>
   </programme>
-  <programme start="20220116092500 +0200" stop="20220116093000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220121060000 +0200" stop="20220121063000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116093000 +0200" stop="20220116095500 +0200" channel="FTV white">
-    <title lang="he">ספיישל קייט מוס</title>
+  <programme start="20220121063000 +0200" stop="20220121070000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
   </programme>
-  <programme start="20220116095500 +0200" stop="20220116100000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220121070000 +0200" stop="20220121073000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116100000 +0200" stop="20220116102500 +0200" channel="FTV white">
-    <title lang="he">יעדים באופנה</title>
+  <programme start="20220121073000 +0200" stop="20220121080000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
   </programme>
-  <programme start="20220116102500 +0200" stop="20220116103000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220121080000 +0200" stop="20220121090000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">העולם שלנו</title>
   </programme>
-  <programme start="20220116103000 +0200" stop="20220116105500 +0200" channel="FTV white">
-    <title lang="he">יעדים באופנה</title>
+  <programme start="20220121090000 +0200" stop="20220121093000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116105500 +0200" stop="20220116110000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220121093000 +0200" stop="20220121100000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
   </programme>
-  <programme start="20220116110000 +0200" stop="20220116112500 +0200" channel="FTV white">
-    <title lang="he">אופנת ילדים</title>
+  <programme start="20220121100000 +0200" stop="20220121103000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116112500 +0200" stop="20220116113000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220121103000 +0200" stop="20220121110000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
   </programme>
-  <programme start="20220116113000 +0200" stop="20220116115500 +0200" channel="FTV white">
-    <title lang="he">אופנת ילדים</title>
+  <programme start="20220121110000 +0200" stop="20220121113000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116115500 +0200" stop="20220116120000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220121113000 +0200" stop="20220121120000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מזרח 101</title>
   </programme>
-  <programme start="20220116120000 +0200" stop="20220116122500 +0200" channel="FTV white">
-    <title lang="he">שבוע הוט קוטור</title>
+  <programme start="20220121120000 +0200" stop="20220121130000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
   </programme>
-  <programme start="20220116122500 +0200" stop="20220116123000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220121130000 +0200" stop="20220121133000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116123000 +0200" stop="20220116130000 +0200" channel="FTV white">
-    <title lang="he">שבוע הוט קוטור</title>
+  <programme start="20220121133000 +0200" stop="20220121140000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
   </programme>
-  <programme start="20220116130000 +0200" stop="20220116132500 +0200" channel="FTV white">
-    <title lang="he">דוגמניות על</title>
+  <programme start="20220121140000 +0200" stop="20220121150000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">אל ג'זירה מדווח</title>
   </programme>
-  <programme start="20220116132500 +0200" stop="20220116133000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220121150000 +0200" stop="20220121160000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
   </programme>
-  <programme start="20220116133000 +0200" stop="20220116135500 +0200" channel="FTV white">
-    <title lang="he">דוגמניות על</title>
+  <programme start="20220121160000 +0200" stop="20220121163000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116135500 +0200" stop="20220116140000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220121163000 +0200" stop="20220121170000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
   </programme>
-  <programme start="20220116140000 +0200" stop="20220116142500 +0200" channel="FTV white">
-    <title lang="he">אופנת החתונות</title>
+  <programme start="20220121170000 +0200" stop="20220121180000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
   </programme>
-  <programme start="20220116142500 +0200" stop="20220116143000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220121180000 +0200" stop="20220121183000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116143000 +0200" stop="20220116145500 +0200" channel="FTV white">
-    <title lang="he">אופנת החתונות</title>
+  <programme start="20220121183000 +0200" stop="20220121190000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מסכנים את הכל</title>
   </programme>
-  <programme start="20220116145500 +0200" stop="20220116150000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220121190000 +0200" stop="20220121193000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116150000 +0200" stop="20220116152500 +0200" channel="FTV white">
-    <title lang="he">סרטי אופנה</title>
+  <programme start="20220121193000 +0200" stop="20220121200000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
   </programme>
-  <programme start="20220116152500 +0200" stop="20220116153000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220121200000 +0200" stop="20220121210000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
   </programme>
-  <programme start="20220116153000 +0200" stop="20220116155500 +0200" channel="FTV white">
-    <title lang="he">סרטי אופנה</title>
+  <programme start="20220121210000 +0200" stop="20220121213000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220116155500 +0200" stop="20220116160000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220121213000 +0200" stop="20220121220000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
   </programme>
-  <programme start="20220116160000 +0200" stop="20220116162500 +0200" channel="FTV white">
-    <title lang="he">אופנה צעירה</title>
+  <programme start="20220121220000 +0200" stop="20220121223000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">שורה תחתונה</title>
   </programme>
-  <programme start="20220116162500 +0200" stop="20220116163000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220116163000 +0200" stop="20220116165500 +0200" channel="FTV white">
-    <title lang="he">אופנה צעירה</title>
-  </programme>
-  <programme start="20220116165500 +0200" stop="20220116170000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220116170000 +0200" stop="20220116172500 +0200" channel="FTV white">
-    <title lang="he">ספיישל קייט מוס</title>
-  </programme>
-  <programme start="20220116172500 +0200" stop="20220116173000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220116173000 +0200" stop="20220116175500 +0200" channel="FTV white">
-    <title lang="he">ספיישל קייט מוס</title>
-  </programme>
-  <programme start="20220116175500 +0200" stop="20220116180000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220116180000 +0200" stop="20220116182500 +0200" channel="FTV white">
-    <title lang="he">תוצרת איטליה</title>
-  </programme>
-  <programme start="20220116182500 +0200" stop="20220116183000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220116183000 +0200" stop="20220116185500 +0200" channel="FTV white">
-    <title lang="he">תוצרת איטליה</title>
-  </programme>
-  <programme start="20220116185500 +0200" stop="20220116190000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220116190000 +0200" stop="20220116192500 +0200" channel="FTV white">
-    <title lang="he">מגזיני אופנה</title>
-  </programme>
-  <programme start="20220116192500 +0200" stop="20220116193000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220116193000 +0200" stop="20220116195500 +0200" channel="FTV white">
-    <title lang="he">מגזיני אופנה</title>
-  </programme>
-  <programme start="20220116195500 +0200" stop="20220116200000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220116200000 +0200" stop="20220116202500 +0200" channel="FTV white">
-    <title lang="he">יעדים באופנה</title>
-  </programme>
-  <programme start="20220116202500 +0200" stop="20220116203000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220116203000 +0200" stop="20220116205500 +0200" channel="FTV white">
-    <title lang="he">יעדים באופנה</title>
-  </programme>
-  <programme start="20220116205500 +0200" stop="20220116210000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220116210000 +0200" stop="20220116212500 +0200" channel="FTV white">
-    <title lang="he">חדשות האופנה</title>
-  </programme>
-  <programme start="20220116212500 +0200" stop="20220116213000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220116213000 +0200" stop="20220116215500 +0200" channel="FTV white">
-    <title lang="he">חדשות האופנה</title>
-  </programme>
-  <programme start="20220116215500 +0200" stop="20220116220000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220116220000 +0200" stop="20220116222500 +0200" channel="FTV white">
-    <title lang="he">ספיישל קייט מוס</title>
-  </programme>
-  <programme start="20220116222500 +0200" stop="20220116223000 +0200" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220116223000 +0200" stop="20220116225500 +0200" channel="FTV white">
-    <title lang="he">ספיישל קייט מוס</title>
-  </programme>
-  <programme start="20220116225500 +0200" stop="20220116230000 +0200" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220116230000 +0200" stop="20220116233000 +0200" channel="FTV white">
-    <title lang="he">דוגמניות על</title>
-  </programme>
-  <programme start="20220116233000 +0200" stop="20220116235500 +0200" channel="FTV white">
-    <title lang="he">דוגמניות על</title>
-  </programme>
-  <programme start="20220116235500 +0200" stop="20220117000000 +0200" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220117000000 +0200" stop="20220117003000 +0200" channel="FTV white">
-    <title lang="he">סודות חצות</title>
-  </programme>
-  <programme start="20220117003000 +0200" stop="20220117005500 +0200" channel="FTV white">
-    <title lang="he">סודות חצות</title>
-  </programme>
-  <programme start="20220117005500 +0200" stop="20220117010000 +0200" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220117010000 +0200" stop="20220117013000 +0200" channel="FTV white">
-    <title lang="he">תצוגת בגדי ים וחוף</title>
-  </programme>
-  <programme start="20220117013000 +0200" stop="20220117015500 +0200" channel="FTV white">
-    <title lang="he">תצוגת בגדי ים וחוף</title>
-  </programme>
-  <programme start="20220117015500 +0200" stop="20220117020000 +0200" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220117020000 +0200" stop="20220117023000 +0200" channel="FTV white">
-    <title lang="he">סרטי אופנה</title>
-  </programme>
-  <programme start="20220117023000 +0200" stop="20220117025500 +0200" channel="FTV white">
-    <title lang="he">סרטי אופנה</title>
-  </programme>
-  <programme start="20220117025500 +0200" stop="20220117030000 +0200" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220117030000 +0200" stop="20220117033000 +0200" channel="FTV white">
-    <title lang="he">אופנת שנות ה</title>
-  </programme>
-  <programme start="20220117033000 +0200" stop="20220117035500 +0200" channel="FTV white">
-    <title lang="he">אופנת שנות ה</title>
-  </programme>
-  <programme start="20220117035500 +0200" stop="20220117040000 +0200" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220117040000 +0200" stop="20220117043000 +0200" channel="FTV white">
-    <title lang="he">הצילומים הטובים ביותר</title>
-  </programme>
-  <programme start="20220117043000 +0200" stop="20220117045500 +0200" channel="FTV white">
-    <title lang="he">הצילומים הטובים ביותר</title>
-  </programme>
-  <programme start="20220117045500 +0200" stop="20220117050000 +0200" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220117050000 +0200" stop="20220117053000 +0200" channel="FTV white">
-    <title lang="he">האהובים ביותר של רוסיה</title>
-  </programme>
-  <programme start="20220117053000 +0200" stop="20220117055500 +0200" channel="FTV white">
-    <title lang="he">האהובים ביותר של רוסיה</title>
-  </programme>
-  <programme start="20220117055500 +0200" stop="20220117060000 +0200" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220117060000 +0200" stop="20220117062500 +0200" channel="FTV white">
-    <title lang="he">אופנה וספורט</title>
+  <programme start="20220121223000 +0200" stop="20220121230000 +0200" channel="ALJAZEERA ENGLISH">
+    <title lang="he">אל ג'זירה בוחר</title>
   </programme>
   <programme start="20220117062500 +0200" stop="20220117063000 +0200" channel="FTV white">
     <title lang="he">אנשי האופנה</title>
@@ -6851,6 +6425,270 @@
     <title lang="he">דוגמניות על</title>
   </programme>
   <programme start="20220120233000 +0200" stop="20220120235500 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220120235500 +0200" stop="20220121000000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220121000000 +0200" stop="20220121003000 +0200" channel="FTV white">
+    <title lang="he">סודות חצות</title>
+  </programme>
+  <programme start="20220121003000 +0200" stop="20220121005500 +0200" channel="FTV white">
+    <title lang="he">סודות חצות</title>
+  </programme>
+  <programme start="20220121005500 +0200" stop="20220121010000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220121010000 +0200" stop="20220121013000 +0200" channel="FTV white">
+    <title lang="he">תצוגת בגדי ים וחוף</title>
+  </programme>
+  <programme start="20220121013000 +0200" stop="20220121015500 +0200" channel="FTV white">
+    <title lang="he">תצוגת בגדי ים וחוף</title>
+  </programme>
+  <programme start="20220121015500 +0200" stop="20220121020000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220121020000 +0200" stop="20220121023000 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220121023000 +0200" stop="20220121025500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220121025500 +0200" stop="20220121030000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220121030000 +0200" stop="20220121033000 +0200" channel="FTV white">
+    <title lang="he">אופנת שנות ה</title>
+  </programme>
+  <programme start="20220121033000 +0200" stop="20220121035500 +0200" channel="FTV white">
+    <title lang="he">אופנת שנות ה</title>
+  </programme>
+  <programme start="20220121035500 +0200" stop="20220121040000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220121040000 +0200" stop="20220121043000 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220121043000 +0200" stop="20220121045500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220121045500 +0200" stop="20220121050000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220121050000 +0200" stop="20220121053000 +0200" channel="FTV white">
+    <title lang="he">האהובים ביותר של רוסיה</title>
+  </programme>
+  <programme start="20220121053000 +0200" stop="20220121055500 +0200" channel="FTV white">
+    <title lang="he">האהובים ביותר של רוסיה</title>
+  </programme>
+  <programme start="20220121055500 +0200" stop="20220121060000 +0200" channel="FTV white">
+    <title lang="he">מסיבות אופנה</title>
+  </programme>
+  <programme start="20220121060000 +0200" stop="20220121062500 +0200" channel="FTV white">
+    <title lang="he">אופנה וספורט</title>
+  </programme>
+  <programme start="20220121062500 +0200" stop="20220121063000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121063000 +0200" stop="20220121065500 +0200" channel="FTV white">
+    <title lang="he">פיטנס</title>
+  </programme>
+  <programme start="20220121065500 +0200" stop="20220121070000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121070000 +0200" stop="20220121072500 +0200" channel="FTV white">
+    <title lang="he">אופנת שנות ה</title>
+  </programme>
+  <programme start="20220121072500 +0200" stop="20220121073000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121073000 +0200" stop="20220121075500 +0200" channel="FTV white">
+    <title lang="he">טיפוח העור</title>
+  </programme>
+  <programme start="20220121075500 +0200" stop="20220121080000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121080000 +0200" stop="20220121082500 +0200" channel="FTV white">
+    <title lang="he">מייקאפ</title>
+  </programme>
+  <programme start="20220121082500 +0200" stop="20220121083000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121083000 +0200" stop="20220121085500 +0200" channel="FTV white">
+    <title lang="he">עיצובי שיער</title>
+  </programme>
+  <programme start="20220121085500 +0200" stop="20220121090000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121090000 +0200" stop="20220121092500 +0200" channel="FTV white">
+    <title lang="he">ספיישל אלסה הוסק</title>
+  </programme>
+  <programme start="20220121092500 +0200" stop="20220121093000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121093000 +0200" stop="20220121095500 +0200" channel="FTV white">
+    <title lang="he">ספיישל אלסה הוסק</title>
+  </programme>
+  <programme start="20220121095500 +0200" stop="20220121100000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121100000 +0200" stop="20220121102500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220121102500 +0200" stop="20220121103000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121103000 +0200" stop="20220121105500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220121105500 +0200" stop="20220121110000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121110000 +0200" stop="20220121112500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220121112500 +0200" stop="20220121113000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121113000 +0200" stop="20220121115500 +0200" channel="FTV white">
+    <title lang="he">אופנת ילדים</title>
+  </programme>
+  <programme start="20220121115500 +0200" stop="20220121120000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121120000 +0200" stop="20220121122500 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה בפריס</title>
+  </programme>
+  <programme start="20220121122500 +0200" stop="20220121123000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121123000 +0200" stop="20220121130000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה בפריס</title>
+  </programme>
+  <programme start="20220121130000 +0200" stop="20220121132500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220121132500 +0200" stop="20220121133000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121133000 +0200" stop="20220121135500 +0200" channel="FTV white">
+    <title lang="he">סרטי אופנה</title>
+  </programme>
+  <programme start="20220121135500 +0200" stop="20220121140000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121140000 +0200" stop="20220121142500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220121142500 +0200" stop="20220121143000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121143000 +0200" stop="20220121145500 +0200" channel="FTV white">
+    <title lang="he">אופנת החתונות</title>
+  </programme>
+  <programme start="20220121145500 +0200" stop="20220121150000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121150000 +0200" stop="20220121152500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220121152500 +0200" stop="20220121153000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121153000 +0200" stop="20220121155500 +0200" channel="FTV white">
+    <title lang="he">הצילומים הטובים ביותר</title>
+  </programme>
+  <programme start="20220121155500 +0200" stop="20220121160000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121160000 +0200" stop="20220121162500 +0200" channel="FTV white">
+    <title lang="he">אופנה צעירה</title>
+  </programme>
+  <programme start="20220121162500 +0200" stop="20220121163000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121163000 +0200" stop="20220121165500 +0200" channel="FTV white">
+    <title lang="he">אופנה צעירה</title>
+  </programme>
+  <programme start="20220121165500 +0200" stop="20220121170000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121170000 +0200" stop="20220121172500 +0200" channel="FTV white">
+    <title lang="he">ספיישל ברברי</title>
+  </programme>
+  <programme start="20220121172500 +0200" stop="20220121173000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121173000 +0200" stop="20220121175500 +0200" channel="FTV white">
+    <title lang="he">ספיישל ברברי</title>
+  </programme>
+  <programme start="20220121175500 +0200" stop="20220121180000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121180000 +0200" stop="20220121182500 +0200" channel="FTV white">
+    <title lang="he">תוצרת ספרד</title>
+  </programme>
+  <programme start="20220121182500 +0200" stop="20220121183000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121183000 +0200" stop="20220121185500 +0200" channel="FTV white">
+    <title lang="he">תוצרת ספרד</title>
+  </programme>
+  <programme start="20220121185500 +0200" stop="20220121190000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121190000 +0200" stop="20220121192500 +0200" channel="FTV white">
+    <title lang="he">מגזיני אופנה</title>
+  </programme>
+  <programme start="20220121192500 +0200" stop="20220121193000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121193000 +0200" stop="20220121195500 +0200" channel="FTV white">
+    <title lang="he">מגזיני אופנה</title>
+  </programme>
+  <programme start="20220121195500 +0200" stop="20220121200000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121200000 +0200" stop="20220121202500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220121202500 +0200" stop="20220121203000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121203000 +0200" stop="20220121205500 +0200" channel="FTV white">
+    <title lang="he">יעדים באופנה</title>
+  </programme>
+  <programme start="20220121205500 +0200" stop="20220121210000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121210000 +0200" stop="20220121212500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220121212500 +0200" stop="20220121213000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121213000 +0200" stop="20220121215500 +0200" channel="FTV white">
+    <title lang="he">חדשות האופנה</title>
+  </programme>
+  <programme start="20220121215500 +0200" stop="20220121220000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121220000 +0200" stop="20220121222500 +0200" channel="FTV white">
+    <title lang="he">ספיישל קאיה גרבר</title>
+  </programme>
+  <programme start="20220121222500 +0200" stop="20220121223000 +0200" channel="FTV white">
+    <title lang="he">אנשי האופנה</title>
+  </programme>
+  <programme start="20220121223000 +0200" stop="20220121225500 +0200" channel="FTV white">
+    <title lang="he">ספיישל קאיה גרבר</title>
+  </programme>
+  <programme start="20220121225500 +0200" stop="20220121230000 +0200" channel="FTV white">
+    <title lang="he">שבוע האופנה</title>
+  </programme>
+  <programme start="20220121230000 +0200" stop="20220121233000 +0200" channel="FTV white">
+    <title lang="he">דוגמניות על</title>
+  </programme>
+  <programme start="20220121233000 +0200" stop="20220121235500 +0200" channel="FTV white">
     <title lang="he">דוגמניות על</title>
   </programme>
 </tv>
