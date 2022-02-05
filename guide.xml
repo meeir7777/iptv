@@ -36,6 +36,10 @@
     <display-name lang="he">hidabroot</display-name>
     <url>http://www.yes.co.il</url>
   </channel>
+  <channel id="ערוץ הקבלה">
+    <display-name lang="he">ערוץ הקבלה</display-name>
+    <url>http://www.hot.net.il</url>
+  </channel>
   <channel id="kneset">
     <display-name lang="he">kneset</display-name>
     <url>http://www.yes.co.il</url>
