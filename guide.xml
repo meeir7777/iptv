@@ -56,117 +56,6 @@
     <display-name lang="he">FTV white</display-name>
     <url>http://www.yes.co.il</url>
   </channel>
-  <programme start="20220425062000 +0300" stop="20220425065200 +0300" channel="kan black">
-    <title lang="he">פסקול ישראלי</title>
-  </programme>
-  <programme start="20220425065200 +0300" stop="20220425070000 +0300" channel="kan black">
-    <title lang="he">כאן בכושר</title>
-  </programme>
-  <programme start="20220425070000 +0300" stop="20220425080000 +0300" channel="kan black">
-    <title lang="he">הבוקר הזה עם אריה גולן</title>
-  </programme>
-  <programme start="20220425080000 +0300" stop="20220425100000 +0300" channel="kan black">
-    <title lang="he">קלמן ליברמן</title>
-  </programme>
-  <programme start="20220425100000 +0300" stop="20220425120000 +0300" channel="kan black">
-    <title lang="he">סדר יום עם קרן נויבך</title>
-  </programme>
-  <programme start="20220425120000 +0300" stop="20220425124000 +0300" channel="kan black">
-    <title lang="he">משחקי הכיס</title>
-  </programme>
-  <programme start="20220425124000 +0300" stop="20220425130700 +0300" channel="kan black">
-    <title lang="he">שיחת נפש</title>
-  </programme>
-  <programme start="20220425130700 +0300" stop="20220425133400 +0300" channel="kan black">
-    <title lang="he">ספארי מהאגדות</title>
-  </programme>
-  <programme start="20220425133400 +0300" stop="20220425143000 +0300" channel="kan black">
-    <title lang="he">אמריקה מהאוויר - לאס</title>
-  </programme>
-  <programme start="20220425143000 +0300" stop="20220425152100 +0300" channel="kan black">
-    <title lang="he">מתחילים מאפס</title>
-  </programme>
-  <programme start="20220425152100 +0300" stop="20220425161900 +0300" channel="kan black">
-    <title lang="he">המרדף 5</title>
-  </programme>
-  <programme start="20220425161900 +0300" stop="20220425165500 +0300" channel="kan black">
-    <title lang="he">חדש!כל עוד בלבב</title>
-  </programme>
-  <programme start="20220425165500 +0300" stop="20220425173000 +0300" channel="kan black">
-    <title lang="he">ערב ערב עם איציק זוארץ</title>
-  </programme>
-  <programme start="20220425173000 +0300" stop="20220425180000 +0300" channel="kan black">
-    <title lang="he">דוקותיים</title>
-  </programme>
-  <programme start="20220425180000 +0300" stop="20220425183000 +0300" channel="kan black">
-    <title lang="he">עצם העניין עם קלמן ליבסקינד</title>
-  </programme>
-  <programme start="20220425183000 +0300" stop="20220425190000 +0300" channel="kan black">
-    <title lang="he">העולם היום עם מואב ורדי</title>
-  </programme>
-  <programme start="20220425190000 +0300" stop="20220425194000 +0300" channel="kan black">
-    <title lang="he">משחקי הכיס</title>
-  </programme>
-  <programme start="20220425194000 +0300" stop="20220425195500 +0300" channel="kan black">
-    <title lang="he">מהצד השני עם גיא זהר</title>
-  </programme>
-  <programme start="20220425195500 +0300" stop="20220425211500 +0300" channel="kan black">
-    <title lang="he">חדשות השבת עם דב גיל</title>
-  </programme>
-  <programme start="20220425211500 +0300" stop="20220425214300 +0300" channel="kan black">
-    <title lang="he">קופה ראשית 3</title>
-  </programme>
-  <programme start="20220425214300 +0300" stop="20220425221000 +0300" channel="kan black">
-    <title lang="he">קופה ראשית 3</title>
-  </programme>
-  <programme start="20220425221000 +0300" stop="20220425224500 +0300" channel="kan black">
-    <title lang="he">משפחה בהסעה</title>
-  </programme>
-  <programme start="20220425224500 +0300" stop="20220425225800 +0300" channel="kan black">
-    <title lang="he">מהצד השני עם גיא זהר</title>
-  </programme>
-  <programme start="20220425225800 +0300" stop="20220425231800 +0300" channel="kan black">
-    <title lang="he">חדשות הלילה עם שרון וכסלר</title>
-  </programme>
-  <programme start="20220425231800 +0300" stop="20220425231800 +0300" channel="kan black">
-    <title lang="he">אנטישמיות ויראלית</title>
-  </programme>
-  <programme start="20220425231800 +0300" stop="20220426004500 +0300" channel="kan black">
-    <title lang="he">אנטישמיות ויראלית</title>
-  </programme>
-  <programme start="20220426004500 +0300" stop="20220426011500 +0300" channel="kan black">
-    <title lang="he">העולם היום עם מואב ורדי</title>
-  </programme>
-  <programme start="20220426011500 +0300" stop="20220426014300 +0300" channel="kan black">
-    <title lang="he">קופה ראשית 3</title>
-  </programme>
-  <programme start="20220426014300 +0300" stop="20220426020900 +0300" channel="kan black">
-    <title lang="he">קופה ראשית 3</title>
-  </programme>
-  <programme start="20220426020900 +0300" stop="20220426024900 +0300" channel="kan black">
-    <title lang="he">משחקי הכיס</title>
-  </programme>
-  <programme start="20220426024900 +0300" stop="20220426031000 +0300" channel="kan black">
-    <title lang="he">תריץ אחורה</title>
-  </programme>
-  <programme start="20220426031000 +0300" stop="20220426040600 +0300" channel="kan black">
-    <title lang="he">אמריקה מהאוויר - לאס</title>
-  </programme>
-  <programme start="20220426040600 +0300" stop="20220426043000 +0300" channel="kan black">
-    <title lang="he">מיקס ישראלי</title>
-  </programme>
-  <programme start="20220426043000 +0300" stop="20220426050000 +0300" channel="kan black">
-    <title lang="he">העולם היום עם מואב ורדי</title>
-  </programme>
-  <programme start="20220426050000 +0300" stop="20220426053000 +0300" channel="kan black">
-    <title lang="he">עצם העניין עם קלמן ליבסקינד</title>
-  </programme>
-  <programme start="20220426053000 +0300" stop="20220426060500 +0300" channel="kan black">
-    <title lang="he">ערב ערב עם מאיה ראכלין</title>
-  </programme>
-  <programme start="20220426060500 +0300" stop="20220426062000 +0300" channel="kan black">
-    <title lang="he">מהצד השני עם גיא זהר</title>
-  </programme>
   <programme start="20220426062000 +0300" stop="20220426065200 +0300" channel="kan black">
     <title lang="he">פסקול ישראלי</title>
   </programme>
@@ -192,7 +81,7 @@
     <title lang="he">ספארי מהאגדות</title>
   </programme>
   <programme start="20220426133400 +0300" stop="20220426143000 +0300" channel="kan black">
-    <title lang="he">אמריקה מהאוויר</title>
+    <title lang="he">אמריקה מהאוויר - לאס</title>
   </programme>
   <programme start="20220426143000 +0300" stop="20220426152000 +0300" channel="kan black">
     <title lang="he">מתחילים מאפס</title>
@@ -233,32 +122,35 @@
   <programme start="20220426224200 +0300" stop="20220426225500 +0300" channel="kan black">
     <title lang="he">מהצד השני עם גיא זהר</title>
   </programme>
-  <programme start="20220426225500 +0300" stop="20220426231500 +0300" channel="kan black">
-    <title lang="he">חדשות הלילה עם רומי נוימרק</title>
+  <programme start="20220426225500 +0300" stop="20220426230000 +0300" channel="kan black">
+    <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220426231500 +0300" stop="20220426231500 +0300" channel="kan black">
+  <programme start="20220426230000 +0300" stop="20220426235700 +0300" channel="kan black">
     <title lang="he">בחזרה לצ'רנוביל</title>
   </programme>
-  <programme start="20220426231500 +0300" stop="20220427001200 +0300" channel="kan black">
-    <title lang="he">בחזרה לצ'רנוביל</title>
-  </programme>
-  <programme start="20220427001200 +0300" stop="20220427004200 +0300" channel="kan black">
+  <programme start="20220426235700 +0300" stop="20220426235700 +0300" channel="kan black">
     <title lang="he">העולם היום עם מואב ורדי</title>
   </programme>
-  <programme start="20220427004200 +0300" stop="20220427013900 +0300" channel="kan black">
+  <programme start="20220426235700 +0300" stop="20220427002700 +0300" channel="kan black">
+    <title lang="he">העולם היום עם מואב ורדי</title>
+  </programme>
+  <programme start="20220427002700 +0300" stop="20220427012300 +0300" channel="kan black">
     <title lang="he">האזרח גואטה 3</title>
   </programme>
-  <programme start="20220427013900 +0300" stop="20220427020700 +0300" channel="kan black">
+  <programme start="20220427012300 +0300" stop="20220427015200 +0300" channel="kan black">
     <title lang="he">סליחה על השאלה</title>
   </programme>
-  <programme start="20220427020700 +0300" stop="20220427024700 +0300" channel="kan black">
+  <programme start="20220427015200 +0300" stop="20220427023200 +0300" channel="kan black">
     <title lang="he">משחקי הכיס</title>
   </programme>
-  <programme start="20220427024700 +0300" stop="20220427031200 +0300" channel="kan black">
+  <programme start="20220427023200 +0300" stop="20220427025800 +0300" channel="kan black">
+    <title lang="he">ספארי מהאגדות</title>
+  </programme>
+  <programme start="20220427025800 +0300" stop="20220427031200 +0300" channel="kan black">
     <title lang="he">תריץ אחורה</title>
   </programme>
   <programme start="20220427031200 +0300" stop="20220427040800 +0300" channel="kan black">
-    <title lang="he">אמריקה מהאוויר</title>
+    <title lang="he">אמריקה מהאוויר - לאס</title>
   </programme>
   <programme start="20220427040800 +0300" stop="20220427043000 +0300" channel="kan black">
     <title lang="he">מיקס ישראלי</title>
@@ -323,10 +215,10 @@
   <programme start="20220427183000 +0300" stop="20220427185800 +0300" channel="kan black">
     <title lang="he">העולם היום עם מואב ורדי</title>
   </programme>
-  <programme start="20220427185800 +0300" stop="20220427200000 +0300" channel="kan black">
+  <programme start="20220427185800 +0300" stop="20220427194500 +0300" channel="kan black">
     <title lang="he">חדשות הערב עם מיכל רבינוביץ</title>
   </programme>
-  <programme start="20220427200000 +0300" stop="20220427212500 +0300" channel="kan black">
+  <programme start="20220427194500 +0300" stop="20220427212500 +0300" channel="kan black">
     <title lang="he">הטקס המרכזי ליום השואה מיד ושם</title>
   </programme>
   <programme start="20220427212500 +0300" stop="20220427222700 +0300" channel="kan black">
@@ -351,7 +243,7 @@
     <title lang="he">מלחמתה של רעיה סיניצינה</title>
   </programme>
   <programme start="20220428034300 +0300" stop="20220428050100 +0300" channel="kan black">
-    <title lang="he">הקומנדאנט</title>
+    <title lang="he">פרדי היקר</title>
   </programme>
   <programme start="20220428050100 +0300" stop="20220428053500 +0300" channel="kan black">
     <title lang="he">זיכרון בסלון</title>
@@ -383,16 +275,16 @@
   <programme start="20220428100500 +0300" stop="20220428105800 +0300" channel="kan black">
     <title lang="he">הנאצי הטוב</title>
   </programme>
-  <programme start="20220428105800 +0300" stop="20220428120500 +0300" channel="kan black">
+  <programme start="20220428105800 +0300" stop="20220428121500 +0300" channel="kan black">
     <title lang="he">לכל איש יש שם</title>
   </programme>
-  <programme start="20220428120500 +0300" stop="20220428131500 +0300" channel="kan black">
-    <title lang="he">תעלומת הספר השחור</title>
+  <programme start="20220428121500 +0300" stop="20220428131500 +0300" channel="kan black">
+    <title lang="he">הקומנדאנט</title>
   </programme>
-  <programme start="20220428131500 +0300" stop="20220428135300 +0300" channel="kan black">
+  <programme start="20220428131500 +0300" stop="20220428135000 +0300" channel="kan black">
     <title lang="he">סיפורו של ח'אלד</title>
   </programme>
-  <programme start="20220428135300 +0300" stop="20220428150000 +0300" channel="kan black">
+  <programme start="20220428135000 +0300" stop="20220428150000 +0300" channel="kan black">
     <title lang="he">טקס יום השואה</title>
   </programme>
   <programme start="20220428150000 +0300" stop="20220428170000 +0300" channel="kan black">
@@ -422,29 +314,29 @@
   <programme start="20220428224500 +0300" stop="20220428225800 +0300" channel="kan black">
     <title lang="he">מהצד השני עם גיא זהר</title>
   </programme>
-  <programme start="20220428225800 +0300" stop="20220428231800 +0300" channel="kan black">
-    <title lang="he">חדשות הלילה עם רומי נוימרק</title>
+  <programme start="20220428225800 +0300" stop="20220428230300 +0300" channel="kan black">
+    <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220428231800 +0300" stop="20220428231800 +0300" channel="kan black">
+  <programme start="20220428230300 +0300" stop="20220428230300 +0300" channel="kan black">
     <title lang="he">הפסנתר 2020</title>
   </programme>
-  <programme start="20220428231800 +0300" stop="20220429002300 +0300" channel="kan black">
+  <programme start="20220428230300 +0300" stop="20220429000800 +0300" channel="kan black">
     <title lang="he">הפסנתר 2020</title>
   </programme>
-  <programme start="20220429002300 +0300" stop="20220429010800 +0300" channel="kan black">
+  <programme start="20220429000800 +0300" stop="20220429005300 +0300" channel="kan black">
     <title lang="he">העולם היום עם מואב ורדי</title>
   </programme>
-  <programme start="20220429010800 +0300" stop="20220429020600 +0300" channel="kan black">
+  <programme start="20220429005300 +0300" stop="20220429015100 +0300" channel="kan black">
     <title lang="he">המרדף 6</title>
   </programme>
-  <programme start="20220429020600 +0300" stop="20220429023800 +0300" channel="kan black">
+  <programme start="20220429015100 +0300" stop="20220429022300 +0300" channel="kan black">
     <title lang="he">זהו זה!</title>
   </programme>
-  <programme start="20220429023800 +0300" stop="20220429031800 +0300" channel="kan black">
+  <programme start="20220429022300 +0300" stop="20220429030300 +0300" channel="kan black">
     <title lang="he">משחקי הכיס</title>
   </programme>
-  <programme start="20220429031800 +0300" stop="20220429034800 +0300" channel="kan black">
-    <title lang="he">פסקול ישראלי</title>
+  <programme start="20220429030300 +0300" stop="20220429034800 +0300" channel="kan black">
+    <title lang="he">הבלתי חשובים</title>
   </programme>
   <programme start="20220429034800 +0300" stop="20220429041500 +0300" channel="kan black">
     <title lang="he">מיקס ישראלי</title>
@@ -530,98 +422,104 @@
   <programme start="20220429231500 +0300" stop="20220429235400 +0300" channel="kan black">
     <title lang="he">שטוקהולם 2</title>
   </programme>
-  <programme start="20220425090000 +0300" stop="20220425093000 +0300" channel="channal 9">
-    <title lang="he">כולם חשודים</title>
+  <programme start="20220429235400 +0300" stop="20220429235400 +0300" channel="kan black">
+    <title lang="he">שטוקהולם 2</title>
   </programme>
-  <programme start="20220425093000 +0300" stop="20220425102000 +0300" channel="channal 9">
-    <title lang="he">העדים. מוות מתוק</title>
+  <programme start="20220429235400 +0300" stop="20220430002500 +0300" channel="kan black">
+    <title lang="he">שטוקהולם 2</title>
   </programme>
-  <programme start="20220425102000 +0300" stop="20220425105000 +0300" channel="channal 9">
-    <title lang="he">Deutsche Welle. Drive It</title>
+  <programme start="20220430002500 +0300" stop="20220430005800 +0300" channel="kan black">
+    <title lang="he">שטוקהולם 2</title>
   </programme>
-  <programme start="20220425105000 +0300" stop="20220425112000 +0300" channel="channal 9">
-    <title lang="he">להבין ולסלוח. עניינים שבלב</title>
+  <programme start="20220430005800 +0300" stop="20220430013300 +0300" channel="kan black">
+    <title lang="he">שטוקהולם 2</title>
   </programme>
-  <programme start="20220425112000 +0300" stop="20220425115000 +0300" channel="channal 9">
-    <title lang="he">שלדים בארון</title>
+  <programme start="20220430013300 +0300" stop="20220430023700 +0300" channel="kan black">
+    <title lang="he">במדינת היהודים</title>
   </programme>
-  <programme start="20220425115000 +0300" stop="20220425123500 +0300" channel="channal 9">
-    <title lang="he">עקבות. אב מזויף</title>
+  <programme start="20220430023700 +0300" stop="20220430030800 +0300" channel="kan black">
+    <title lang="he">פגישה עם רוני קובן</title>
   </programme>
-  <programme start="20220425123500 +0300" stop="20220425142000 +0300" channel="channal 9">
-    <title lang="he">העיוורת</title>
+  <programme start="20220430030800 +0300" stop="20220430042300 +0300" channel="kan black">
+    <title lang="he">כי האדם עץ השדה</title>
   </programme>
-  <programme start="20220425142000 +0300" stop="20220425151000 +0300" channel="channal 9">
-    <title lang="he">מגדת עתידות</title>
+  <programme start="20220430042300 +0300" stop="20220430044500 +0300" channel="kan black">
+    <title lang="he">מיקס ישראלי</title>
   </programme>
-  <programme start="20220425151000 +0300" stop="20220425160500 +0300" channel="channal 9">
-    <title lang="he">העדים. המסיבה האחרונה</title>
+  <programme start="20220430044500 +0300" stop="20220430060000 +0300" channel="kan black">
+    <title lang="he">קונצרט עד הבית</title>
   </programme>
-  <programme start="20220425160500 +0300" stop="20220425170000 +0300" channel="channal 9">
-    <title lang="he">עץ או פלי. אתחול</title>
+  <programme start="20220430060000 +0300" stop="20220430065500 +0300" channel="kan black">
+    <title lang="he">אמריקה מהאוויר</title>
   </programme>
-  <programme start="20220425170000 +0300" stop="20220425170500 +0300" channel="channal 9">
-    <title lang="he">יום. חדשות</title>
+  <programme start="20220430065500 +0300" stop="20220430075000 +0300" channel="kan black">
+    <title lang="he">אמריקה מהאוויר - לאס</title>
   </programme>
-  <programme start="20220425170500 +0300" stop="20220425180000 +0300" channel="channal 9">
-    <title lang="he">יום</title>
+  <programme start="20220430075000 +0300" stop="20220430084500 +0300" channel="kan black">
+    <title lang="he">אמריקה מהאוויר</title>
   </programme>
-  <programme start="20220425180000 +0300" stop="20220425180500 +0300" channel="channal 9">
-    <title lang="he">יום. חדשות</title>
+  <programme start="20220430084500 +0300" stop="20220430091000 +0300" channel="kan black">
+    <title lang="he">ספארי מהאגדות</title>
   </programme>
-  <programme start="20220425180500 +0300" stop="20220425190000 +0300" channel="channal 9">
-    <title lang="he">יום</title>
+  <programme start="20220430091000 +0300" stop="20220430093500 +0300" channel="kan black">
+    <title lang="he">ספארי מהאגדות</title>
   </programme>
-  <programme start="20220425190000 +0300" stop="20220425190500 +0300" channel="channal 9">
-    <title lang="he">יום. חדשות</title>
+  <programme start="20220430093500 +0300" stop="20220430100000 +0300" channel="kan black">
+    <title lang="he">ספארי מהאגדות</title>
   </programme>
-  <programme start="20220425190500 +0300" stop="20220425200000 +0300" channel="channal 9">
-    <title lang="he">יום</title>
+  <programme start="20220430100000 +0300" stop="20220430102500 +0300" channel="kan black">
+    <title lang="he">החפרנים</title>
   </programme>
-  <programme start="20220425200000 +0300" stop="20220425213000 +0300" channel="channal 9">
-    <title lang="he">יום. מהדורה מרכזית</title>
+  <programme start="20220430102500 +0300" stop="20220430105000 +0300" channel="kan black">
+    <title lang="he">החפרנים</title>
   </programme>
-  <programme start="20220425213000 +0300" stop="20220425221500 +0300" channel="channal 9">
-    <title lang="he">עקבות. דלת לכל מפתח</title>
+  <programme start="20220430105000 +0300" stop="20220430114500 +0300" channel="kan black">
+    <title lang="he">פסטיבל מספרי סיפורים עם יוסי אלפי</title>
   </programme>
-  <programme start="20220425221500 +0300" stop="20220425230000 +0300" channel="channal 9">
-    <title lang="he">עקבות. האויב המסוכן ביותר</title>
+  <programme start="20220430114500 +0300" stop="20220430124500 +0300" channel="kan black">
+    <title lang="he">הפסנתר 2021</title>
   </programme>
-  <programme start="20220425230000 +0300" stop="20220425230000 +0300" channel="channal 9">
-    <title lang="he">העיוורת</title>
+  <programme start="20220430124500 +0300" stop="20220430131200 +0300" channel="kan black">
+    <title lang="he">קארפול קריוקי</title>
   </programme>
-  <programme start="20220425230000 +0300" stop="20220426011000 +0300" channel="channal 9">
-    <title lang="he">העיוורת</title>
+  <programme start="20220430131200 +0300" stop="20220430134500 +0300" channel="kan black">
+    <title lang="he">פגישה עם רוני קובן</title>
   </programme>
-  <programme start="20220426011000 +0300" stop="20220426014000 +0300" channel="channal 9">
-    <title lang="he">Deutsche Welle. In Good Shape</title>
+  <programme start="20220430134500 +0300" stop="20220430144000 +0300" channel="kan black">
+    <title lang="he">סוכן תרבות</title>
   </programme>
-  <programme start="20220426014000 +0300" stop="20220426023000 +0300" channel="channal 9">
-    <title lang="he">עץ או פלי. אתחול</title>
+  <programme start="20220430144000 +0300" stop="20220430153800 +0300" channel="kan black">
+    <title lang="he">פלסטיק</title>
   </programme>
-  <programme start="20220426023000 +0300" stop="20220426031500 +0300" channel="channal 9">
-    <title lang="he">העדים. המסיבה האחרונה</title>
+  <programme start="20220430153800 +0300" stop="20220430163500 +0300" channel="kan black">
+    <title lang="he">האזרח גואטה 3</title>
   </programme>
-  <programme start="20220426031500 +0300" stop="20220426034500 +0300" channel="channal 9">
-    <title lang="he">כולם חשודים</title>
+  <programme start="20220430163500 +0300" stop="20220430170300 +0300" channel="kan black">
+    <title lang="he">סליחה על השאלה</title>
   </programme>
-  <programme start="20220426034500 +0300" stop="20220426042000 +0300" channel="channal 9">
-    <title lang="he">עקבות. אב מזויף</title>
+  <programme start="20220430170300 +0300" stop="20220430180200 +0300" channel="kan black">
+    <title lang="he">סיני</title>
   </programme>
-  <programme start="20220426042000 +0300" stop="20220426045000 +0300" channel="channal 9">
-    <title lang="he">Deutsche Welle. Drive It</title>
+  <programme start="20220430180200 +0300" stop="20220430190000 +0300" channel="kan black">
+    <title lang="he">סיני</title>
   </programme>
-  <programme start="20220426045000 +0300" stop="20220426051500 +0300" channel="channal 9">
-    <title lang="he">עין הרע</title>
+  <programme start="20220430190000 +0300" stop="20220430195800 +0300" channel="kan black">
+    <title lang="he">הכול פוליטי</title>
   </programme>
-  <programme start="20220426051500 +0300" stop="20220426054000 +0300" channel="channal 9">
-    <title lang="he">להבין ולסלוח. עניינים שבלב</title>
+  <programme start="20220430195800 +0300" stop="20220430211500 +0300" channel="kan black">
+    <title lang="he">חדשות השבת עם דב גיל</title>
   </programme>
-  <programme start="20220426054000 +0300" stop="20220426063000 +0300" channel="channal 9">
-    <title lang="he">אהבה ושטויות אחרות</title>
+  <programme start="20220430211500 +0300" stop="20220430214300 +0300" channel="kan black">
+    <title lang="he">היהודים באים 5</title>
   </programme>
-  <programme start="20220426063000 +0300" stop="20220426090000 +0300" channel="channal 9">
-    <title lang="he">יום</title>
+  <programme start="20220430214300 +0300" stop="20220430223500 +0300" channel="kan black">
+    <title lang="he">היהודי החדש</title>
+  </programme>
+  <programme start="20220430223500 +0300" stop="20220430233300 +0300" channel="kan black">
+    <title lang="he">פלסטיק</title>
+  </programme>
+  <programme start="20220430233300 +0300" stop="20220430233800 +0300" channel="kan black">
+    <title lang="he">מבזק חדשות</title>
   </programme>
   <programme start="20220426090000 +0300" stop="20220426093000 +0300" channel="channal 9">
     <title lang="he">כולם חשודים</title>
@@ -884,102 +782,6 @@
   <programme start="20220429051500 +0300" stop="20220429054000 +0300" channel="channal 9">
     <title lang="he">להבין ולסלוח. חיסיון רפואי</title>
   </programme>
-  <programme start="20220425061500 +0300" stop="20220425062000 +0300" channel="12keshet">
-    <title lang="he">מבזק חדשות</title>
-  </programme>
-  <programme start="20220425062000 +0300" stop="20220425070000 +0300" channel="12keshet">
-    <title lang="he">כותרות הבוקר</title>
-  </programme>
-  <programme start="20220425070000 +0300" stop="20220425070800 +0300" channel="12keshet">
-    <title lang="he">מבזק חדשות</title>
-  </programme>
-  <programme start="20220425070800 +0300" stop="20220425093000 +0300" channel="12keshet">
-    <title lang="he">חדשות הבוקר עם ניב רסקין</title>
-  </programme>
-  <programme start="20220425093000 +0300" stop="20220425093500 +0300" channel="12keshet">
-    <title lang="he">מבזק חדשות</title>
-  </programme>
-  <programme start="20220425093500 +0300" stop="20220425113000 +0300" channel="12keshet">
-    <title lang="he">פאולה וליאון</title>
-  </programme>
-  <programme start="20220425113000 +0300" stop="20220425120500 +0300" channel="12keshet">
-    <title lang="he">אופה מהבית</title>
-  </programme>
-  <programme start="20220425120500 +0300" stop="20220425124500 +0300" channel="12keshet">
-    <title lang="he">הבתים היפים בישראל</title>
-  </programme>
-  <programme start="20220425124500 +0300" stop="20220425133500 +0300" channel="12keshet">
-    <title lang="he">ישראל מבשלת יחד</title>
-  </programme>
-  <programme start="20220425133500 +0300" stop="20220425140500 +0300" channel="12keshet">
-    <title lang="he">הכי בעולם</title>
-  </programme>
-  <programme start="20220425140500 +0300" stop="20220425143000 +0300" channel="12keshet">
-    <title lang="he">סברי מרנן</title>
-  </programme>
-  <programme start="20220425143000 +0300" stop="20220425150000 +0300" channel="12keshet">
-    <title lang="he">סברי מרנן</title>
-  </programme>
-  <programme start="20220425150000 +0300" stop="20220425160000 +0300" channel="12keshet">
-    <title lang="he">שלוש עם עופר חדד</title>
-  </programme>
-  <programme start="20220425160000 +0300" stop="20220425170000 +0300" channel="12keshet">
-    <title lang="he">מהדורה ראשונה</title>
-  </programme>
-  <programme start="20220425170000 +0300" stop="20220425175500 +0300" channel="12keshet">
-    <title lang="he">חמש עם רפי רשף</title>
-  </programme>
-  <programme start="20220425175500 +0300" stop="20220425190000 +0300" channel="12keshet">
-    <title lang="he">שש עם.</title>
-  </programme>
-  <programme start="20220425190000 +0300" stop="20220425195900 +0300" channel="12keshet">
-    <title lang="he">תכנית חיסכון</title>
-  </programme>
-  <programme start="20220425195900 +0300" stop="20220425211500 +0300" channel="12keshet">
-    <title lang="he">חדשות הערב</title>
-  </programme>
-  <programme start="20220425211500 +0300" stop="20220425223500 +0300" channel="12keshet">
-    <title lang="he">העשירים החדשים</title>
-  </programme>
-  <programme start="20220425223500 +0300" stop="20220425231200 +0300" channel="12keshet">
-    <title lang="he">מסודרים</title>
-  </programme>
-  <programme start="20220425231200 +0300" stop="20220425235400 +0300" channel="12keshet">
-    <title lang="he">מסודרים</title>
-  </programme>
-  <programme start="20220425235400 +0300" stop="20220425235400 +0300" channel="12keshet">
-    <title lang="he">זמן תוצאות</title>
-  </programme>
-  <programme start="20220425235400 +0300" stop="20220426000500 +0300" channel="12keshet">
-    <title lang="he">זמן תוצאות</title>
-  </programme>
-  <programme start="20220426000500 +0300" stop="20220426010500 +0300" channel="12keshet">
-    <title lang="he">תכנית חיסכון</title>
-  </programme>
-  <programme start="20220426010500 +0300" stop="20220426023500 +0300" channel="12keshet">
-    <title lang="he">פאולה וליאון</title>
-  </programme>
-  <programme start="20220426023500 +0300" stop="20220426025500 +0300" channel="12keshet">
-    <title lang="he">מוסיקה עברית</title>
-  </programme>
-  <programme start="20220426025500 +0300" stop="20220426033000 +0300" channel="12keshet">
-    <title lang="he">סיפור אומן</title>
-  </programme>
-  <programme start="20220426033000 +0300" stop="20220426043500 +0300" channel="12keshet">
-    <title lang="he">פרספקטיבה</title>
-  </programme>
-  <programme start="20220426043500 +0300" stop="20220426050500 +0300" channel="12keshet">
-    <title lang="he">מרגישות יופי</title>
-  </programme>
-  <programme start="20220426050500 +0300" stop="20220426052000 +0300" channel="12keshet">
-    <title lang="he">רפי רשף - אינטימי</title>
-  </programme>
-  <programme start="20220426052000 +0300" stop="20220426060000 +0300" channel="12keshet">
-    <title lang="he">תכנית חיסכון</title>
-  </programme>
-  <programme start="20220426060000 +0300" stop="20220426061500 +0300" channel="12keshet">
-    <title lang="he">מוקדם על הבוקר</title>
-  </programme>
   <programme start="20220426061500 +0300" stop="20220426062000 +0300" channel="12keshet">
     <title lang="he">מבזק חדשות</title>
   </programme>
@@ -1007,10 +809,10 @@
   <programme start="20220426124000 +0300" stop="20220426133000 +0300" channel="12keshet">
     <title lang="he">ישראל מבשלת יחד</title>
   </programme>
-  <programme start="20220426133000 +0300" stop="20220426140500 +0300" channel="12keshet">
+  <programme start="20220426133000 +0300" stop="20220426140000 +0300" channel="12keshet">
     <title lang="he">הכי בעולם</title>
   </programme>
-  <programme start="20220426140500 +0300" stop="20220426143000 +0300" channel="12keshet">
+  <programme start="20220426140000 +0300" stop="20220426143000 +0300" channel="12keshet">
     <title lang="he">סברי מרנן</title>
   </programme>
   <programme start="20220426143000 +0300" stop="20220426150000 +0300" channel="12keshet">
@@ -1055,13 +857,16 @@
   <programme start="20220427030000 +0300" stop="20220427033000 +0300" channel="12keshet">
     <title lang="he">סיפור אומן</title>
   </programme>
-  <programme start="20220427033000 +0300" stop="20220427043500 +0300" channel="12keshet">
+  <programme start="20220427033000 +0300" stop="20220427041000 +0300" channel="12keshet">
     <title lang="he">פרספקטיבה</title>
   </programme>
-  <programme start="20220427043500 +0300" stop="20220427050500 +0300" channel="12keshet">
+  <programme start="20220427041000 +0300" stop="20220427042000 +0300" channel="12keshet">
+    <title lang="he">שיעור פרטי</title>
+  </programme>
+  <programme start="20220427042000 +0300" stop="20220427044500 +0300" channel="12keshet">
     <title lang="he">מרגישות יופי</title>
   </programme>
-  <programme start="20220427050500 +0300" stop="20220427052000 +0300" channel="12keshet">
+  <programme start="20220427044500 +0300" stop="20220427052000 +0300" channel="12keshet">
     <title lang="he">רפי רשף</title>
   </programme>
   <programme start="20220427052000 +0300" stop="20220427060000 +0300" channel="12keshet">
@@ -1215,7 +1020,7 @@
     <title lang="he">עובדה</title>
   </programme>
   <programme start="20220428224800 +0300" stop="20220428232400 +0300" channel="12keshet">
-    <title lang="he">רפי רשף</title>
+    <title lang="he">רפי רשף - אינטימי</title>
   </programme>
   <programme start="20220428232400 +0300" stop="20220428232400 +0300" channel="12keshet">
     <title lang="he">שש פעמים</title>
@@ -1236,7 +1041,7 @@
     <title lang="he">פרספקטיבה</title>
   </programme>
   <programme start="20220429045000 +0300" stop="20220429052000 +0300" channel="12keshet">
-    <title lang="he">רפי רשף</title>
+    <title lang="he">רפי רשף - אינטימי</title>
   </programme>
   <programme start="20220429052000 +0300" stop="20220429060000 +0300" channel="12keshet">
     <title lang="he">תכנית חיסכון</title>
@@ -1260,7 +1065,7 @@
     <title lang="he">מבזק חדשות</title>
   </programme>
   <programme start="20220429100500 +0300" stop="20220429120000 +0300" channel="12keshet">
-    <title lang="he">נירים</title>
+    <title lang="he">נירים למען נוער בסיכון</title>
   </programme>
   <programme start="20220429120000 +0300" stop="20220429123000 +0300" channel="12keshet">
     <title lang="he">השיעור השבועי עם סיון רהב מאיר</title>
@@ -1278,7 +1083,7 @@
     <title lang="he">מרגישות יופי</title>
   </programme>
   <programme start="20220429145000 +0300" stop="20220429152500 +0300" channel="12keshet">
-    <title lang="he">רפי רשף</title>
+    <title lang="he">רפי רשף - אינטימי</title>
   </programme>
   <programme start="20220429152500 +0300" stop="20220429170000 +0300" channel="12keshet">
     <title lang="he">פרטים יפורסמו בהמשך</title>
@@ -1298,122 +1103,89 @@
   <programme start="20220429230200 +0300" stop="20220429233000 +0300" channel="12keshet">
     <title lang="he">פשע לא מאורגן</title>
   </programme>
-  <programme start="20220425061000 +0300" stop="20220425070000 +0300" channel="13reshet">
-    <title lang="he">העולם הבוקר</title>
+  <programme start="20220429233000 +0300" stop="20220429233000 +0300" channel="12keshet">
+    <title lang="he">רותם באה אליכם</title>
   </programme>
-  <programme start="20220425070000 +0300" stop="20220425093000 +0300" channel="13reshet">
-    <title lang="he">העולם הבוקר</title>
+  <programme start="20220429233000 +0300" stop="20220430002000 +0300" channel="12keshet">
+    <title lang="he">רותם באה אליכם</title>
   </programme>
-  <programme start="20220425093000 +0300" stop="20220425093500 +0300" channel="13reshet">
-    <title lang="he">מבזק חדשות</title>
+  <programme start="20220430002000 +0300" stop="20220430005500 +0300" channel="12keshet">
+    <title lang="he">הפרלמנט</title>
   </programme>
-  <programme start="20220425093500 +0300" stop="20220425100000 +0300" channel="13reshet">
-    <title lang="he">פותחים יום</title>
+  <programme start="20220430005500 +0300" stop="20220430014500 +0300" channel="12keshet">
+    <title lang="he">הפרלמנט</title>
   </programme>
-  <programme start="20220425100000 +0300" stop="20220425100500 +0300" channel="13reshet">
-    <title lang="he">מבזק חדשות</title>
+  <programme start="20220430014500 +0300" stop="20220430025000 +0300" channel="12keshet">
+    <title lang="he">איזה צחוק</title>
   </programme>
-  <programme start="20220425100500 +0300" stop="20220425110000 +0300" channel="13reshet">
-    <title lang="he">פותחים יום</title>
+  <programme start="20220430025000 +0300" stop="20220430032000 +0300" channel="12keshet">
+    <title lang="he">סיפור אומן</title>
   </programme>
-  <programme start="20220425110000 +0300" stop="20220425110500 +0300" channel="13reshet">
-    <title lang="he">מבזק חדשות</title>
+  <programme start="20220430032000 +0300" stop="20220430041000 +0300" channel="12keshet">
+    <title lang="he">פרספקטיבה</title>
   </programme>
-  <programme start="20220425110500 +0300" stop="20220425120000 +0300" channel="13reshet">
-    <title lang="he">פותחים יום</title>
+  <programme start="20220430041000 +0300" stop="20220430060000 +0300" channel="12keshet">
+    <title lang="he">שבת צחוק</title>
   </programme>
-  <programme start="20220425120000 +0300" stop="20220425120500 +0300" channel="13reshet">
-    <title lang="he">מבזק חדשות</title>
+  <programme start="20220430060000 +0300" stop="20220430063000 +0300" channel="12keshet">
+    <title lang="he">הבתים היפים בישראל</title>
   </programme>
-  <programme start="20220425120500 +0300" stop="20220425123700 +0300" channel="13reshet">
-    <title lang="he">המצעד המשפטי</title>
+  <programme start="20220430063000 +0300" stop="20220430065500 +0300" channel="12keshet">
+    <title lang="he">המהדורה הצעירה</title>
   </programme>
-  <programme start="20220425123700 +0300" stop="20220425130000 +0300" channel="13reshet">
-    <title lang="he">לעוף על המיליון</title>
+  <programme start="20220430065500 +0300" stop="20220430080000 +0300" channel="12keshet">
+    <title lang="he">פרספקטיבה</title>
   </programme>
-  <programme start="20220425130000 +0300" stop="20220425130500 +0300" channel="13reshet">
-    <title lang="he">מבזק חדשות</title>
+  <programme start="20220430080000 +0300" stop="20220430083500 +0300" channel="12keshet">
+    <title lang="he">חדשות ערבית</title>
   </programme>
-  <programme start="20220425130500 +0300" stop="20220425132100 +0300" channel="13reshet">
-    <title lang="he">לעוף על המיליון</title>
+  <programme start="20220430083500 +0300" stop="20220430095000 +0300" channel="12keshet">
+    <title lang="he">איזה צחוק</title>
   </programme>
-  <programme start="20220425132100 +0300" stop="20220425134400 +0300" channel="13reshet">
-    <title lang="he">הצינור</title>
+  <programme start="20220430095000 +0300" stop="20220430102500 +0300" channel="12keshet">
+    <title lang="he">סברי מרנן</title>
   </programme>
-  <programme start="20220425134400 +0300" stop="20220425140000 +0300" channel="13reshet">
-    <title lang="he">אהבה חדשה</title>
+  <programme start="20220430102500 +0300" stop="20220430105000 +0300" channel="12keshet">
+    <title lang="he">סברי מרנן</title>
   </programme>
-  <programme start="20220425140000 +0300" stop="20220425140500 +0300" channel="13reshet">
-    <title lang="he">מבזק חדשות</title>
+  <programme start="20220430105000 +0300" stop="20220430112000 +0300" channel="12keshet">
+    <title lang="he">סברי מרנן</title>
   </programme>
-  <programme start="20220425140500 +0300" stop="20220425145900 +0300" channel="13reshet">
-    <title lang="he">אהבה חדשה</title>
+  <programme start="20220430112000 +0300" stop="20220430121000 +0300" channel="12keshet">
+    <title lang="he">הקרב על המוח - הרשת האנטי</title>
   </programme>
-  <programme start="20220425145900 +0300" stop="20220425155800 +0300" channel="13reshet">
-    <title lang="he">חדשות היום עם אלמוג בוקר</title>
+  <programme start="20220430121000 +0300" stop="20220430130500 +0300" channel="12keshet">
+    <title lang="he">אוהד חמו</title>
   </programme>
-  <programme start="20220425155800 +0300" stop="20220425162300 +0300" channel="13reshet">
-    <title lang="he">הכול כלול</title>
+  <programme start="20220430130500 +0300" stop="20220430132000 +0300" channel="12keshet">
+    <title lang="he">מה הלו''ז</title>
   </programme>
-  <programme start="20220425162300 +0300" stop="20220425164900 +0300" channel="13reshet">
-    <title lang="he">הכול כלול המגזין</title>
+  <programme start="20220430132000 +0300" stop="20220430143000 +0300" channel="12keshet">
+    <title lang="he">ארץ נהדרת אוהבת</title>
   </programme>
-  <programme start="20220425164900 +0300" stop="20220425175300 +0300" channel="13reshet">
-    <title lang="he">חמש</title>
+  <programme start="20220430143000 +0300" stop="20220430152000 +0300" channel="12keshet">
+    <title lang="he">ארץ נהדרת</title>
   </programme>
-  <programme start="20220425175300 +0300" stop="20220425185900 +0300" channel="13reshet">
-    <title lang="he">שש</title>
+  <programme start="20220430152000 +0300" stop="20220430162000 +0300" channel="12keshet">
+    <title lang="he">ארץ נהדרת</title>
   </programme>
-  <programme start="20220425185900 +0300" stop="20220425200000 +0300" channel="13reshet">
-    <title lang="he">מדד ישראל עם אברי גלעד</title>
+  <programme start="20220430162000 +0300" stop="20220430170000 +0300" channel="12keshet">
+    <title lang="he">קטורזה וארז</title>
   </programme>
-  <programme start="20220425200000 +0300" stop="20220425211500 +0300" channel="13reshet">
-    <title lang="he">חדשות</title>
+  <programme start="20220430170000 +0300" stop="20220430180000 +0300" channel="12keshet">
+    <title lang="he">סדר עולמי</title>
   </programme>
-  <programme start="20220425211500 +0300" stop="20220425224000 +0300" channel="13reshet">
-    <title lang="he">מלחמה על הבית</title>
+  <programme start="20220430180000 +0300" stop="20220430195900 +0300" channel="12keshet">
+    <title lang="he">פגוש את העיתונות</title>
   </programme>
-  <programme start="20220425224000 +0300" stop="20220425232000 +0300" channel="13reshet">
-    <title lang="he">הצינור</title>
+  <programme start="20220430195900 +0300" stop="20220430213000 +0300" channel="12keshet">
+    <title lang="he">חדשות סוף השבוע עם דנה ויס</title>
   </programme>
-  <programme start="20220425232000 +0300" stop="20220425235500 +0300" channel="13reshet">
-    <title lang="he">היום שהיה עם טל ברמן</title>
+  <programme start="20220430213000 +0300" stop="20220430231800 +0300" channel="12keshet">
+    <title lang="he">הכרישים</title>
   </programme>
-  <programme start="20220425235500 +0300" stop="20220425235500 +0300" channel="13reshet">
-    <title lang="he">סלבריישן</title>
-  </programme>
-  <programme start="20220425235500 +0300" stop="20220426003500 +0300" channel="13reshet">
-    <title lang="he">סלבריישן</title>
-  </programme>
-  <programme start="20220426003500 +0300" stop="20220426013500 +0300" channel="13reshet">
-    <title lang="he">מדד ישראל עם אברי גלעד</title>
-  </programme>
-  <programme start="20220426013500 +0300" stop="20220426020000 +0300" channel="13reshet">
-    <title lang="he">הכול כלול</title>
-  </programme>
-  <programme start="20220426020000 +0300" stop="20220426022500 +0300" channel="13reshet">
-    <title lang="he">הכול כלול המגזין</title>
-  </programme>
-  <programme start="20220426022500 +0300" stop="20220426031500 +0300" channel="13reshet">
-    <title lang="he">שש</title>
-  </programme>
-  <programme start="20220426031500 +0300" stop="20220426033500 +0300" channel="13reshet">
-    <title lang="he">רצף קליפים</title>
-  </programme>
-  <programme start="20220426033500 +0300" stop="20220426040200 +0300" channel="13reshet">
-    <title lang="he">רצועת קליפים</title>
-  </programme>
-  <programme start="20220426040200 +0300" stop="20220426050000 +0300" channel="13reshet">
-    <title lang="he">פותחים יום</title>
-  </programme>
-  <programme start="20220426050000 +0300" stop="20220426053000 +0300" channel="13reshet">
-    <title lang="he">סטטוסקופ</title>
-  </programme>
-  <programme start="20220426053000 +0300" stop="20220426060000 +0300" channel="13reshet">
-    <title lang="he">הצינור</title>
-  </programme>
-  <programme start="20220426060000 +0300" stop="20220426061000 +0300" channel="13reshet">
-    <title lang="he">מבזק חדשות</title>
+  <programme start="20220430231800 +0300" stop="20220430235500 +0300" channel="12keshet">
+    <title lang="he">קטורזה וארז</title>
   </programme>
   <programme start="20220426061000 +0300" stop="20220426070000 +0300" channel="13reshet">
     <title lang="he">העולם הבוקר</title>
@@ -1442,31 +1214,37 @@
   <programme start="20220426120000 +0300" stop="20220426120500 +0300" channel="13reshet">
     <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220426120500 +0300" stop="20220426130000 +0300" channel="13reshet">
+  <programme start="20220426120500 +0300" stop="20220426124500 +0300" channel="13reshet">
     <title lang="he">סטטוסקופ</title>
+  </programme>
+  <programme start="20220426124500 +0300" stop="20220426130000 +0300" channel="13reshet">
+    <title lang="he">סיפור על אהבה ולחם</title>
   </programme>
   <programme start="20220426130000 +0300" stop="20220426130500 +0300" channel="13reshet">
     <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220426130500 +0300" stop="20220426135000 +0300" channel="13reshet">
-    <title lang="he">לעוף על המיליון</title>
+  <programme start="20220426130500 +0300" stop="20220426131600 +0300" channel="13reshet">
+    <title lang="he">סיפור על אהבה ולחם</title>
   </programme>
-  <programme start="20220426135000 +0300" stop="20220426140000 +0300" channel="13reshet">
+  <programme start="20220426131600 +0300" stop="20220426140000 +0300" channel="13reshet">
     <title lang="he">אהבה חדשה</title>
   </programme>
   <programme start="20220426140000 +0300" stop="20220426140500 +0300" channel="13reshet">
     <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220426140500 +0300" stop="20220426145900 +0300" channel="13reshet">
+  <programme start="20220426140500 +0300" stop="20220426142000 +0300" channel="13reshet">
     <title lang="he">אהבה חדשה</title>
+  </programme>
+  <programme start="20220426142000 +0300" stop="20220426145900 +0300" channel="13reshet">
+    <title lang="he">לעוף על המיליון</title>
   </programme>
   <programme start="20220426145900 +0300" stop="20220426155800 +0300" channel="13reshet">
     <title lang="he">חדשות היום עם אלמוג בוקר</title>
   </programme>
-  <programme start="20220426155800 +0300" stop="20220426162000 +0300" channel="13reshet">
+  <programme start="20220426155800 +0300" stop="20220426162100 +0300" channel="13reshet">
     <title lang="he">הכול כלול</title>
   </programme>
-  <programme start="20220426162000 +0300" stop="20220426164900 +0300" channel="13reshet">
+  <programme start="20220426162100 +0300" stop="20220426164900 +0300" channel="13reshet">
     <title lang="he">הכול כלול המגזין</title>
   </programme>
   <programme start="20220426164900 +0300" stop="20220426175300 +0300" channel="13reshet">
@@ -1823,83 +1601,89 @@
   <programme start="20220429225500 +0300" stop="20220429232800 +0300" channel="13reshet">
     <title lang="he">הכי בעולם</title>
   </programme>
-  <programme start="20220425063000 +0300" stop="20220425070000 +0300" channel="Arutz20">
-    <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
+  <programme start="20220429232800 +0300" stop="20220429232800 +0300" channel="13reshet">
+    <title lang="he">אהבה חדשה</title>
   </programme>
-  <programme start="20220425070000 +0300" stop="20220425090000 +0300" channel="Arutz20">
-    <title lang="he">ישראל הבוקר עם שי גולדן</title>
+  <programme start="20220429232800 +0300" stop="20220430003600 +0300" channel="13reshet">
+    <title lang="he">אהבה חדשה</title>
   </programme>
-  <programme start="20220425090000 +0300" stop="20220425110000 +0300" channel="Arutz20">
-    <title lang="he">עכשיו בוקר עם</title>
+  <programme start="20220430003600 +0300" stop="20220430015000 +0300" channel="13reshet">
+    <title lang="he">אהבה חדשה</title>
   </programme>
-  <programme start="20220425110000 +0300" stop="20220425120000 +0300" channel="Arutz20">
-    <title lang="he">ריקילין ושות' עם שמעון ריקלין</title>
+  <programme start="20220430015000 +0300" stop="20220430021500 +0300" channel="13reshet">
+    <title lang="he">ארוחת שחיתות</title>
   </programme>
-  <programme start="20220425120000 +0300" stop="20220425123000 +0300" channel="Arutz20">
-    <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
+  <programme start="20220430021500 +0300" stop="20220430024000 +0300" channel="13reshet">
+    <title lang="he">לילה טוב אירופה</title>
   </programme>
-  <programme start="20220425123000 +0300" stop="20220425134500 +0300" channel="Arutz20">
-    <title lang="he">הפטריוטים עם ינון מגל</title>
+  <programme start="20220430024000 +0300" stop="20220430030000 +0300" channel="13reshet">
+    <title lang="he">רצף קליפים</title>
   </programme>
-  <programme start="20220425134500 +0300" stop="20220425143000 +0300" channel="Arutz20">
-    <title lang="he">הדו''ח של אראל סג''ל</title>
+  <programme start="20220430030000 +0300" stop="20220430032500 +0300" channel="13reshet">
+    <title lang="he">מיקס ישראלי</title>
   </programme>
-  <programme start="20220425143000 +0300" stop="20220425150000 +0300" channel="Arutz20">
-    <title lang="he">מדברים עם עדן הראל</title>
+  <programme start="20220430032500 +0300" stop="20220430050000 +0300" channel="13reshet">
+    <title lang="he">פותחים שישי</title>
   </programme>
-  <programme start="20220425150000 +0300" stop="20220425170000 +0300" channel="Arutz20">
-    <title lang="he">עכשיו ברשת עם יהודה שלזינגר</title>
+  <programme start="20220430050000 +0300" stop="20220430060000 +0300" channel="13reshet">
+    <title lang="he">סטטוסקופ</title>
   </programme>
-  <programme start="20220425170000 +0300" stop="20220425180000 +0300" channel="Arutz20">
-    <title lang="he">עכשיו כנסת עם יערה זרד</title>
+  <programme start="20220430060000 +0300" stop="20220430064500 +0300" channel="13reshet">
+    <title lang="he">המתכון לחיים יפים</title>
   </programme>
-  <programme start="20220425180000 +0300" stop="20220425190000 +0300" channel="Arutz20">
-    <title lang="he">ריקילין ושות' עם שמעון ריקלין</title>
+  <programme start="20220430064500 +0300" stop="20220430073500 +0300" channel="13reshet">
+    <title lang="he">קול האומנות</title>
   </programme>
-  <programme start="20220425190000 +0300" stop="20220425193000 +0300" channel="Arutz20">
-    <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
+  <programme start="20220430073500 +0300" stop="20220430081100 +0300" channel="13reshet">
+    <title lang="he">סטטוסקופ</title>
   </programme>
-  <programme start="20220425193000 +0300" stop="20220425200000 +0300" channel="Arutz20">
-    <title lang="he">המהדורה המרכזית</title>
+  <programme start="20220430081100 +0300" stop="20220430085700 +0300" channel="13reshet">
+    <title lang="he">המצעד המשפטי</title>
   </programme>
-  <programme start="20220425200000 +0300" stop="20220425211500 +0300" channel="Arutz20">
-    <title lang="he">הפטריוטים עם ינון מגל</title>
+  <programme start="20220430085700 +0300" stop="20220430101300 +0300" channel="13reshet">
+    <title lang="he">העולם הבוקר: סיכום שבועי</title>
   </programme>
-  <programme start="20220425211500 +0300" stop="20220425220000 +0300" channel="Arutz20">
-    <title lang="he">הדו''ח של אראל סג''ל</title>
+  <programme start="20220430101300 +0300" stop="20220430112000 +0300" channel="13reshet">
+    <title lang="he">מילון היופי</title>
   </programme>
-  <programme start="20220425220000 +0300" stop="20220425224500 +0300" channel="Arutz20">
-    <title lang="he">עשר עם שרה ב''ק</title>
+  <programme start="20220430112000 +0300" stop="20220430130000 +0300" channel="13reshet">
+    <title lang="he">פותחים שישי</title>
   </programme>
-  <programme start="20220425224500 +0300" stop="20220425233000 +0300" channel="Arutz20">
-    <title lang="he">האולפן הפתוח עם בועז גולן</title>
+  <programme start="20220430130000 +0300" stop="20220430133700 +0300" channel="13reshet">
+    <title lang="he">סיפור על אהבה ולחם</title>
   </programme>
-  <programme start="20220425233000 +0300" stop="20220425233000 +0300" channel="Arutz20">
-    <title lang="he">הפטריוטים עם ינון מגל</title>
+  <programme start="20220430133700 +0300" stop="20220430141000 +0300" channel="13reshet">
+    <title lang="he">הכי בעולם</title>
   </programme>
-  <programme start="20220425233000 +0300" stop="20220426003000 +0300" channel="Arutz20">
-    <title lang="he">הפטריוטים עם ינון מגל</title>
+  <programme start="20220430141000 +0300" stop="20220430144000 +0300" channel="13reshet">
+    <title lang="he">במטבח של מירי - פותחים מסעדה</title>
   </programme>
-  <programme start="20220426003000 +0300" stop="20220426013000 +0300" channel="Arutz20">
-    <title lang="he">ריקילין ושות' עם שמעון ריקלין</title>
+  <programme start="20220430144000 +0300" stop="20220430153000 +0300" channel="13reshet">
+    <title lang="he">המסע המופלא של אהרוני וגידי</title>
   </programme>
-  <programme start="20220426013000 +0300" stop="20220426020000 +0300" channel="Arutz20">
-    <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
+  <programme start="20220430153000 +0300" stop="20220430164000 +0300" channel="13reshet">
+    <title lang="he">אהבה חדשה</title>
   </programme>
-  <programme start="20220426020000 +0300" stop="20220426040000 +0300" channel="Arutz20">
-    <title lang="he">עכשיו ברשת עם יהודה שלזינגר</title>
+  <programme start="20220430164000 +0300" stop="20220430170000 +0300" channel="13reshet">
+    <title lang="he">אהבה חדשה</title>
   </programme>
-  <programme start="20220426040000 +0300" stop="20220426044500 +0300" channel="Arutz20">
-    <title lang="he">הדו''ח של אראל סג''ל</title>
+  <programme start="20220430170000 +0300" stop="20220430170500 +0300" channel="13reshet">
+    <title lang="he">מבזק חדשות</title>
   </programme>
-  <programme start="20220426044500 +0300" stop="20220426053000 +0300" channel="Arutz20">
-    <title lang="he">האולפן הפתוח עם בועז גולן</title>
+  <programme start="20220430170500 +0300" stop="20220430180000 +0300" channel="13reshet">
+    <title lang="he">אהבה חדשה</title>
   </programme>
-  <programme start="20220426053000 +0300" stop="20220426060000 +0300" channel="Arutz20">
-    <title lang="he">עכשיו כנסת עם יערה זרד</title>
+  <programme start="20220430180000 +0300" stop="20220430200000 +0300" channel="13reshet">
+    <title lang="he">המטה המרכזי עם אילה חסון</title>
   </programme>
-  <programme start="20220426060000 +0300" stop="20220426063000 +0300" channel="Arutz20">
-    <title lang="he">מדברים עם עדן הראל</title>
+  <programme start="20220430200000 +0300" stop="20220430213000 +0300" channel="13reshet">
+    <title lang="he">מהדורת השבת עם תמר איש</title>
+  </programme>
+  <programme start="20220430213000 +0300" stop="20220430225000 +0300" channel="13reshet">
+    <title lang="he">אהבה חדשה</title>
+  </programme>
+  <programme start="20220430225000 +0300" stop="20220430232500 +0300" channel="13reshet">
+    <title lang="he">שנות ה - 90</title>
   </programme>
   <programme start="20220426063000 +0300" stop="20220426070000 +0300" channel="Arutz20">
     <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
@@ -2150,134 +1934,35 @@
   <programme start="20220429163000 +0300" stop="20220429203000 +0300" channel="Arutz20">
     <title lang="he">שידורינו יתחדשו במוצאי שבת</title>
   </programme>
-  <programme start="20220425065000 +0300" stop="20220425070000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220429203000 +0300" stop="20220429203000 +0300" channel="Arutz20">
+    <title lang="he">שידורינו יתחדשו במוצאי שבת</title>
   </programme>
-  <programme start="20220425070000 +0300" stop="20220425075000 +0300" channel="shopping">
-    <title lang="he">בשבילי</title>
+  <programme start="20220429203000 +0300" stop="20220430003000 +0300" channel="Arutz20">
+    <title lang="he">שידורינו יתחדשו במוצאי שבת</title>
   </programme>
-  <programme start="20220425075000 +0300" stop="20220425080000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220430003000 +0300" stop="20220430043000 +0300" channel="Arutz20">
+    <title lang="he">שידורינו יתחדשו במוצאי שבת</title>
   </programme>
-  <programme start="20220425080000 +0300" stop="20220425085000 +0300" channel="shopping">
-    <title lang="he">המובחרים</title>
+  <programme start="20220430043000 +0300" stop="20220430083000 +0300" channel="Arutz20">
+    <title lang="he">שידורינו יתחדשו במוצאי שבת</title>
   </programme>
-  <programme start="20220425085000 +0300" stop="20220425090000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220430083000 +0300" stop="20220430123000 +0300" channel="Arutz20">
+    <title lang="he">שידורינו יתחדשו במוצאי שבת</title>
   </programme>
-  <programme start="20220425090000 +0300" stop="20220425095000 +0300" channel="shopping">
-    <title lang="he">חם מהתנור</title>
+  <programme start="20220430123000 +0300" stop="20220430163000 +0300" channel="Arutz20">
+    <title lang="he">שידורינו יתחדשו במוצאי שבת</title>
   </programme>
-  <programme start="20220425095000 +0300" stop="20220425100000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220430163000 +0300" stop="20220430200000 +0300" channel="Arutz20">
+    <title lang="he">שידורינו יתחדשו במוצאי שבת</title>
   </programme>
-  <programme start="20220425100000 +0300" stop="20220425105000 +0300" channel="shopping">
-    <title lang="he">המובחרים</title>
+  <programme start="20220430200000 +0300" stop="20220430213000 +0300" channel="Arutz20">
+    <title lang="he">הערכת מצב עם יערה זרד</title>
   </programme>
-  <programme start="20220425105000 +0300" stop="20220425110000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
+  <programme start="20220430213000 +0300" stop="20220430223000 +0300" channel="Arutz20">
+    <title lang="he">סיכום השבוע</title>
   </programme>
-  <programme start="20220425110000 +0300" stop="20220425115000 +0300" channel="shopping">
-    <title lang="he">חיטובים</title>
-  </programme>
-  <programme start="20220425115000 +0300" stop="20220425120000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220425120000 +0300" stop="20220425125000 +0300" channel="shopping">
-    <title lang="he">המובחרים</title>
-  </programme>
-  <programme start="20220425125000 +0300" stop="20220425130000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220425130000 +0300" stop="20220425135000 +0300" channel="shopping">
-    <title lang="he">הגיע הזמן</title>
-  </programme>
-  <programme start="20220425135000 +0300" stop="20220425140000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220425140000 +0300" stop="20220425145000 +0300" channel="shopping">
-    <title lang="he">המובחרים</title>
-  </programme>
-  <programme start="20220425145000 +0300" stop="20220425150000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220425150000 +0300" stop="20220425155000 +0300" channel="shopping">
-    <title lang="he">חם מהתנור</title>
-  </programme>
-  <programme start="20220425155000 +0300" stop="20220425160000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220425160000 +0300" stop="20220425165000 +0300" channel="shopping">
-    <title lang="he">בשבילי</title>
-  </programme>
-  <programme start="20220425165000 +0300" stop="20220425170000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220425170000 +0300" stop="20220425180000 +0300" channel="shopping">
-    <title lang="he">חדשות הקניות</title>
-  </programme>
-  <programme start="20220425180000 +0300" stop="20220425190000 +0300" channel="shopping">
-    <title lang="he">המובחרים</title>
-  </programme>
-  <programme start="20220425190000 +0300" stop="20220425195000 +0300" channel="shopping">
-    <title lang="he">המובחרים</title>
-  </programme>
-  <programme start="20220425195000 +0300" stop="20220425200000 +0300" channel="shopping">
-    <title lang="he">המכרז הבטוח עם גדעון רייכר</title>
-  </programme>
-  <programme start="20220425200000 +0300" stop="20220425210000 +0300" channel="shopping">
-    <title lang="he">מוצר היום ומבצעים נוספים</title>
-  </programme>
-  <programme start="20220425210000 +0300" stop="20220425232000 +0300" channel="shopping">
-    <title lang="he">המכרז הבטוח ומבצעים נוספים</title>
-  </programme>
-  <programme start="20220425232000 +0300" stop="20220425233000 +0300" channel="shopping">
-    <title lang="he">המכרז הבטוח</title>
-  </programme>
-  <programme start="20220425233000 +0300" stop="20220425235000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220425235000 +0300" stop="20220426000000 +0300" channel="shopping">
-    <title lang="he">מוצר היום של מחר</title>
-  </programme>
-  <programme start="20220426000000 +0300" stop="20220426005000 +0300" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220426005000 +0300" stop="20220426010000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220426010000 +0300" stop="20220426015000 +0300" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220426015000 +0300" stop="20220426020000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220426020000 +0300" stop="20220426025000 +0300" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220426025000 +0300" stop="20220426030000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220426030000 +0300" stop="20220426035000 +0300" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220426035000 +0300" stop="20220426040000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220426040000 +0300" stop="20220426045000 +0300" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220426045000 +0300" stop="20220426050000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220426050000 +0300" stop="20220426055000 +0300" channel="shopping">
-    <title lang="he">TV שופ אמריקה</title>
-  </programme>
-  <programme start="20220426055000 +0300" stop="20220426060000 +0300" channel="shopping">
-    <title lang="he">מוצר היום</title>
-  </programme>
-  <programme start="20220426060000 +0300" stop="20220426065000 +0300" channel="shopping">
-    <title lang="he">חיטובים</title>
+  <programme start="20220430223000 +0300" stop="20220430233000 +0300" channel="Arutz20">
+    <title lang="he">לקט פטריוטים</title>
   </programme>
   <programme start="20220426065000 +0300" stop="20220426070000 +0300" channel="shopping">
     <title lang="he">מוצר היום</title>
@@ -2636,197 +2321,131 @@
   <programme start="20220429210000 +0300" stop="20220429220000 +0300" channel="shopping">
     <title lang="he">מוצר היום ומבצעים נוספים</title>
   </programme>
-  <programme start="20220425062400 +0300" stop="20220425064000 +0300" channel="can hinuhit">
-    <title lang="he">בחצר של פופיק 2</title>
+  <programme start="20220429220000 +0300" stop="20220429220000 +0300" channel="shopping">
+    <title lang="he">המכרז הבטוח ומבצעים נוספים</title>
   </programme>
-  <programme start="20220425064000 +0300" stop="20220425065700 +0300" channel="can hinuhit">
-    <title lang="he">צמר ויעלי</title>
+  <programme start="20220429220000 +0300" stop="20220430010000 +0300" channel="shopping">
+    <title lang="he">המכרז הבטוח ומבצעים נוספים</title>
   </programme>
-  <programme start="20220425065700 +0300" stop="20220425071400 +0300" channel="can hinuhit">
-    <title lang="he">אפצ'י וסיפור</title>
+  <programme start="20220430010000 +0300" stop="20220430015000 +0300" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220425071400 +0300" stop="20220425073000 +0300" channel="can hinuhit">
-    <title lang="he">דן ומוזלי</title>
+  <programme start="20220430015000 +0300" stop="20220430020000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425073000 +0300" stop="20220425075200 +0300" channel="can hinuhit">
-    <title lang="he">פרפר נחמד</title>
+  <programme start="20220430020000 +0300" stop="20220430025000 +0300" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220425075200 +0300" stop="20220425080800 +0300" channel="can hinuhit">
-    <title lang="he">להציל את חיות הבר 2</title>
+  <programme start="20220430025000 +0300" stop="20220430030000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425080800 +0300" stop="20220425083300 +0300" channel="can hinuhit">
-    <title lang="he">חדש! שקשוקה עונה 2</title>
+  <programme start="20220430030000 +0300" stop="20220430035000 +0300" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220425083300 +0300" stop="20220425085800 +0300" channel="can hinuhit">
-    <title lang="he">לבד בבית</title>
+  <programme start="20220430035000 +0300" stop="20220430040000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425085800 +0300" stop="20220425092200 +0300" channel="can hinuhit">
-    <title lang="he">סיידי ספארקס</title>
+  <programme start="20220430040000 +0300" stop="20220430045000 +0300" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220425092200 +0300" stop="20220425094500 +0300" channel="can hinuhit">
-    <title lang="he">המופלאה: הרפתקאות ליידי באג 2</title>
+  <programme start="20220430045000 +0300" stop="20220430050000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425094500 +0300" stop="20220425100200 +0300" channel="can hinuhit">
-    <title lang="he">עיר המספרים 2</title>
+  <programme start="20220430050000 +0300" stop="20220430055000 +0300" channel="shopping">
+    <title lang="he">TV שופ אמריקה</title>
   </programme>
-  <programme start="20220425100200 +0300" stop="20220425102500 +0300" channel="can hinuhit">
-    <title lang="he">פרפר נחמד</title>
+  <programme start="20220430055000 +0300" stop="20220430060000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425102500 +0300" stop="20220425104200 +0300" channel="can hinuhit">
-    <title lang="he">קפה עמליה</title>
+  <programme start="20220430060000 +0300" stop="20220430065000 +0300" channel="shopping">
+    <title lang="he">חיטובים</title>
   </programme>
-  <programme start="20220425104200 +0300" stop="20220425110000 +0300" channel="can hinuhit">
-    <title lang="he">אולי פיל</title>
+  <programme start="20220430065000 +0300" stop="20220430070000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425110000 +0300" stop="20220425111700 +0300" channel="can hinuhit">
-    <title lang="he">ילדי בית העץ 5</title>
+  <programme start="20220430070000 +0300" stop="20220430075000 +0300" channel="shopping">
+    <title lang="he">בשבילי</title>
   </programme>
-  <programme start="20220425111700 +0300" stop="20220425113500 +0300" channel="can hinuhit">
-    <title lang="he">חיות שטח</title>
+  <programme start="20220430075000 +0300" stop="20220430080000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425113500 +0300" stop="20220425120000 +0300" channel="can hinuhit">
-    <title lang="he">החפרנים</title>
+  <programme start="20220430080000 +0300" stop="20220430085000 +0300" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220425120000 +0300" stop="20220425122500 +0300" channel="can hinuhit">
-    <title lang="he">חדש! שקשוקה עונה 2</title>
+  <programme start="20220430085000 +0300" stop="20220430090000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425122500 +0300" stop="20220425124300 +0300" channel="can hinuhit">
-    <title lang="he">והילד הזה הוא אני 2</title>
+  <programme start="20220430090000 +0300" stop="20220430095000 +0300" channel="shopping">
+    <title lang="he">חם מהתנור</title>
   </programme>
-  <programme start="20220425124300 +0300" stop="20220425130800 +0300" channel="can hinuhit">
-    <title lang="he">פרפר נחמד</title>
+  <programme start="20220430095000 +0300" stop="20220430100000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425130800 +0300" stop="20220425132500 +0300" channel="can hinuhit">
-    <title lang="he">להציל את חיות הבר 2</title>
+  <programme start="20220430100000 +0300" stop="20220430105000 +0300" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220425132500 +0300" stop="20220425134300 +0300" channel="can hinuhit">
-    <title lang="he">ילדי בית העץ 5</title>
+  <programme start="20220430105000 +0300" stop="20220430110000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425134300 +0300" stop="20220425141000 +0300" channel="can hinuhit">
-    <title lang="he">בלוגה בלוז</title>
+  <programme start="20220430110000 +0300" stop="20220430115000 +0300" channel="shopping">
+    <title lang="he">חיטובים</title>
   </programme>
-  <programme start="20220425141000 +0300" stop="20220425143700 +0300" channel="can hinuhit">
-    <title lang="he">האחיין שלי בנץ</title>
+  <programme start="20220430115000 +0300" stop="20220430120000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425143700 +0300" stop="20220425150200 +0300" channel="can hinuhit">
-    <title lang="he">לבד בבית</title>
+  <programme start="20220430120000 +0300" stop="20220430125000 +0300" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220425150200 +0300" stop="20220425153200 +0300" channel="can hinuhit">
-    <title lang="he">כראמל</title>
+  <programme start="20220430125000 +0300" stop="20220430130000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425153200 +0300" stop="20220425155700 +0300" channel="can hinuhit">
-    <title lang="he">חדש! שקשוקה עונה 2</title>
+  <programme start="20220430130000 +0300" stop="20220430135000 +0300" channel="shopping">
+    <title lang="he">הגיע הזמן</title>
   </programme>
-  <programme start="20220425155700 +0300" stop="20220425161600 +0300" channel="can hinuhit">
-    <title lang="he">ילדי בית העץ 5</title>
+  <programme start="20220430135000 +0300" stop="20220430140000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425161600 +0300" stop="20220425163300 +0300" channel="can hinuhit">
-    <title lang="he">חיות שטח</title>
+  <programme start="20220430140000 +0300" stop="20220430145000 +0300" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220425163300 +0300" stop="20220425170000 +0300" channel="can hinuhit">
-    <title lang="he">שוסטר ושוסטר</title>
+  <programme start="20220430145000 +0300" stop="20220430150000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425170000 +0300" stop="20220425173700 +0300" channel="can hinuhit">
-    <title lang="he">חדש! כל עוד בלבב</title>
+  <programme start="20220430150000 +0300" stop="20220430155000 +0300" channel="shopping">
+    <title lang="he">חם מהתנור</title>
   </programme>
-  <programme start="20220425173700 +0300" stop="20220425180300 +0300" channel="can hinuhit">
-    <title lang="he">הבאר</title>
+  <programme start="20220430155000 +0300" stop="20220430160000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425180300 +0300" stop="20220425183000 +0300" channel="can hinuhit">
-    <title lang="he">האחיין שלי בנץ</title>
+  <programme start="20220430160000 +0300" stop="20220430165000 +0300" channel="shopping">
+    <title lang="he">בשבילי</title>
   </programme>
-  <programme start="20220425183000 +0300" stop="20220425185700 +0300" channel="can hinuhit">
-    <title lang="he">כראמל</title>
+  <programme start="20220430165000 +0300" stop="20220430170000 +0300" channel="shopping">
+    <title lang="he">מוצר היום</title>
   </programme>
-  <programme start="20220425185700 +0300" stop="20220425192500 +0300" channel="can hinuhit">
-    <title lang="he">בלוגה בלוז</title>
+  <programme start="20220430170000 +0300" stop="20220430180000 +0300" channel="shopping">
+    <title lang="he">חדשות הקניות</title>
   </programme>
-  <programme start="20220425192500 +0300" stop="20220425195500 +0300" channel="can hinuhit">
-    <title lang="he">עמוק במים</title>
+  <programme start="20220430180000 +0300" stop="20220430190000 +0300" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220425195500 +0300" stop="20220425202300 +0300" channel="can hinuhit">
-    <title lang="he">הבאר</title>
+  <programme start="20220430190000 +0300" stop="20220430195000 +0300" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
-  <programme start="20220425202300 +0300" stop="20220425204800 +0300" channel="can hinuhit">
-    <title lang="he">החפרנים</title>
+  <programme start="20220430195000 +0300" stop="20220430200000 +0300" channel="shopping">
+    <title lang="he">המכרז הבטוח עם גדעון רייכר</title>
   </programme>
-  <programme start="20220425204800 +0300" stop="20220425211000 +0300" channel="can hinuhit">
-    <title lang="he">מקס המדען</title>
+  <programme start="20220430200000 +0300" stop="20220430210000 +0300" channel="shopping">
+    <title lang="he">מוצר היום ומבצעים נוספים</title>
   </programme>
-  <programme start="20220425211000 +0300" stop="20220425213700 +0300" channel="can hinuhit">
-    <title lang="he">גלילאו 10</title>
+  <programme start="20220430210000 +0300" stop="20220430232000 +0300" channel="shopping">
+    <title lang="he">המכרז הבטוח ומבצעים נוספים</title>
   </programme>
-  <programme start="20220425213700 +0300" stop="20220425220500 +0300" channel="can hinuhit">
-    <title lang="he">האחיין שלי בנץ</title>
+  <programme start="20220430232000 +0300" stop="20220430233000 +0300" channel="shopping">
+    <title lang="he">המכרז הבטוח</title>
   </programme>
-  <programme start="20220425220500 +0300" stop="20220425222200 +0300" channel="can hinuhit">
-    <title lang="he">והילד הזה הוא אני 2</title>
-  </programme>
-  <programme start="20220425222200 +0300" stop="20220425225000 +0300" channel="can hinuhit">
-    <title lang="he">כראמל</title>
-  </programme>
-  <programme start="20220425225000 +0300" stop="20220425231700 +0300" channel="can hinuhit">
-    <title lang="he">בלוגה בלוז</title>
-  </programme>
-  <programme start="20220425231700 +0300" stop="20220425234700 +0300" channel="can hinuhit">
-    <title lang="he">עמוק במים</title>
-  </programme>
-  <programme start="20220425234700 +0300" stop="20220425234700 +0300" channel="can hinuhit">
-    <title lang="he">הבאר</title>
-  </programme>
-  <programme start="20220425234700 +0300" stop="20220426001500 +0300" channel="can hinuhit">
-    <title lang="he">הבאר</title>
-  </programme>
-  <programme start="20220426001500 +0300" stop="20220426004200 +0300" channel="can hinuhit">
-    <title lang="he">כראמל</title>
-  </programme>
-  <programme start="20220426004200 +0300" stop="20220426010000 +0300" channel="can hinuhit">
-    <title lang="he">והילד הזה הוא אני 2</title>
-  </programme>
-  <programme start="20220426010000 +0300" stop="20220426012500 +0300" channel="can hinuhit">
-    <title lang="he">האחיין שלי בנץ</title>
-  </programme>
-  <programme start="20220426012500 +0300" stop="20220426015200 +0300" channel="can hinuhit">
-    <title lang="he">בלוגה בלוז</title>
-  </programme>
-  <programme start="20220426015200 +0300" stop="20220426022000 +0300" channel="can hinuhit">
-    <title lang="he">גלילאו 10</title>
-  </programme>
-  <programme start="20220426022000 +0300" stop="20220426024300 +0300" channel="can hinuhit">
-    <title lang="he">לבד בבית</title>
-  </programme>
-  <programme start="20220426024300 +0300" stop="20220426031000 +0300" channel="can hinuhit">
-    <title lang="he">הבאר</title>
-  </programme>
-  <programme start="20220426031000 +0300" stop="20220426033500 +0300" channel="can hinuhit">
-    <title lang="he">מי פה הבוס?</title>
-  </programme>
-  <programme start="20220426033500 +0300" stop="20220426040500 +0300" channel="can hinuhit">
-    <title lang="he">עמוק במים</title>
-  </programme>
-  <programme start="20220426040500 +0300" stop="20220426043200 +0300" channel="can hinuhit">
-    <title lang="he">האחיין שלי בנץ</title>
-  </programme>
-  <programme start="20220426043200 +0300" stop="20220426045300 +0300" channel="can hinuhit">
-    <title lang="he">מקס המדען 3</title>
-  </programme>
-  <programme start="20220426045300 +0300" stop="20220426051000 +0300" channel="can hinuhit">
-    <title lang="he">שרגא בישגדא</title>
-  </programme>
-  <programme start="20220426051000 +0300" stop="20220426051700 +0300" channel="can hinuhit">
-    <title lang="he">העיפרון הכי מחודד</title>
-  </programme>
-  <programme start="20220426051700 +0300" stop="20220426053400 +0300" channel="can hinuhit">
-    <title lang="he">עיר המספרים</title>
-  </programme>
-  <programme start="20220426053400 +0300" stop="20220426054700 +0300" channel="can hinuhit">
-    <title lang="he">הפלנטונים</title>
-  </programme>
-  <programme start="20220426054700 +0300" stop="20220426060000 +0300" channel="can hinuhit">
-    <title lang="he">ג'ייגנטו והדינוזאורים</title>
-  </programme>
-  <programme start="20220426060000 +0300" stop="20220426062200 +0300" channel="can hinuhit">
-    <title lang="he">פרפר נחמד</title>
+  <programme start="20220430233000 +0300" stop="20220430235000 +0300" channel="shopping">
+    <title lang="he">המובחרים</title>
   </programme>
   <programme start="20220426062200 +0300" stop="20220426063800 +0300" channel="can hinuhit">
     <title lang="he">בחצר של פופיק 2</title>
@@ -3518,175 +3137,283 @@
   <programme start="20220429231500 +0300" stop="20220429234200 +0300" channel="can hinuhit">
     <title lang="he">רק בהצבעה</title>
   </programme>
-  <programme start="20220425080000 +0300" stop="20220425093000 +0300" channel="24">
-    <title lang="he">שירי אביב</title>
+  <programme start="20220429234200 +0300" stop="20220429234200 +0300" channel="can hinuhit">
+    <title lang="he">רק בהצבעה</title>
   </programme>
-  <programme start="20220425093000 +0300" stop="20220425101200 +0300" channel="24">
-    <title lang="he">חדש ב</title>
+  <programme start="20220429234200 +0300" stop="20220430000800 +0300" channel="can hinuhit">
+    <title lang="he">רק בהצבעה</title>
   </programme>
-  <programme start="20220425101200 +0300" stop="20220425105000 +0300" channel="24">
-    <title lang="he">רמת אביב ג'</title>
+  <programme start="20220430000800 +0300" stop="20220430003200 +0300" channel="can hinuhit">
+    <title lang="he">עשרים פלוס 2</title>
   </programme>
-  <programme start="20220425105000 +0300" stop="20220425112600 +0300" channel="24">
-    <title lang="he">אהבה מעבר לפינה</title>
+  <programme start="20220430003200 +0300" stop="20220430010500 +0300" channel="can hinuhit">
+    <title lang="he">ראש כרוב</title>
   </programme>
-  <programme start="20220425112600 +0300" stop="20220425120400 +0300" channel="24">
-    <title lang="he">סיטי טאוור</title>
+  <programme start="20220430010500 +0300" stop="20220430012500 +0300" channel="can hinuhit">
+    <title lang="he">שניים אוחזין</title>
   </programme>
-  <programme start="20220425120400 +0300" stop="20220425123500 +0300" channel="24">
-    <title lang="he">החיים זה לא הכל 3</title>
+  <programme start="20220430012500 +0300" stop="20220430014500 +0300" channel="can hinuhit">
+    <title lang="he">Here We Are</title>
   </programme>
-  <programme start="20220425123500 +0300" stop="20220425130000 +0300" channel="24">
-    <title lang="he">ייסורי אפרים - דובל'ה גליקמן</title>
+  <programme start="20220430014500 +0300" stop="20220430021200 +0300" channel="can hinuhit">
+    <title lang="he">ארץ מולדת</title>
   </programme>
-  <programme start="20220425130000 +0300" stop="20220425132800 +0300" channel="24">
-    <title lang="he">מה יש לאכול</title>
+  <programme start="20220430021200 +0300" stop="20220430023300 +0300" channel="can hinuhit">
+    <title lang="he">חשבון פשוט</title>
   </programme>
-  <programme start="20220425132800 +0300" stop="20220425141900 +0300" channel="24">
-    <title lang="he">פבלו, אוכל וחברים 2</title>
+  <programme start="20220430023300 +0300" stop="20220430025800 +0300" channel="can hinuhit">
+    <title lang="he">הופה היי</title>
   </programme>
-  <programme start="20220425141900 +0300" stop="20220425150100 +0300" channel="24">
-    <title lang="he">זמר חתונות</title>
+  <programme start="20220430025800 +0300" stop="20220430032800 +0300" channel="can hinuhit">
+    <title lang="he">קריאת כיוון</title>
   </programme>
-  <programme start="20220425150100 +0300" stop="20220425164300 +0300" channel="24">
-    <title lang="he">מתוקים</title>
+  <programme start="20220430032800 +0300" stop="20220430035500 +0300" channel="can hinuhit">
+    <title lang="he">ציפיטפוט</title>
   </programme>
-  <programme start="20220425164300 +0300" stop="20220425174000 +0300" channel="24">
-    <title lang="he">ארץ נהדרת 7</title>
+  <programme start="20220430035500 +0300" stop="20220430042200 +0300" channel="can hinuhit">
+    <title lang="he">רגע עם דודלי</title>
   </programme>
-  <programme start="20220425174000 +0300" stop="20220425181800 +0300" channel="24">
-    <title lang="he">נשות הטייסים</title>
+  <programme start="20220430042200 +0300" stop="20220430045300 +0300" channel="can hinuhit">
+    <title lang="he">מה פתאום</title>
   </programme>
-  <programme start="20220425181800 +0300" stop="20220425190000 +0300" channel="24">
-    <title lang="he">סיטי טאוור</title>
+  <programme start="20220430045300 +0300" stop="20220430050700 +0300" channel="can hinuhit">
+    <title lang="he">שרגא בישגדא</title>
   </programme>
-  <programme start="20220425190000 +0300" stop="20220425194000 +0300" channel="24">
-    <title lang="he">אהבה מעבר לפינה</title>
+  <programme start="20220430050700 +0300" stop="20220430051600 +0300" channel="can hinuhit">
+    <title lang="he">העיפרון הכי מחודד</title>
   </programme>
-  <programme start="20220425194000 +0300" stop="20220425201500 +0300" channel="24">
-    <title lang="he">רמת אביב ג'</title>
+  <programme start="20220430051600 +0300" stop="20220430053300 +0300" channel="can hinuhit">
+    <title lang="he">עיר המספרים 2</title>
   </programme>
-  <programme start="20220425201500 +0300" stop="20220425204300 +0300" channel="24">
-    <title lang="he">החיים זה לא הכל 3</title>
+  <programme start="20220430053300 +0300" stop="20220430054700 +0300" channel="can hinuhit">
+    <title lang="he">הפלנטונים</title>
   </programme>
-  <programme start="20220425204300 +0300" stop="20220425213800 +0300" channel="24">
-    <title lang="he">החיים זה לא הכל 3</title>
+  <programme start="20220430054700 +0300" stop="20220430060000 +0300" channel="can hinuhit">
+    <title lang="he">ג'ייגנטו והדינוזאורים</title>
   </programme>
-  <programme start="20220425213800 +0300" stop="20220425220300 +0300" channel="24">
-    <title lang="he">עבודה ערבית 4</title>
+  <programme start="20220430060000 +0300" stop="20220430062700 +0300" channel="can hinuhit">
+    <title lang="he">פרפר נחמד</title>
   </programme>
-  <programme start="20220425220300 +0300" stop="20220425233800 +0300" channel="24">
-    <title lang="he">בלתי נשכחים 2</title>
+  <programme start="20220430062700 +0300" stop="20220430064300 +0300" channel="can hinuhit">
+    <title lang="he">בחצר של פופיק 5</title>
   </programme>
-  <programme start="20220425233800 +0300" stop="20220425233800 +0300" channel="24">
-    <title lang="he">סיטי טאוור</title>
+  <programme start="20220430064300 +0300" stop="20220430070500 +0300" channel="can hinuhit">
+    <title lang="he">פרפר נחמד</title>
   </programme>
-  <programme start="20220425233800 +0300" stop="20220426001400 +0300" channel="24">
-    <title lang="he">סיטי טאוור</title>
+  <programme start="20220430070500 +0300" stop="20220430072200 +0300" channel="can hinuhit">
+    <title lang="he">אולי פיל</title>
   </programme>
-  <programme start="20220426001400 +0300" stop="20220426004900 +0300" channel="24">
-    <title lang="he">אהבה מעבר לפינה</title>
+  <programme start="20220430072200 +0300" stop="20220430074000 +0300" channel="can hinuhit">
+    <title lang="he">ילדי בית העץ 4</title>
   </programme>
-  <programme start="20220426004900 +0300" stop="20220426012400 +0300" channel="24">
-    <title lang="he">נשות הטייסים</title>
+  <programme start="20220430074000 +0300" stop="20220430075800 +0300" channel="can hinuhit">
+    <title lang="he">ילדי בית העץ 4</title>
   </programme>
-  <programme start="20220426012400 +0300" stop="20220426023000 +0300" channel="24">
-    <title lang="he">מזרח תיכון חדש</title>
+  <programme start="20220430075800 +0300" stop="20220430082300 +0300" channel="can hinuhit">
+    <title lang="he">חדש! שקשוקה עונה 2</title>
   </programme>
-  <programme start="20220426023000 +0300" stop="20220426043000 +0300" channel="24">
-    <title lang="he">טיסת לילה</title>
+  <programme start="20220430082300 +0300" stop="20220430085000 +0300" channel="can hinuhit">
+    <title lang="he">חדש! שקשוקה עונה 2</title>
   </programme>
-  <programme start="20220426043000 +0300" stop="20220426050000 +0300" channel="24">
-    <title lang="he">מיקס ישראלי</title>
+  <programme start="20220430085000 +0300" stop="20220430091300 +0300" channel="can hinuhit">
+    <title lang="he">פרפר נחמד</title>
   </programme>
-  <programme start="20220426050000 +0300" stop="20220426053000 +0300" channel="24">
-    <title lang="he">מיקס ישראלי</title>
+  <programme start="20220430091300 +0300" stop="20220430093800 +0300" channel="can hinuhit">
+    <title lang="he">חדש! לאמה לימה עונה 2</title>
   </programme>
-  <programme start="20220426053000 +0300" stop="20220426060000 +0300" channel="24">
-    <title lang="he">מיקס ישראלי</title>
+  <programme start="20220430093800 +0300" stop="20220430095300 +0300" channel="can hinuhit">
+    <title lang="he">עיר המספרים</title>
   </programme>
-  <programme start="20220426060000 +0300" stop="20220426080000 +0300" channel="24">
-    <title lang="he">בוקר ישראלי</title>
+  <programme start="20220430095300 +0300" stop="20220430100500 +0300" channel="can hinuhit">
+    <title lang="he">ג'ייגנטו והדינוזאורים</title>
+  </programme>
+  <programme start="20220430100500 +0300" stop="20220430102300 +0300" channel="can hinuhit">
+    <title lang="he">קפה עמליה</title>
+  </programme>
+  <programme start="20220430102300 +0300" stop="20220430104000 +0300" channel="can hinuhit">
+    <title lang="he">דן ומוזלי</title>
+  </programme>
+  <programme start="20220430104000 +0300" stop="20220430105700 +0300" channel="can hinuhit">
+    <title lang="he">והילד הזה הוא אני 2</title>
+  </programme>
+  <programme start="20220430105700 +0300" stop="20220430111300 +0300" channel="can hinuhit">
+    <title lang="he">למה זה טוב?</title>
+  </programme>
+  <programme start="20220430111300 +0300" stop="20220430113000 +0300" channel="can hinuhit">
+    <title lang="he">השמרטפים</title>
+  </programme>
+  <programme start="20220430113000 +0300" stop="20220430115700 +0300" channel="can hinuhit">
+    <title lang="he">כראמל</title>
+  </programme>
+  <programme start="20220430115700 +0300" stop="20220430122600 +0300" channel="can hinuhit">
+    <title lang="he">כראמל</title>
+  </programme>
+  <programme start="20220430122600 +0300" stop="20220430124300 +0300" channel="can hinuhit">
+    <title lang="he">ילדי בית העץ 4</title>
+  </programme>
+  <programme start="20220430124300 +0300" stop="20220430130200 +0300" channel="can hinuhit">
+    <title lang="he">ילדי בית העץ 4</title>
+  </programme>
+  <programme start="20220430130200 +0300" stop="20220430132400 +0300" channel="can hinuhit">
+    <title lang="he">לבד בבית</title>
+  </programme>
+  <programme start="20220430132400 +0300" stop="20220430134800 +0300" channel="can hinuhit">
+    <title lang="he">לבד בבית</title>
+  </programme>
+  <programme start="20220430134800 +0300" stop="20220430141600 +0300" channel="can hinuhit">
+    <title lang="he">כראמל</title>
+  </programme>
+  <programme start="20220430141600 +0300" stop="20220430144500 +0300" channel="can hinuhit">
+    <title lang="he">כראמל</title>
+  </programme>
+  <programme start="20220430144500 +0300" stop="20220430150300 +0300" channel="can hinuhit">
+    <title lang="he">ילדי בית העץ 4</title>
+  </programme>
+  <programme start="20220430150300 +0300" stop="20220430152000 +0300" channel="can hinuhit">
+    <title lang="he">למה זה טוב?</title>
+  </programme>
+  <programme start="20220430152000 +0300" stop="20220430153700 +0300" channel="can hinuhit">
+    <title lang="he">והילד הזה הוא אני 2</title>
+  </programme>
+  <programme start="20220430153700 +0300" stop="20220430155500 +0300" channel="can hinuhit">
+    <title lang="he">השמרטפים</title>
+  </programme>
+  <programme start="20220430155500 +0300" stop="20220430162000 +0300" channel="can hinuhit">
+    <title lang="he">חדש! שקשוקה עונה 2</title>
+  </programme>
+  <programme start="20220430162000 +0300" stop="20220430164700 +0300" channel="can hinuhit">
+    <title lang="he">חדש! שקשוקה עונה 2</title>
+  </programme>
+  <programme start="20220430164700 +0300" stop="20220430171500 +0300" channel="can hinuhit">
+    <title lang="he">כראמל</title>
+  </programme>
+  <programme start="20220430171500 +0300" stop="20220430174300 +0300" channel="can hinuhit">
+    <title lang="he">כראמל</title>
+  </programme>
+  <programme start="20220430174300 +0300" stop="20220430181000 +0300" channel="can hinuhit">
+    <title lang="he">בלוגה בלוז</title>
+  </programme>
+  <programme start="20220430181000 +0300" stop="20220430183500 +0300" channel="can hinuhit">
+    <title lang="he">מי פה הבוס?</title>
+  </programme>
+  <programme start="20220430183500 +0300" stop="20220430190000 +0300" channel="can hinuhit">
+    <title lang="he">הבאר</title>
+  </programme>
+  <programme start="20220430190000 +0300" stop="20220430192700 +0300" channel="can hinuhit">
+    <title lang="he">הבאר</title>
+  </programme>
+  <programme start="20220430192700 +0300" stop="20220430195200 +0300" channel="can hinuhit">
+    <title lang="he">האחיין שלי בנץ</title>
+  </programme>
+  <programme start="20220430195200 +0300" stop="20220430201000 +0300" channel="can hinuhit">
+    <title lang="he">האולפן שלי בנץ</title>
+  </programme>
+  <programme start="20220430201000 +0300" stop="20220430202700 +0300" channel="can hinuhit">
+    <title lang="he">סליחה על השאלה ילדים 3</title>
+  </programme>
+  <programme start="20220430202700 +0300" stop="20220430205500 +0300" channel="can hinuhit">
+    <title lang="he">גלילאו 10</title>
+  </programme>
+  <programme start="20220430205500 +0300" stop="20220430211700 +0300" channel="can hinuhit">
+    <title lang="he">לבד בבית</title>
+  </programme>
+  <programme start="20220430211700 +0300" stop="20220430214200 +0300" channel="can hinuhit">
+    <title lang="he">לבד בבית</title>
+  </programme>
+  <programme start="20220430214200 +0300" stop="20220430220700 +0300" channel="can hinuhit">
+    <title lang="he">הבאר</title>
+  </programme>
+  <programme start="20220430220700 +0300" stop="20220430223500 +0300" channel="can hinuhit">
+    <title lang="he">הבאר</title>
+  </programme>
+  <programme start="20220430223500 +0300" stop="20220430230000 +0300" channel="can hinuhit">
+    <title lang="he">האחיין שלי בנץ</title>
+  </programme>
+  <programme start="20220430230000 +0300" stop="20220430231700 +0300" channel="can hinuhit">
+    <title lang="he">האולפן שלי בנץ</title>
+  </programme>
+  <programme start="20220430231700 +0300" stop="20220430234200 +0300" channel="can hinuhit">
+    <title lang="he">רק בהצבעה</title>
   </programme>
   <programme start="20220426080000 +0300" stop="20220426093000 +0300" channel="24">
     <title lang="he">שירי אביב</title>
   </programme>
-  <programme start="20220426093000 +0300" stop="20220426101200 +0300" channel="24">
+  <programme start="20220426093000 +0300" stop="20220426100700 +0300" channel="24">
     <title lang="he">מזרח תיכון חדש</title>
   </programme>
-  <programme start="20220426101200 +0300" stop="20220426104700 +0300" channel="24">
+  <programme start="20220426100700 +0300" stop="20220426104700 +0300" channel="24">
     <title lang="he">רמת אביב ג'</title>
   </programme>
   <programme start="20220426104700 +0300" stop="20220426112200 +0300" channel="24">
     <title lang="he">אהבה מעבר לפינה</title>
   </programme>
-  <programme start="20220426112200 +0300" stop="20220426120200 +0300" channel="24">
+  <programme start="20220426112200 +0300" stop="20220426120000 +0300" channel="24">
     <title lang="he">סיטי טאוור</title>
   </programme>
-  <programme start="20220426120200 +0300" stop="20220426123000 +0300" channel="24">
+  <programme start="20220426120000 +0300" stop="20220426123000 +0300" channel="24">
     <title lang="he">החיים זה לא הכל 3</title>
   </programme>
   <programme start="20220426123000 +0300" stop="20220426130000 +0300" channel="24">
     <title lang="he">ייסורי אפרים - דובל'ה גליקמן</title>
   </programme>
-  <programme start="20220426130000 +0300" stop="20220426133000 +0300" channel="24">
+  <programme start="20220426130000 +0300" stop="20220426132600 +0300" channel="24">
     <title lang="he">מתכון מנצח</title>
   </programme>
-  <programme start="20220426133000 +0300" stop="20220426142000 +0300" channel="24">
+  <programme start="20220426132600 +0300" stop="20220426141700 +0300" channel="24">
     <title lang="he">פבלו, אוכל וחברים 2</title>
   </programme>
-  <programme start="20220426142000 +0300" stop="20220426150500 +0300" channel="24">
+  <programme start="20220426141700 +0300" stop="20220426150300 +0300" channel="24">
     <title lang="he">זמר חתונות</title>
   </programme>
-  <programme start="20220426150500 +0300" stop="20220426164700 +0300" channel="24">
+  <programme start="20220426150300 +0300" stop="20220426163600 +0300" channel="24">
     <title lang="he">מתוקים</title>
   </programme>
-  <programme start="20220426164700 +0300" stop="20220426174500 +0300" channel="24">
+  <programme start="20220426163600 +0300" stop="20220426174000 +0300" channel="24">
     <title lang="he">ארץ נהדרת 7</title>
   </programme>
-  <programme start="20220426174500 +0300" stop="20220426182000 +0300" channel="24">
+  <programme start="20220426174000 +0300" stop="20220426181800 +0300" channel="24">
     <title lang="he">נשות הטייסים</title>
   </programme>
-  <programme start="20220426182000 +0300" stop="20220426190000 +0300" channel="24">
+  <programme start="20220426181800 +0300" stop="20220426190000 +0300" channel="24">
     <title lang="he">סיטי טאוור</title>
   </programme>
-  <programme start="20220426190000 +0300" stop="20220426194000 +0300" channel="24">
+  <programme start="20220426190000 +0300" stop="20220426193800 +0300" channel="24">
     <title lang="he">אהבה מעבר לפינה</title>
   </programme>
-  <programme start="20220426194000 +0300" stop="20220426201500 +0300" channel="24">
+  <programme start="20220426193800 +0300" stop="20220426201700 +0300" channel="24">
     <title lang="he">רמת אביב ג'</title>
   </programme>
-  <programme start="20220426201500 +0300" stop="20220426204300 +0300" channel="24">
+  <programme start="20220426201700 +0300" stop="20220426204500 +0300" channel="24">
     <title lang="he">החיים זה לא הכל 4</title>
   </programme>
-  <programme start="20220426204300 +0300" stop="20220426211100 +0300" channel="24">
+  <programme start="20220426204500 +0300" stop="20220426211600 +0300" channel="24">
     <title lang="he">החיים זה לא הכל 4</title>
   </programme>
-  <programme start="20220426211100 +0300" stop="20220426213700 +0300" channel="24">
+  <programme start="20220426211600 +0300" stop="20220426214500 +0300" channel="24">
     <title lang="he">איצ'ה</title>
   </programme>
-  <programme start="20220426213700 +0300" stop="20220426220200 +0300" channel="24">
+  <programme start="20220426214500 +0300" stop="20220426221000 +0300" channel="24">
     <title lang="he">עבודה ערבית 4</title>
   </programme>
-  <programme start="20220426220200 +0300" stop="20220426234200 +0300" channel="24">
+  <programme start="20220426221000 +0300" stop="20220426234500 +0300" channel="24">
     <title lang="he">האיש האחרון</title>
   </programme>
-  <programme start="20220426234200 +0300" stop="20220426234200 +0300" channel="24">
+  <programme start="20220426234500 +0300" stop="20220426234500 +0300" channel="24">
     <title lang="he">סיטי טאוור</title>
   </programme>
-  <programme start="20220426234200 +0300" stop="20220427002000 +0300" channel="24">
+  <programme start="20220426234500 +0300" stop="20220427002300 +0300" channel="24">
     <title lang="he">סיטי טאוור</title>
   </programme>
-  <programme start="20220427002000 +0300" stop="20220427005000 +0300" channel="24">
+  <programme start="20220427002300 +0300" stop="20220427004900 +0300" channel="24">
     <title lang="he">חדש! ביוטי בלנדר</title>
   </programme>
-  <programme start="20220427005000 +0300" stop="20220427012500 +0300" channel="24">
+  <programme start="20220427004900 +0300" stop="20220427012200 +0300" channel="24">
     <title lang="he">אהבה מעבר לפינה</title>
   </programme>
-  <programme start="20220427012500 +0300" stop="20220427020000 +0300" channel="24">
+  <programme start="20220427012200 +0300" stop="20220427015700 +0300" channel="24">
     <title lang="he">נשות הטייסים</title>
   </programme>
-  <programme start="20220427020000 +0300" stop="20220427023000 +0300" channel="24">
+  <programme start="20220427015700 +0300" stop="20220427023000 +0300" channel="24">
     <title lang="he">חדש ב</title>
   </programme>
   <programme start="20220427023000 +0300" stop="20220427043000 +0300" channel="24">
@@ -3796,78 +3523,6 @@
   </programme>
   <programme start="20220429050000 +0300" stop="20220429053000 +0300" channel="24">
     <title lang="he">מיקס ישראלי</title>
-  </programme>
-  <programme start="20220425070000 +0300" stop="20220425080000 +0300" channel="hidabroot">
-    <title lang="he">על TV</title>
-  </programme>
-  <programme start="20220425080000 +0300" stop="20220425090000 +0300" channel="hidabroot">
-    <title lang="he">תוכניות ילדים</title>
-  </programme>
-  <programme start="20220425090000 +0300" stop="20220425100000 +0300" channel="hidabroot">
-    <title lang="he">הרב יצחק פנגר</title>
-  </programme>
-  <programme start="20220425100000 +0300" stop="20220425110000 +0300" channel="hidabroot">
-    <title lang="he">אחת אחת</title>
-  </programme>
-  <programme start="20220425110000 +0300" stop="20220425120000 +0300" channel="hidabroot">
-    <title lang="he">הרב אליהו עמר</title>
-  </programme>
-  <programme start="20220425120000 +0300" stop="20220425130000 +0300" channel="hidabroot">
-    <title lang="he">אחד על אחד</title>
-  </programme>
-  <programme start="20220425130000 +0300" stop="20220425140000 +0300" channel="hidabroot">
-    <title lang="he">להגיע רחוק</title>
-  </programme>
-  <programme start="20220425140000 +0300" stop="20220425150000 +0300" channel="hidabroot">
-    <title lang="he">הרב זמיר כהן</title>
-  </programme>
-  <programme start="20220425150000 +0300" stop="20220425160000 +0300" channel="hidabroot">
-    <title lang="he">על TV</title>
-  </programme>
-  <programme start="20220425160000 +0300" stop="20220425170000 +0300" channel="hidabroot">
-    <title lang="he">תוכניות ילדים</title>
-  </programme>
-  <programme start="20220425170000 +0300" stop="20220425180000 +0300" channel="hidabroot">
-    <title lang="he">המחסומים נופלים</title>
-  </programme>
-  <programme start="20220425180000 +0300" stop="20220425190000 +0300" channel="hidabroot">
-    <title lang="he">הרב יצחק פנגר</title>
-  </programme>
-  <programme start="20220425190000 +0300" stop="20220425200000 +0300" channel="hidabroot">
-    <title lang="he">הרב ראובן אלבז</title>
-  </programme>
-  <programme start="20220425200000 +0300" stop="20220425210000 +0300" channel="hidabroot">
-    <title lang="he">הרב הרצל חודר</title>
-  </programme>
-  <programme start="20220425210000 +0300" stop="20220425220000 +0300" channel="hidabroot">
-    <title lang="he">הלכה למעשה</title>
-  </programme>
-  <programme start="20220425220000 +0300" stop="20220425230000 +0300" channel="hidabroot">
-    <title lang="he">הרב זמיר כהן</title>
-  </programme>
-  <programme start="20220425230000 +0300" stop="20220426000000 +0300" channel="hidabroot">
-    <title lang="he">על TV</title>
-  </programme>
-  <programme start="20220426000000 +0300" stop="20220426010000 +0300" channel="hidabroot">
-    <title lang="he">שיעורי רבנים</title>
-  </programme>
-  <programme start="20220426010000 +0300" stop="20220426020000 +0300" channel="hidabroot">
-    <title lang="he">המחסומים נופלים</title>
-  </programme>
-  <programme start="20220426020000 +0300" stop="20220426030000 +0300" channel="hidabroot">
-    <title lang="he">הרב יצחק פנגר</title>
-  </programme>
-  <programme start="20220426030000 +0300" stop="20220426040000 +0300" channel="hidabroot">
-    <title lang="he">הרב ראובן אלבז</title>
-  </programme>
-  <programme start="20220426040000 +0300" stop="20220426050000 +0300" channel="hidabroot">
-    <title lang="he">הרב הרצל חודר</title>
-  </programme>
-  <programme start="20220426050000 +0300" stop="20220426060000 +0300" channel="hidabroot">
-    <title lang="he">הלכה למעשה</title>
-  </programme>
-  <programme start="20220426060000 +0300" stop="20220426070000 +0300" channel="hidabroot">
-    <title lang="he">הרב זמיר כהן</title>
   </programme>
   <programme start="20220426070000 +0300" stop="20220426080000 +0300" channel="hidabroot">
     <title lang="he">על TV</title>
@@ -4127,71 +3782,35 @@
   <programme start="20220429190000 +0300" stop="20220429220000 +0300" channel="hidabroot">
     <title lang="he">ערוץ הידברות - נשוב לשדר מחר ב</title>
   </programme>
-  <programme start="20220425073000 +0300" stop="20220425081500 +0300" channel="kneset">
-    <title lang="he">משכן חוזר</title>
+  <programme start="20220429220000 +0300" stop="20220429220000 +0300" channel="hidabroot">
+    <title lang="he">ערוץ הידברות - נשוב לשדר מחר ב</title>
   </programme>
-  <programme start="20220425081500 +0300" stop="20220425083000 +0300" channel="kneset">
-    <title lang="he">על סדר היום</title>
+  <programme start="20220429220000 +0300" stop="20220430020000 +0300" channel="hidabroot">
+    <title lang="he">ערוץ הידברות - נשוב לשדר מחר ב</title>
   </programme>
-  <programme start="20220425083000 +0300" stop="20220425093000 +0300" channel="kneset">
-    <title lang="he">האירוע הפוליטי של המדינה</title>
+  <programme start="20220430020000 +0300" stop="20220430060000 +0300" channel="hidabroot">
+    <title lang="he">ערוץ הידברות - נשוב לשדר ב</title>
   </programme>
-  <programme start="20220425093000 +0300" stop="20220425100000 +0300" channel="kneset">
-    <title lang="he">ועדה</title>
+  <programme start="20220430060000 +0300" stop="20220430100000 +0300" channel="hidabroot">
+    <title lang="he">ערוץ הידברות - נשוב לשדר ב</title>
   </programme>
-  <programme start="20220425100000 +0300" stop="20220425113000 +0300" channel="kneset">
-    <title lang="he">ועדה</title>
+  <programme start="20220430100000 +0300" stop="20220430140000 +0300" channel="hidabroot">
+    <title lang="he">ערוץ הידברות - נשוב לשדר ב</title>
   </programme>
-  <programme start="20220425113000 +0300" stop="20220425140000 +0300" channel="kneset">
-    <title lang="he">ועדה ישיר</title>
+  <programme start="20220430140000 +0300" stop="20220430180000 +0300" channel="hidabroot">
+    <title lang="he">ערוץ הידברות - נשוב לשדר ב</title>
   </programme>
-  <programme start="20220425140000 +0300" stop="20220425150000 +0300" channel="kneset">
-    <title lang="he">פרלמנט צהריים</title>
+  <programme start="20220430180000 +0300" stop="20220430200000 +0300" channel="hidabroot">
+    <title lang="he">ערוץ הידברות - נשוב לשדר ב</title>
   </programme>
-  <programme start="20220425150000 +0300" stop="20220425160000 +0300" channel="kneset">
-    <title lang="he">חדשות</title>
+  <programme start="20220430200000 +0300" stop="20220430210000 +0300" channel="hidabroot">
+    <title lang="he">הרב שניר גואטה</title>
   </programme>
-  <programme start="20220425160000 +0300" stop="20220425170000 +0300" channel="kneset">
-    <title lang="he">עיר אחת שני עמים</title>
+  <programme start="20220430210000 +0300" stop="20220430220000 +0300" channel="hidabroot">
+    <title lang="he">הרב דוד פריוף</title>
   </programme>
-  <programme start="20220425170000 +0300" stop="20220425180000 +0300" channel="kneset">
-    <title lang="he">חדשות</title>
-  </programme>
-  <programme start="20220425180000 +0300" stop="20220425190000 +0300" channel="kneset">
-    <title lang="he">פרלמנט צהריים</title>
-  </programme>
-  <programme start="20220425190000 +0300" stop="20220425193000 +0300" channel="kneset">
-    <title lang="he">תא הכתבים</title>
-  </programme>
-  <programme start="20220425193000 +0300" stop="20220425203000 +0300" channel="kneset">
-    <title lang="he">שחור לבן</title>
-  </programme>
-  <programme start="20220425203000 +0300" stop="20220425210000 +0300" channel="kneset">
-    <title lang="he">האזרח פרידמן</title>
-  </programme>
-  <programme start="20220425210000 +0300" stop="20220425220000 +0300" channel="kneset">
-    <title lang="he">האירוע הפוליטי של המדינה</title>
-  </programme>
-  <programme start="20220425220000 +0300" stop="20220425223000 +0300" channel="kneset">
-    <title lang="he">תא הכתבים</title>
-  </programme>
-  <programme start="20220425223000 +0300" stop="20220425230000 +0300" channel="kneset">
-    <title lang="he">משכן חוזר</title>
-  </programme>
-  <programme start="20220425230000 +0300" stop="20220425233000 +0300" channel="kneset">
-    <title lang="he">תעודה</title>
-  </programme>
-  <programme start="20220425233000 +0300" stop="20220426000000 +0300" channel="kneset">
-    <title lang="he">משחק חוץ</title>
-  </programme>
-  <programme start="20220426000000 +0300" stop="20220426040000 +0300" channel="kneset">
-    <title lang="he">ערוץ הכנסת</title>
-  </programme>
-  <programme start="20220426040000 +0300" stop="20220426070000 +0300" channel="kneset">
-    <title lang="he">ערוץ הכנסת</title>
-  </programme>
-  <programme start="20220426070000 +0300" stop="20220426073000 +0300" channel="kneset">
-    <title lang="he">תא הכתבים</title>
+  <programme start="20220430220000 +0300" stop="20220430230000 +0300" channel="hidabroot">
+    <title lang="he">הרב זמיר כהן</title>
   </programme>
   <programme start="20220426073000 +0300" stop="20220426081500 +0300" channel="kneset">
     <title lang="he">שחור לבן</title>
@@ -4381,78 +4000,6 @@
   </programme>
   <programme start="20220429000000 +0300" stop="20220429040000 +0300" channel="kneset">
     <title lang="he">ערוץ הכנסת</title>
-  </programme>
-  <programme start="20220425080000 +0300" stop="20220425090000 +0300" channel="halatv">
-    <title lang="he">היום הזה</title>
-  </programme>
-  <programme start="20220425090000 +0300" stop="20220425100000 +0300" channel="halatv">
-    <title lang="he">ראניה וסקינה</title>
-  </programme>
-  <programme start="20220425100000 +0300" stop="20220425110000 +0300" channel="halatv">
-    <title lang="he">אנסמבל נאגי אטאללה</title>
-  </programme>
-  <programme start="20220425110000 +0300" stop="20220425120000 +0300" channel="halatv">
-    <title lang="he">באב אל</title>
-  </programme>
-  <programme start="20220425120000 +0300" stop="20220425130000 +0300" channel="halatv">
-    <title lang="he">בערוץ האלא</title>
-  </programme>
-  <programme start="20220425130000 +0300" stop="20220425140000 +0300" channel="halatv">
-    <title lang="he">מראבה הלא</title>
-  </programme>
-  <programme start="20220425140000 +0300" stop="20220425150000 +0300" channel="halatv">
-    <title lang="he">מטבח הלה</title>
-  </programme>
-  <programme start="20220425150000 +0300" stop="20220425160000 +0300" channel="halatv">
-    <title lang="he">על מודע מע מעאד</title>
-  </programme>
-  <programme start="20220425160000 +0300" stop="20220425170000 +0300" channel="halatv">
-    <title lang="he">אל</title>
-  </programme>
-  <programme start="20220425170000 +0300" stop="20220425180000 +0300" channel="halatv">
-    <title lang="he">היום הזה</title>
-  </programme>
-  <programme start="20220425180000 +0300" stop="20220425190000 +0300" channel="halatv">
-    <title lang="he">בהשראת הרמדאן</title>
-  </programme>
-  <programme start="20220425190000 +0300" stop="20220425200000 +0300" channel="halatv">
-    <title lang="he">אנסמבל נאגי אטאללה</title>
-  </programme>
-  <programme start="20220425200000 +0300" stop="20220425203000 +0300" channel="halatv">
-    <title lang="he">מראבה הלא</title>
-  </programme>
-  <programme start="20220425203000 +0300" stop="20220425210000 +0300" channel="halatv">
-    <title lang="he">בערוץ האלא</title>
-  </programme>
-  <programme start="20220425210000 +0300" stop="20220425220000 +0300" channel="halatv">
-    <title lang="he">באב אל</title>
-  </programme>
-  <programme start="20220425220000 +0300" stop="20220425230000 +0300" channel="halatv">
-    <title lang="he">היום הזה</title>
-  </programme>
-  <programme start="20220425230000 +0300" stop="20220426000000 +0300" channel="halatv">
-    <title lang="he">אל</title>
-  </programme>
-  <programme start="20220426000000 +0300" stop="20220426010000 +0300" channel="halatv">
-    <title lang="he">הלא ריאדה</title>
-  </programme>
-  <programme start="20220426010000 +0300" stop="20220426020000 +0300" channel="halatv">
-    <title lang="he">ראניה וסקינה</title>
-  </programme>
-  <programme start="20220426020000 +0300" stop="20220426030000 +0300" channel="halatv">
-    <title lang="he">באב אל</title>
-  </programme>
-  <programme start="20220426030000 +0300" stop="20220426040000 +0300" channel="halatv">
-    <title lang="he">בערוץ האלא</title>
-  </programme>
-  <programme start="20220426040000 +0300" stop="20220426050000 +0300" channel="halatv">
-    <title lang="he">מראבה הלא</title>
-  </programme>
-  <programme start="20220426050000 +0300" stop="20220426060000 +0300" channel="halatv">
-    <title lang="he">אל</title>
-  </programme>
-  <programme start="20220426060000 +0300" stop="20220426080000 +0300" channel="halatv">
-    <title lang="he">היום הזה</title>
   </programme>
   <programme start="20220426080000 +0300" stop="20220426090000 +0300" channel="halatv">
     <title lang="he">היום הזה</title>
@@ -4727,125 +4274,77 @@
   <programme start="20220429220000 +0300" stop="20220429230000 +0300" channel="halatv">
     <title lang="he">על מודע מע מעאד</title>
   </programme>
-  <programme start="20220425063000 +0300" stop="20220425070000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">קובה שלי</title>
+  <programme start="20220429230000 +0300" stop="20220430000000 +0300" channel="halatv">
+    <title lang="he">אל</title>
   </programme>
-  <programme start="20220425070000 +0300" stop="20220425073000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220430000000 +0300" stop="20220430010000 +0300" channel="halatv">
+    <title lang="he">הכל בריאות</title>
   </programme>
-  <programme start="20220425073000 +0300" stop="20220425080000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מבוך התקשורת העולמית</title>
+  <programme start="20220430010000 +0300" stop="20220430020000 +0300" channel="halatv">
+    <title lang="he">ראניה וסקינה</title>
   </programme>
-  <programme start="20220425080000 +0300" stop="20220425083000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220430020000 +0300" stop="20220430030000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
   </programme>
-  <programme start="20220425083000 +0300" stop="20220425090000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מזרח 101</title>
+  <programme start="20220430030000 +0300" stop="20220430040000 +0300" channel="halatv">
+    <title lang="he">בערוץ האלא</title>
   </programme>
-  <programme start="20220425090000 +0300" stop="20220425093000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">שורה תחתונה</title>
+  <programme start="20220430040000 +0300" stop="20220430050000 +0300" channel="halatv">
+    <title lang="he">מראבה הלא</title>
   </programme>
-  <programme start="20220425093000 +0300" stop="20220425100000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">נוער רדיקאלי</title>
+  <programme start="20220430050000 +0300" stop="20220430060000 +0300" channel="halatv">
+    <title lang="he">אל</title>
   </programme>
-  <programme start="20220425100000 +0300" stop="20220425103000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220430060000 +0300" stop="20220430080000 +0300" channel="halatv">
+    <title lang="he">על מודע מע מעאד</title>
   </programme>
-  <programme start="20220425103000 +0300" stop="20220425110000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מאחורי הכותרות</title>
+  <programme start="20220430080000 +0300" stop="20220430090000 +0300" channel="halatv">
+    <title lang="he">הלא ריאדה</title>
   </programme>
-  <programme start="20220425110000 +0300" stop="20220425113000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220430090000 +0300" stop="20220430100000 +0300" channel="halatv">
+    <title lang="he">ראניה וסקינה</title>
   </programme>
-  <programme start="20220425113000 +0300" stop="20220425120000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">בפנים</title>
+  <programme start="20220430100000 +0300" stop="20220430110000 +0300" channel="halatv">
+    <title lang="he">אנסמבל נאגי אטאללה</title>
   </programme>
-  <programme start="20220425120000 +0300" stop="20220425123000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220430110000 +0300" stop="20220430120000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
   </programme>
-  <programme start="20220425123000 +0300" stop="20220425130000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">סטודיו B: מחוץ לתסריט</title>
+  <programme start="20220430120000 +0300" stop="20220430130000 +0300" channel="halatv">
+    <title lang="he">בערוץ האלא</title>
   </programme>
-  <programme start="20220425130000 +0300" stop="20220425140000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות השעה</title>
+  <programme start="20220430130000 +0300" stop="20220430140000 +0300" channel="halatv">
+    <title lang="he">מראבה הלא</title>
   </programme>
-  <programme start="20220425140000 +0300" stop="20220425143000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220430140000 +0300" stop="20220430150000 +0300" channel="halatv">
+    <title lang="he">אל</title>
   </programme>
-  <programme start="20220425143000 +0300" stop="20220425150000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מאחורי הכותרות</title>
+  <programme start="20220430150000 +0300" stop="20220430160000 +0300" channel="halatv">
+    <title lang="he">מאנועית אריין</title>
   </programme>
-  <programme start="20220425150000 +0300" stop="20220425160000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">עד</title>
+  <programme start="20220430160000 +0300" stop="20220430180000 +0300" channel="halatv">
+    <title lang="he">תשאלו את המופתי</title>
   </programme>
-  <programme start="20220425160000 +0300" stop="20220425170000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות השעה</title>
+  <programme start="20220430180000 +0300" stop="20220430183000 +0300" channel="halatv">
+    <title lang="he">מטבח האלא</title>
   </programme>
-  <programme start="20220425170000 +0300" stop="20220425173000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220430183000 +0300" stop="20220430190000 +0300" channel="halatv">
+    <title lang="he">בהשראת הרמדאן</title>
   </programme>
-  <programme start="20220425173000 +0300" stop="20220425180000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מדברים עם אל ג'זירה</title>
+  <programme start="20220430190000 +0300" stop="20220430200000 +0300" channel="halatv">
+    <title lang="he">אנסמבל נאגי אטאללה</title>
   </programme>
-  <programme start="20220425180000 +0300" stop="20220425190000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות השעה</title>
+  <programme start="20220430200000 +0300" stop="20220430203000 +0300" channel="halatv">
+    <title lang="he">מראבה הלא</title>
   </programme>
-  <programme start="20220425190000 +0300" stop="20220425193000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220430203000 +0300" stop="20220430210000 +0300" channel="halatv">
+    <title lang="he">בערוץ האלא</title>
   </programme>
-  <programme start="20220425193000 +0300" stop="20220425200000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חשבון הוצאות</title>
+  <programme start="20220430210000 +0300" stop="20220430220000 +0300" channel="halatv">
+    <title lang="he">באב אל</title>
   </programme>
-  <programme start="20220425200000 +0300" stop="20220425203000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220425203000 +0300" stop="20220425210000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מאחורי הכותרות</title>
-  </programme>
-  <programme start="20220425210000 +0300" stop="20220425220000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות השעה</title>
-  </programme>
-  <programme start="20220425220000 +0300" stop="20220425223000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220425223000 +0300" stop="20220425230000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">הרשת</title>
-  </programme>
-  <programme start="20220425230000 +0300" stop="20220426000000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">הקמפיין נגד האקלים</title>
-  </programme>
-  <programme start="20220426000000 +0300" stop="20220426010000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות השעה</title>
-  </programme>
-  <programme start="20220426010000 +0300" stop="20220426013000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220426013000 +0300" stop="20220426020000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">עד</title>
-  </programme>
-  <programme start="20220426020000 +0300" stop="20220426023000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220426023000 +0300" stop="20220426030000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">אנשים ועוצמה</title>
-  </programme>
-  <programme start="20220426030000 +0300" stop="20220426033000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220426033000 +0300" stop="20220426040000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מאחורי הכותרות</title>
-  </programme>
-  <programme start="20220426040000 +0300" stop="20220426050000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">עד</title>
-  </programme>
-  <programme start="20220426050000 +0300" stop="20220426053000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
-  </programme>
-  <programme start="20220426053000 +0300" stop="20220426060000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">מזרח 101</title>
-  </programme>
-  <programme start="20220426060000 +0300" stop="20220426063000 +0300" channel="ALJAZEERA ENGLISH">
-    <title lang="he">חדשות בשידור חי</title>
+  <programme start="20220430220000 +0300" stop="20220430230000 +0300" channel="halatv">
+    <title lang="he">על מודע מע מעאד</title>
   </programme>
   <programme start="20220426063000 +0300" stop="20220426070000 +0300" channel="ALJAZEERA ENGLISH">
     <title lang="he">סטודיו B: מחוץ לתסריט</title>
@@ -5282,269 +4781,125 @@
   <programme start="20220429230000 +0300" stop="20220429233000 +0300" channel="ALJAZEERA ENGLISH">
     <title lang="he">שורה תחתונה</title>
   </programme>
-  <programme start="20220425062500 +0300" stop="20220425063000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220429233000 +0300" stop="20220430000000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">אל ג'זירה בוחר</title>
   </programme>
-  <programme start="20220425063000 +0300" stop="20220425065500 +0300" channel="FTV white">
-    <title lang="he">פיטנס</title>
+  <programme start="20220430000000 +0300" stop="20220430010000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
   </programme>
-  <programme start="20220425065500 +0300" stop="20220425070000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220430010000 +0300" stop="20220430013000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425070000 +0300" stop="20220425072500 +0300" channel="FTV white">
-    <title lang="he">אופנת שנות ה</title>
+  <programme start="20220430013000 +0300" stop="20220430020000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חשבון הוצאות</title>
   </programme>
-  <programme start="20220425072500 +0300" stop="20220425073000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220430020000 +0300" stop="20220430023000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425073000 +0300" stop="20220425075500 +0300" channel="FTV white">
-    <title lang="he">טיפוח העור</title>
+  <programme start="20220430023000 +0300" stop="20220430030000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">סטודיו B: מחוץ לתסריט</title>
   </programme>
-  <programme start="20220425075500 +0300" stop="20220425080000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220430030000 +0300" stop="20220430033000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425080000 +0300" stop="20220425082500 +0300" channel="FTV white">
-    <title lang="he">מייקאפ</title>
+  <programme start="20220430033000 +0300" stop="20220430040000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
   </programme>
-  <programme start="20220425082500 +0300" stop="20220425083000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220430040000 +0300" stop="20220430050000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">העם נגד אייג'נט אורנג</title>
   </programme>
-  <programme start="20220425083000 +0300" stop="20220425085500 +0300" channel="FTV white">
-    <title lang="he">עיצובי שיער</title>
+  <programme start="20220430050000 +0300" stop="20220430053000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425085500 +0300" stop="20220425090000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220430053000 +0300" stop="20220430060000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
   </programme>
-  <programme start="20220425090000 +0300" stop="20220425092500 +0300" channel="FTV white">
-    <title lang="he">ספיישל נטליה וודיאנובה</title>
+  <programme start="20220430060000 +0300" stop="20220430063000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425092500 +0300" stop="20220425093000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220430063000 +0300" stop="20220430070000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מזרח 101</title>
   </programme>
-  <programme start="20220425093000 +0300" stop="20220425095500 +0300" channel="FTV white">
-    <title lang="he">ספיישל נטליה וודיאנובה</title>
+  <programme start="20220430070000 +0300" stop="20220430073000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425095500 +0300" stop="20220425100000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220430073000 +0300" stop="20220430080000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מדברים עם אל ג'זירה</title>
   </programme>
-  <programme start="20220425100000 +0300" stop="20220425102500 +0300" channel="FTV white">
-    <title lang="he">יעדים באופנה</title>
+  <programme start="20220430080000 +0300" stop="20220430083000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425102500 +0300" stop="20220425103000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220430083000 +0300" stop="20220430090000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">ישירות מאפריקה</title>
   </programme>
-  <programme start="20220425103000 +0300" stop="20220425105500 +0300" channel="FTV white">
-    <title lang="he">יעדים באופנה</title>
+  <programme start="20220430090000 +0300" stop="20220430100000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">עד</title>
   </programme>
-  <programme start="20220425105500 +0300" stop="20220425110000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220430100000 +0300" stop="20220430103000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425110000 +0300" stop="20220425112500 +0300" channel="FTV white">
-    <title lang="he">אופנת ילדים</title>
+  <programme start="20220430103000 +0300" stop="20220430110000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
   </programme>
-  <programme start="20220425112500 +0300" stop="20220425113000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220430110000 +0300" stop="20220430113000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425113000 +0300" stop="20220425115500 +0300" channel="FTV white">
-    <title lang="he">אופנת ילדים</title>
+  <programme start="20220430113000 +0300" stop="20220430120000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מבוך התקשורת העולמית</title>
   </programme>
-  <programme start="20220425115500 +0300" stop="20220425120000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220430120000 +0300" stop="20220430123000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425120000 +0300" stop="20220425122500 +0300" channel="FTV white">
-    <title lang="he">שבוע אופנת הגברים</title>
+  <programme start="20220430123000 +0300" stop="20220430130000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חשבון הוצאות</title>
   </programme>
-  <programme start="20220425122500 +0300" stop="20220425123000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220430130000 +0300" stop="20220430140000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
   </programme>
-  <programme start="20220425123000 +0300" stop="20220425130000 +0300" channel="FTV white">
-    <title lang="he">שבוע אופנת הגברים</title>
+  <programme start="20220430140000 +0300" stop="20220430143000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425130000 +0300" stop="20220425132500 +0300" channel="FTV white">
-    <title lang="he">סרטי אופנה</title>
+  <programme start="20220430143000 +0300" stop="20220430150000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
   </programme>
-  <programme start="20220425132500 +0300" stop="20220425133000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220430150000 +0300" stop="20220430153000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">שורה תחתונה</title>
   </programme>
-  <programme start="20220425133000 +0300" stop="20220425135500 +0300" channel="FTV white">
-    <title lang="he">סרטי אופנה</title>
+  <programme start="20220430153000 +0300" stop="20220430160000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">אל ג'זירה בוחר</title>
   </programme>
-  <programme start="20220425135500 +0300" stop="20220425140000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220430160000 +0300" stop="20220430170000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
   </programme>
-  <programme start="20220425140000 +0300" stop="20220425142500 +0300" channel="FTV white">
-    <title lang="he">אופנת החתונות</title>
+  <programme start="20220430170000 +0300" stop="20220430173000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425142500 +0300" stop="20220425143000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220430173000 +0300" stop="20220430180000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">הרשת</title>
   </programme>
-  <programme start="20220425143000 +0300" stop="20220425145500 +0300" channel="FTV white">
-    <title lang="he">אופנת החתונות</title>
+  <programme start="20220430180000 +0300" stop="20220430190000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
   </programme>
-  <programme start="20220425145500 +0300" stop="20220425150000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220430190000 +0300" stop="20220430193000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425150000 +0300" stop="20220425152500 +0300" channel="FTV white">
-    <title lang="he">הצילומים הטובים ביותר</title>
+  <programme start="20220430193000 +0300" stop="20220430200000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">אנשים ועוצמה</title>
   </programme>
-  <programme start="20220425152500 +0300" stop="20220425153000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
+  <programme start="20220430200000 +0300" stop="20220430203000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425153000 +0300" stop="20220425155500 +0300" channel="FTV white">
-    <title lang="he">הצילומים הטובים ביותר</title>
+  <programme start="20220430203000 +0300" stop="20220430210000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מאחורי הכותרות</title>
   </programme>
-  <programme start="20220425155500 +0300" stop="20220425160000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
+  <programme start="20220430210000 +0300" stop="20220430220000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות השעה</title>
   </programme>
-  <programme start="20220425160000 +0300" stop="20220425162500 +0300" channel="FTV white">
-    <title lang="he">אופנה צעירה</title>
+  <programme start="20220430220000 +0300" stop="20220430223000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">חדשות בשידור חי</title>
   </programme>
-  <programme start="20220425162500 +0300" stop="20220425163000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220425163000 +0300" stop="20220425165500 +0300" channel="FTV white">
-    <title lang="he">אופנה צעירה</title>
-  </programme>
-  <programme start="20220425165500 +0300" stop="20220425170000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220425170000 +0300" stop="20220425172500 +0300" channel="FTV white">
-    <title lang="he">ספיישל ברברי</title>
-  </programme>
-  <programme start="20220425172500 +0300" stop="20220425173000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220425173000 +0300" stop="20220425175500 +0300" channel="FTV white">
-    <title lang="he">ספיישל ברברי</title>
-  </programme>
-  <programme start="20220425175500 +0300" stop="20220425180000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220425180000 +0300" stop="20220425182500 +0300" channel="FTV white">
-    <title lang="he">תוצרת גרמניה</title>
-  </programme>
-  <programme start="20220425182500 +0300" stop="20220425183000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220425183000 +0300" stop="20220425185500 +0300" channel="FTV white">
-    <title lang="he">תוצרת גרמניה</title>
-  </programme>
-  <programme start="20220425185500 +0300" stop="20220425190000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220425190000 +0300" stop="20220425192500 +0300" channel="FTV white">
-    <title lang="he">מגזיני אופנה</title>
-  </programme>
-  <programme start="20220425192500 +0300" stop="20220425193000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220425193000 +0300" stop="20220425195500 +0300" channel="FTV white">
-    <title lang="he">מגזיני אופנה</title>
-  </programme>
-  <programme start="20220425195500 +0300" stop="20220425200000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220425200000 +0300" stop="20220425202500 +0300" channel="FTV white">
-    <title lang="he">יעדים באופנה</title>
-  </programme>
-  <programme start="20220425202500 +0300" stop="20220425203000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220425203000 +0300" stop="20220425205500 +0300" channel="FTV white">
-    <title lang="he">יעדים באופנה</title>
-  </programme>
-  <programme start="20220425205500 +0300" stop="20220425210000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220425210000 +0300" stop="20220425212500 +0300" channel="FTV white">
-    <title lang="he">חדשות האופנה</title>
-  </programme>
-  <programme start="20220425212500 +0300" stop="20220425213000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220425213000 +0300" stop="20220425215500 +0300" channel="FTV white">
-    <title lang="he">חדשות האופנה</title>
-  </programme>
-  <programme start="20220425215500 +0300" stop="20220425220000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220425220000 +0300" stop="20220425222500 +0300" channel="FTV white">
-    <title lang="he">ספיישל ברוס וובר</title>
-  </programme>
-  <programme start="20220425222500 +0300" stop="20220425223000 +0300" channel="FTV white">
-    <title lang="he">אנשי האופנה</title>
-  </programme>
-  <programme start="20220425223000 +0300" stop="20220425225500 +0300" channel="FTV white">
-    <title lang="he">ספיישל ברוס וובר</title>
-  </programme>
-  <programme start="20220425225500 +0300" stop="20220425230000 +0300" channel="FTV white">
-    <title lang="he">שבוע האופנה</title>
-  </programme>
-  <programme start="20220425230000 +0300" stop="20220425233000 +0300" channel="FTV white">
-    <title lang="he">דוגמניות על</title>
-  </programme>
-  <programme start="20220425233000 +0300" stop="20220425235500 +0300" channel="FTV white">
-    <title lang="he">דוגמניות על</title>
-  </programme>
-  <programme start="20220425235500 +0300" stop="20220426000000 +0300" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220426000000 +0300" stop="20220426003000 +0300" channel="FTV white">
-    <title lang="he">סודות חצות</title>
-  </programme>
-  <programme start="20220426003000 +0300" stop="20220426005500 +0300" channel="FTV white">
-    <title lang="he">סודות חצות</title>
-  </programme>
-  <programme start="20220426005500 +0300" stop="20220426010000 +0300" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220426010000 +0300" stop="20220426013000 +0300" channel="FTV white">
-    <title lang="he">תצוגת בגדי ים וחוף</title>
-  </programme>
-  <programme start="20220426013000 +0300" stop="20220426015500 +0300" channel="FTV white">
-    <title lang="he">תצוגת בגדי ים וחוף</title>
-  </programme>
-  <programme start="20220426015500 +0300" stop="20220426020000 +0300" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220426020000 +0300" stop="20220426023000 +0300" channel="FTV white">
-    <title lang="he">סרטי אופנה</title>
-  </programme>
-  <programme start="20220426023000 +0300" stop="20220426025500 +0300" channel="FTV white">
-    <title lang="he">סרטי אופנה</title>
-  </programme>
-  <programme start="20220426025500 +0300" stop="20220426030000 +0300" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220426030000 +0300" stop="20220426033000 +0300" channel="FTV white">
-    <title lang="he">מעצבי האופנה</title>
-  </programme>
-  <programme start="20220426033000 +0300" stop="20220426035500 +0300" channel="FTV white">
-    <title lang="he">מעצבי האופנה</title>
-  </programme>
-  <programme start="20220426035500 +0300" stop="20220426040000 +0300" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220426040000 +0300" stop="20220426043000 +0300" channel="FTV white">
-    <title lang="he">הצילומים הטובים ביותר</title>
-  </programme>
-  <programme start="20220426043000 +0300" stop="20220426045500 +0300" channel="FTV white">
-    <title lang="he">הצילומים הטובים ביותר</title>
-  </programme>
-  <programme start="20220426045500 +0300" stop="20220426050000 +0300" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220426050000 +0300" stop="20220426053000 +0300" channel="FTV white">
-    <title lang="he">דוגמניות על</title>
-  </programme>
-  <programme start="20220426053000 +0300" stop="20220426055500 +0300" channel="FTV white">
-    <title lang="he">דוגמניות על</title>
-  </programme>
-  <programme start="20220426055500 +0300" stop="20220426060000 +0300" channel="FTV white">
-    <title lang="he">מסיבות אופנה</title>
-  </programme>
-  <programme start="20220426060000 +0300" stop="20220426062500 +0300" channel="FTV white">
-    <title lang="he">פיטנס</title>
+  <programme start="20220430223000 +0300" stop="20220430230000 +0300" channel="ALJAZEERA ENGLISH">
+    <title lang="he">מבוך התקשורת העולמית</title>
   </programme>
   <programme start="20220426062500 +0300" stop="20220426063000 +0300" channel="FTV white">
     <title lang="he">אנשי האופנה</title>
