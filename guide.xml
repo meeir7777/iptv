@@ -203,8 +203,11 @@
   <programme start="20220511172800 +0300" stop="20220511180000 +0300" channel="kan black">
     <title lang="he">פגישה עם רוני קובן</title>
   </programme>
-  <programme start="20220511180000 +0300" stop="20220511190000 +0300" channel="kan black">
+  <programme start="20220511180000 +0300" stop="20220511183000 +0300" channel="kan black">
     <title lang="he">עצם העניין עם קלמן ליבסקינד</title>
+  </programme>
+  <programme start="20220511183000 +0300" stop="20220511190000 +0300" channel="kan black">
+    <title lang="he">העולם היום עם מיכל רשף</title>
   </programme>
   <programme start="20220511190000 +0300" stop="20220511194000 +0300" channel="kan black">
     <title lang="he">משחקי הכיס</title>
@@ -272,8 +275,11 @@
   <programme start="20220512065200 +0300" stop="20220512070000 +0300" channel="kan black">
     <title lang="he">כאן בכושר</title>
   </programme>
-  <programme start="20220512070000 +0300" stop="20220512100000 +0300" channel="kan black">
+  <programme start="20220512070000 +0300" stop="20220512080000 +0300" channel="kan black">
     <title lang="he">הבוקר הזה עם דב גיל</title>
+  </programme>
+  <programme start="20220512080000 +0300" stop="20220512100000 +0300" channel="kan black">
+    <title lang="he">נוביקסון</title>
   </programme>
   <programme start="20220512100000 +0300" stop="20220512120500 +0300" channel="kan black">
     <title lang="he">משחקי הכיס ברדיו</title>
@@ -849,7 +855,7 @@
     <title lang="he">חי בלילה</title>
   </programme>
   <programme start="20220511000100 +0300" stop="20220511003500 +0300" channel="12keshet">
-    <title lang="he">מה הלו''ז</title>
+    <title lang="he">מה הלו"ז?</title>
   </programme>
   <programme start="20220511003500 +0300" stop="20220511011500 +0300" channel="12keshet">
     <title lang="he">תכנית חיסכון</title>
@@ -951,10 +957,10 @@
     <title lang="he">חי בלילה</title>
   </programme>
   <programme start="20220511234500 +0300" stop="20220511234500 +0300" channel="12keshet">
-    <title lang="he">מה הלו''ז</title>
+    <title lang="he">מה הלו"ז?</title>
   </programme>
   <programme start="20220511234500 +0300" stop="20220512001000 +0300" channel="12keshet">
-    <title lang="he">מה הלו''ז</title>
+    <title lang="he">מה הלו"ז?</title>
   </programme>
   <programme start="20220512001000 +0300" stop="20220512011500 +0300" channel="12keshet">
     <title lang="he">בזמן שעבדתם</title>
@@ -1005,7 +1011,7 @@
     <title lang="he">גיא פינס</title>
   </programme>
   <programme start="20220512115500 +0300" stop="20220512122500 +0300" channel="12keshet">
-    <title lang="he">מה הלו''ז</title>
+    <title lang="he">מה הלו"ז?</title>
   </programme>
   <programme start="20220512122500 +0300" stop="20220512124500 +0300" channel="12keshet">
     <title lang="he">הקומה ה</title>
@@ -1104,7 +1110,7 @@
     <title lang="he">השיעור השבועי עם סיון רהב מאיר</title>
   </programme>
   <programme start="20220513113500 +0300" stop="20220513120000 +0300" channel="12keshet">
-    <title lang="he">מה הלו''ז</title>
+    <title lang="he">מה הלו"ז?</title>
   </programme>
   <programme start="20220513120000 +0300" stop="20220513123000 +0300" channel="12keshet">
     <title lang="he">הקומה ה</title>
@@ -1149,7 +1155,7 @@
     <title lang="he">גלית ואילנית</title>
   </programme>
   <programme start="20220514023500 +0300" stop="20220514030000 +0300" channel="12keshet">
-    <title lang="he">מה הלו''ז</title>
+    <title lang="he">מה הלו"ז?</title>
   </programme>
   <programme start="20220514030000 +0300" stop="20220514033000 +0300" channel="12keshet">
     <title lang="he">סיפור אומן</title>
@@ -1337,11 +1343,8 @@
   <programme start="20220511120500 +0300" stop="20220511123800 +0300" channel="13reshet">
     <title lang="he">מהשדה לצלחת</title>
   </programme>
-  <programme start="20220511123800 +0300" stop="20220511132500 +0300" channel="13reshet">
+  <programme start="20220511123800 +0300" stop="20220511135000 +0300" channel="13reshet">
     <title lang="he">המצעד המשפטי</title>
-  </programme>
-  <programme start="20220511132500 +0300" stop="20220511135000 +0300" channel="13reshet">
-    <title lang="he">הצינור</title>
   </programme>
   <programme start="20220511135000 +0300" stop="20220511145900 +0300" channel="13reshet">
     <title lang="he">אהבה חדשה</title>
@@ -1727,8 +1730,11 @@
   <programme start="20220511090000 +0300" stop="20220511110000 +0300" channel="Arutz20">
     <title lang="he">עכשיו בוקר עם</title>
   </programme>
-  <programme start="20220511110000 +0300" stop="20220511120000 +0300" channel="Arutz20">
+  <programme start="20220511110000 +0300" stop="20220511113000 +0300" channel="Arutz20">
     <title lang="he">חשבון פתוח עם נירה שניידרמן</title>
+  </programme>
+  <programme start="20220511113000 +0300" stop="20220511120000 +0300" channel="Arutz20">
+    <title lang="he">עכשיו נדל"ן</title>
   </programme>
   <programme start="20220511120000 +0300" stop="20220511130000 +0300" channel="Arutz20">
     <title lang="he">ריקילין ושות' עם שמעון ריקלין</title>
@@ -1766,8 +1772,11 @@
   <programme start="20220511220000 +0300" stop="20220511224500 +0300" channel="Arutz20">
     <title lang="he">עשר עם שרה ב''ק</title>
   </programme>
-  <programme start="20220511224500 +0300" stop="20220512000000 +0300" channel="Arutz20">
+  <programme start="20220511224500 +0300" stop="20220511233000 +0300" channel="Arutz20">
     <title lang="he">האולפן הפתוח עם בועז גולן</title>
+  </programme>
+  <programme start="20220511233000 +0300" stop="20220512000000 +0300" channel="Arutz20">
+    <title lang="he">עכשיו נדל"ן</title>
   </programme>
   <programme start="20220512000000 +0300" stop="20220512010000 +0300" channel="Arutz20">
     <title lang="he">הפטריוטים עם ינון מגל</title>
